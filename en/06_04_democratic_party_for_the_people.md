@@ -2,6 +2,8 @@
 
 Written by: tokoroten
 
+English translation by Luke Closs
+
 ## The Democratic Party for the People’s Elections and Broad Listening: An Interview with Diet Member Takae Ito
 
 In March 2026, I interviewed Diet Member Takae Ito at the House of Councillors Members’ Office Building, along with Mr. Yamada of Santo General Planning, who was responsible for developing and operating the AI system. Based on that interview, this section describes how the Democratic Party for the People used broad listening in the July 2025 House of Councillors election and the February 2026 House of Representatives election.

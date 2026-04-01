@@ -2,6 +2,8 @@
 
 Written by tokoroten, nishio, and sumino
 
+English translation by Luke Closs
+
 ## About Digital Democracy 2030
 
 Digital Democracy 2030 (DD2030) is a nonprofit open-source project jointly launched in January 2025 by AI engineer Takahiro Anno and Ken Suzuki, Chairman of the Board at SmartNews and Project Researcher at the University of Tokyo. Ken Suzuki is known as the author of *Namerakana Shakai to Sono Teki* (*The Smooth Society and Its Enemies*), and has long explored the possibilities of digital democracy from the perspectives of complex systems science and natural philosophy. He has been deeply involved in shaping DD2030’s intellectual foundation.

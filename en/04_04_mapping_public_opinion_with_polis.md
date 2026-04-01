@@ -2,6 +2,8 @@
 
 By Yasuo Nishio
 
+English translation by Luke Closs
+
 “Public opinion” is often forced onto a single axis: right/left, conservative/liberal, for/against. But reality is not that simple.
 
 The same person may stand with you on one issue and take the exact opposite side on another. People’s views do not line up neatly on a straight line; they hold different positions across a range of issues, distributed in complex ways. Could that complex structure be visualized as a “map”?

@@ -45,7 +45,7 @@ The Anno campaign collected voters’ voices through multiple channels.
 
 **AI voice phone**: By combining IP telephony with highly real-time speech-to-text, the campaign connected telephone calls to the AI Anno question-and-answer system. This was designed as a way for people less comfortable with electronic text input to interact through the more familiar medium of voice. Like the questions submitted to AI Anno on YouTube, this also became a useful information source.
 
-**My Number Voting**: POCKETSIGN released “My Number Voting,” an experimental electronic voting app that allowed users to express support or opposition to policies after verifying their identity with a My Number card[^mainatohyo]. Mr. Anno introduced it on his official website and also received the voting data. This later became input data for the Polis analysis discussed below.
+**My Number Voting**: POCKETSIGN released “My Number Voting,” an experimental electronic voting app that allowed users to express support or opposition to policies after verifying their identity with a My Number card under My Number, Japan’s national ID system[^mainatohyo]. Mr. Anno introduced it on his official website and also received the voting data. This later became input data for the Polis analysis discussed below.
 
 [^mainatohyo]: https://prtimes.jp/main/html/rd/p/000000036.000110743.html
 
@@ -126,7 +126,7 @@ When people hear that social media posts are being used as policy input, concern
 
 In materials submitted by Mr. Anno to the second meeting of the Digital Administrative and Fiscal Reform Strategy Team (March 25, 2025), under the Cabinet Secretariat’s Digital Administrative and Fiscal Reform Council, he proposed combining Talk to the City with smartphone-based My Number functionality to enable one-person-one-vote participation, and also suggested that My Number card authentication could be used as a countermeasure against cognitive warfare on deliberative platforms.
 
-On June 24, 2024, through cooperation between the Digital Agency and Apple, My Number card functionality became available on the iPhone. This made it possible to use the electronic certificates on the My Number card through integration with Apple’s systems, eliminating the need to physically scan the card when logging into services such as Mynaportal. The author uses it as well, and it is extremely convenient.
+On June 24, 2024, through cooperation between the Digital Agency and Apple, My Number card functionality became available on the iPhone. This made it possible to use the electronic certificates on the My Number card through integration with Apple’s systems, eliminating the need to physically scan the card when logging into services such as Mynaportal, Japan’s online government services portal. The author uses it as well, and it is extremely convenient.
 
 Against this backdrop of steady progress in the My Number system, My Number Voting was released on June 21, 2024[^mynavote]. It allowed people to express direct support or opposition not to politicians but to policies. In this experiment, users answered questions such as, “Should redevelopment proceed in Meiji Jingu Gaien by rebuilding Jingu Stadium and Chichibunomiya Rugby Stadium and constructing new high-rise buildings?” and “Given the current concentration of population in Tokyo, should this population distribution continue to be maintained in the future?” The experiment demonstrated that it was possible both to restrict participation to one vote per person and to obtain analysis results limited to Tokyo residents.
 

@@ -2,6 +2,8 @@
 
 By Keisuke Ariga (Representative Director, Boots Inc.)
 
+English translation by Luke Closs
+
 ## Introduction
 
 This article introduces the current state and future outlook of broad listening from a practical, real-world perspective, drawing on support cases handled by Boots Inc., which helps local governments, companies, and organizations implement broad listening, as well as the insights gained from those efforts.

@@ -2,6 +2,8 @@
 
 Author: @tokoroten
 
+English translation by Luke Closs
+
 ## Key Points of This Chapter
 
 Chapter 1 introduced three forms of broad listening: broad listening as a tool, broad listening as support for augmented deliberation, and politician-/government-led broad listening. Chapter 2 explained the characteristics of **broad listening as a tool**—qualitative analysis, open agenda-setting, and limits of representativeness.
@@ -167,7 +169,7 @@ The basic cycle for connecting broad listening to democratic processes is as fol
 
 Decision-makers actively listen to citizens, use AI to structure and analyze what they hear, respond through policy or planning, and then seek further input. It is not “listen once and stop,” but a cycle in which opinion collection and analysis are repeated, gradually refining the granularity of the issue map. This corresponds to the form introduced in Chapter 1 as **politician-/government-led broad listening**.
 
-For politicians, representative examples include Takahiro Anno’s Tokyo governor election initiative and the Democratic Party for the People’s Kokumin AI Project (see Chapter 4). For government administration, the Tokyo Metropolitan Government’s “Shin Tokyo 2050” project collected about 27,000 opinions from residents and used them in formulating a long-term strategy (see Chapter 5). Because this approach can be practiced even by a single politician or a small administrative team, and because implementation costs are relatively low, it has become the main pathway for the spread of broad listening in Japan.
+For politicians, representative examples include Takahiro Anno’s Tokyo governor election initiative and the Democratic Party for the People’s Kokumin AI Project (see Chapter 4). For government administration, the Tokyo Metropolitan Government’s “Shin Tokyo 2050” (“New Tokyo 2050”) project collected about 27,000 opinions from residents and used them in formulating a long-term strategy (see Chapter 5). Because this approach can be practiced even by a single politician or a small administrative team, and because implementation costs are relatively low, it has become the main pathway for the spread of broad listening in Japan.
 
 ### Key Points at Each Step
 

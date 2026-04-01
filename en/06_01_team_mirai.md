@@ -4,6 +4,8 @@ Written by: Yasukazu Nishio
 (Footnote:  
 This section is a reconstruction for this book based on the author’s blog post, [Insights Gained from Team Mirai’s Social Experiment, the “Talkable Platform”](https://note.com/nishiohirokazu/n/nb35e8d526fd4).)
 
+English translation by Luke Closs
+
 In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai,” and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
 
 This chapter explains how the broad listening process evolved during that election period, focusing on the “talkable platform” that was operated throughout the campaign.

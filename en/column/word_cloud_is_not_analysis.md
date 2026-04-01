@@ -2,6 +2,8 @@
 
 By: @tokoroten
 
+English translation by Luke Closs
+
 When local governments and companies report the results of open-ended survey responses, a "word cloud" often makes an appearance. A colorful graphic is included, and the report says, "We analyzed the voices of citizens." But can a word cloud really be called "analysis"?
 
 ![Example of a word cloud](02_political_wordcloud.png)

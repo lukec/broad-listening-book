@@ -18,7 +18,7 @@ The experiment also showed that listening to expert lectures did not simply caus
 
 After the deliberation, participants showed greater interest in public issues, came to recognize that they had both the right and the ability to think about such issues, and became more likely to discuss policy with others. In other words, participation in public discussion created a virtuous cycle: understanding and confidence increased, which in turn made further participation easier.
 
-Similar efforts were called *gongmin huiyi* (“citizen consensus conferences”). Between 2004 and 2005, Taiwan held a total of 22 such conferences. This series of experiments became the foundation of Taiwan’s deliberative culture.
+Similar efforts were called gongmin huiyi (“citizen conference”). Between 2004 and 2005, Taiwan held a total of 22 such conferences. This series of experiments became the foundation of Taiwan’s deliberative culture.
 
 ## The path to the birth of vTaiwan
 
@@ -206,7 +206,7 @@ Taiwan’s case shows one path toward increasing the representativeness of delib
 
 ## Cultivating a deliberative community
 
-Taiwan’s experience can be understood as a history not of creating one deliberative method and stopping there, but of repeatedly improving it. Beginning with the small-scale citizen consensus conferences of 2002, moving through the online deliberation of vTaiwan led by the g0v community, and then to the mini-publics of the Alignment Assembly, the institutions evolved step by step.
+Taiwan’s experience can be understood as a history not of creating one deliberative method and stopping there, but of repeatedly improving it. Beginning with small-scale citizen conferences in 2002, moving through the online deliberation of vTaiwan led by the g0v community, and then to the mini-publics of the Alignment Assembly, the institutions evolved step by step.
 
 Each stage had its limitations. Small-scale deliberation lacked representativeness; online deliberation suffered from participant bias; and even mini-publics cannot completely avoid bias among those who choose to apply.
 But what is interesting about Taiwan is that it did not demand perfection from the outset. Instead, it repeatedly carried out experiments that were feasible at each moment and used them as material for the next round of institutional design.

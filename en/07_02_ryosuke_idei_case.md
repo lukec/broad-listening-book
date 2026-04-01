@@ -2,6 +2,8 @@
 
 Author: tokoroten
 
+English translation by Luke Closs
+
 ## A Challenge from a Nakano City Council Member: The Case of Ryosuke Idei
 
 We interviewed Ryosuke Idei, a former Liberal Democratic Party member of the Nakano City Council, about how he used AI-powered public listening in the June 2025 Tokyo Metropolitan Assembly election and what insights he gained from it. (Interview conducted in January 2026)

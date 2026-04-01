@@ -2,6 +2,8 @@
 
 Author: @tokoroten
 
+English translation by Luke Closs
+
 ## The Difference Between Closed Questions and Open Questions
 
 As discussed in the previous chapter, broad listening is an attempt to overcome the trade-off that "if you pursue scale, you sacrifice depth of opinion; if you pursue depth, scale becomes limited." In this chapter, we will unpack why this trade-off arises by examining the difference between closed questions and open questions.

@@ -2,6 +2,8 @@
 
 Written by: @tokoroten
 
+English translation by Luke Closs
+
 This section is based on the Hiroshima AI Lab annual report, records of responses in the Hiroshima Prefectural Assembly, materials published on the prefecture’s official website, and interviews with Hiroshima AI Lab staff.
 
 ### The Cost of “Reading” Was Too High to Put Diverse Voices to Use in Policymaking
@@ -23,7 +25,7 @@ In the end, 2,953 submissions were collected. Public Voice AI analyzed them and 
 
 At the same time, challenges remained on the collection side. In interviews, prefectural staff reflected that “at first, we wanted to gather opinions from social media and younger people, but we weren’t able to get many.” Because the outreach was conducted as an extension of conventional survey methods, respondents appear to have skewed toward people already close to government, such as staff and their families, and did not reach social media users or younger demographics very effectively.
 
-The results reflect this. The largest cluster was “Digital Coexistence for Seniors and Local Communities” (347 responses), but overall, clusters related to administrative and everyday procedures stood out: “More Flexible and Efficient Administrative Procedures” (183), “More Efficient Everyday Procedures Through My Number Utilization” (160), “Online Access to Everyday Procedures” (159), “Simplified Child-Rearing Procedures and Better Information Provision” (128), “Promoting Online Voting” (114), and “Digitalization for More Efficient Work and Daily Life” (95). Administrative and procedural topics alone accounted for more than a quarter of all responses.
+The results reflect this. The largest cluster was “Digital Coexistence for Seniors and Local Communities” (347 responses), but overall, clusters related to administrative and everyday procedures stood out: “More Flexible and Efficient Administrative Procedures” (183), “More Efficient Everyday Procedures Through My Number Utilization” (160; My Number, Japan’s national ID system), “Online Access to Everyday Procedures” (159), “Simplified Child-Rearing Procedures and Better Information Provision” (128), “Promoting Online Voting” (114), and “Digitalization for More Efficient Work and Daily Life” (95). Administrative and procedural topics alone accounted for more than a quarter of all responses.
 
 The call was intended to gather visions for digitalization across a wide range of areas—work, daily life, communities, and government—but because respondents skewed toward people closer to government, that bias also appeared in the distribution of opinions. As for opinions submitted on X using the hashtag “#広島デジタル,” there were only two[^hiroshima_x_hashtag]. **Who you reach determines what comes back.** As discussed in Chapter 2, broad listening is not a tool for “collecting opinions” but for “structuring the opinions that have been collected.” Gathering opinions requires separate mechanisms, and the design of collection itself is what determines whether broad listening succeeds or fails.
 

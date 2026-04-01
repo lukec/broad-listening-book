@@ -2,6 +2,8 @@
 
 Kai Tanaka (Representative, Litela Inc.)
 
+English translation by Luke Closs
+
 ## Introduction
 
 “Normally, you have to listen at the table for about five minutes before you can catch up, but with this, you can understand right away.”

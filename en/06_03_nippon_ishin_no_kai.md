@@ -2,6 +2,8 @@
 
 Author: tokoroten
 
+English translation by Luke Closs
+
 ## Nippon Ishin no Kai Uses Broad Listening for Policy Development
 
 This section is not based on direct interviews with Nippon Ishin no Kai, but is instead compiled from publicly available information, including the party’s official website, official YouTube channels, published materials, and news coverage.

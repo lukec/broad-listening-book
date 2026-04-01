@@ -2,9 +2,11 @@
 
 Written by: tokoroten
 
+English translation by Luke Closs
+
 ## 5.1 The Challenge of a City of 14 Million: The Shin Tokyo 2050 Project
 
-On November 22, 2024, the Tokyo Metropolitan Government launched the [“Shin Tokyo 2050” Project, Created by Everyone](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/ikenbosyu). The initiative aimed to gather residents’ views broadly as part of formulating a new long-term strategy, the “Tokyo 2050 Strategy,” looking ahead to the 2050s. The strategy’s tagline was “Tokyo, Better Than Ever.” It was developed under a vision of realizing “Tokyo, the world’s greatest city,” where everyone can shine and each individual can feel happiness.
+On November 22, 2024, the Tokyo Metropolitan Government launched the [“Shin Tokyo 2050” Project, Created by Everyone](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/choki-plan/ikenbosyu). In this chapter, we refer to this initiative as Shin Tokyo 2050 (“New Tokyo 2050”). The initiative aimed to gather residents’ views broadly as part of formulating a new long-term strategy, the “Tokyo 2050 Strategy,” looking ahead to the 2050s. The strategy’s tagline was “Tokyo, Better Than Ever.” It was developed under a vision of realizing “Tokyo, the world’s greatest city,” where everyone can shine and each individual can feel happiness.
 
 Traditionally, the standard way for government to hear from citizens has been the public comment process. But public comments have clear limits. Only a subset of highly engaged people tends to respond to formal calls for input, and the number of submissions often remains in the hundreds. In Tokyo, with a population of more than 14 million, it is unrealistic to claim that “public opinion” can be understood at that scale.
 

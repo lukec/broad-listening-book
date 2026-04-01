@@ -2,6 +2,10 @@
 
 Commentary by Takahiro Anno
 
+English translation by Luke Closs
+
+*Translation note (English edition): Original Japanese authorship is preserved throughout this book. Any errors in the English translation are the translator’s own.*
+
 TODO: Incorporate the latest version as appropriate: https://docs.google.com/document/d/13P7PDVu1IlM4EEr43dnW8KUGDi5HiZuamTut3XbOBP4/edit?tab=t.h9b0y89f3vv3
 
 
@@ -17,11 +21,11 @@ That said, the technologies and practices discussed in this book are still in th
 
 Behind this conviction lies a major technological and intellectual shift. One element is the idea of “Plurality,” advocated by Audrey Tang and others in Taiwan: not a democracy based merely on majority rule, but one in which multiple perspectives coexist while seeking agreement. Another is the emergence of large language models (LLMs), which can articulate tacit knowledge and structure vast amounts of text.
 
-Against this backdrop of new ideas and technologies, the author has been experimenting with how to implement Broad Listening in the real-world settings of Japanese elections, government administration, and the Japanese Parliament. Originally an AI engineer who founded an AI startup, the author ran in the 2024 Tokyo governor election and proposed bringing technology into the electoral process. That same year, he became an advisor to GovTech Tokyo, a Tokyo metropolitan digital-policy affiliate, and explored whether these technologies could be used in local government policymaking. In January 2025, he co-founded the civic tech organization *Digital Democracy 2030* with Ken Suzuki. In May 2025, he launched Team Mirai (referred to as “Team Future” in this book), a political party, which won seats in the July House of Councillors election. He is now working from within Nagatacho, as the leader of a national political party, to “update democracy through digital technology.”
+Against this backdrop of new ideas and technologies, the author has been experimenting with how to implement Broad Listening in the real-world settings of Japanese elections, government administration, and the Japanese Parliament. Originally an AI engineer who founded an AI startup, the author ran in the 2024 Tokyo governor election and proposed bringing technology into the electoral process. That same year, he became an advisor to GovTech Tokyo, a Tokyo metropolitan digital-policy affiliate, and explored whether these technologies could be used in local government policymaking. In January 2025, he co-founded the civic tech organization *Digital Democracy 2030* with Ken Suzuki. In May 2025, he launched Team Mirai (referred to as “Team Future” in this book), a political party, which won seats in the July House of Councillors election. He is now working from within Nagatacho, Japan’s political center, as the leader of a national political party, to “update democracy through digital technology.”
 
 ## A Trail of Trial and Error
 
-To illustrate the effort to implement Broad Listening, I would like to introduce four initiatives the author has worked on: (1) “Platform as Code” and AI-powered public listening in the Tokyo governor election, (2) “Shin Tokyo 2050,” which brought that know-how into government administration, (3) “Idobata Policy” in the House of Councillors election, and (4) the use of an AI interviewer after becoming a member of the Japanese Parliament.
+To illustrate the effort to implement Broad Listening, I would like to introduce four initiatives the author has worked on: (1) “Platform as Code” and AI-powered public listening in the Tokyo governor election, (2) “Shin Tokyo 2050” (“New Tokyo 2050”), which brought that know-how into government administration, (3) “Idobata Policy” in the House of Councillors election, and (4) the use of an AI interviewer after becoming a member of the Japanese Parliament.
 
 ### 1. Tokyo Governor Election: Treating the Platform as “Code”
 

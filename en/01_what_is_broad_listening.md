@@ -2,6 +2,8 @@
 
 Author: @tokoroten
 
+English translation by Luke Closs
+
 ## Purpose of This Book
 
 This book explains “broad listening,” as it has been practiced in Japanese elections and public administration from 2024 to 2025. As Takahiro Anno noted in the preface, broad listening is still a very new technology and a practical activity in its infancy. This book aims to help readers understand broad listening and put it into practice themselves by systematically covering its core concepts, technical mechanisms, and real-world use cases.
@@ -116,7 +118,7 @@ Tools that support augmented deliberation include the following:
 | Consider.it | A deliberation tool that visualizes both pros and cons. Participants express their views on a slider and write reasons for both support and opposition. It allows users to see the distribution of support and opposition, along with reasons, for each issue |
 | All Our Ideas | An open-source opinion-collection tool developed by Princeton University. By repeating pairwise comparison voting, it efficiently identifies group priorities across a large number of options |
 | Stanford Online Deliberation Platform | A video deliberation platform developed by Stanford University. AI moderators help ensure fairness in speaking opportunities and support structured deliberation in small groups of 8–15 people. It has been used in more than 120 deliberations across over 50 countries |
-| Baisoku Kaigi | An AI facilitation support tool developed by Multiverse Reality, founded by Aoyama, the developer of “Idobata.” Based on participants’ responses, AI generates real-time follow-up questions and automatically structures responses into “points of agreement,” “points of disagreement,” and “unclear points.” It delivers the quality of interviews at the speed of surveys, supporting everything from pre-meeting alignment to automatic generation of deliberation analysis reports. It is used in corporate management meetings and local government resident meetings (discussed in detail in Chapter 11) |
+| Baisoku Kaigi | Baisoku Kaigi, an AI-supported “fast-track meeting” tool, developed by Multiverse Reality, founded by Aoyama, the developer of “Idobata.” Based on participants’ responses, AI generates real-time follow-up questions and automatically structures responses into “points of agreement,” “points of disagreement,” and “unclear points.” It delivers the quality of interviews at the speed of surveys, supporting everything from pre-meeting alignment to automatic generation of deliberation analysis reports. It is used in corporate management meetings and local government resident meetings (discussed in detail in Chapter 11) |
 | Idobata | A Japanese-language deliberation platform developed by Digital Democracy 2030. Inspired by Taiwan’s vTaiwan, it includes AI-based opinion organization and visualization functions to support large-scale citizen-participatory policy discussions |
 | D-Agree | An online AI discussion system developed by AGREEBIT. It uses AI and multi-agent technology to support discussion facilitation and consensus-building |
 | Liqlid | A citizen-participation platform developed by Liquitous. It includes AI-based comment filtering and clustering functions and has been introduced in local governments in Japan |
@@ -136,7 +138,7 @@ The Democratic Party for the People and the Japan Innovation Party have also ref
 
 In particular, in the 2025 House of Councillors election, Team Mirai (referred to as "Team Future" in this book) operated a “talkable platform,” updating its electoral platform through dialogue with voters, while the Japan Innovation Party used broad listening to frame the issue of social insurance premium reform. Broad listening is thus becoming a de facto standard strategy for discovering campaign issues and drafting campaign pledges (see Chapter 6).
 
-The same pattern is spreading in public administration. In Tokyo’s “Shin Tokyo 2050” project, approximately 27,000 opinions were collected from residents and used in formulating a long-term strategy (see Chapter 5). More and more local governments are also incorporating broad listening into their planning cycles (see Chapter 8).
+The same pattern is spreading in public administration. In Tokyo’s “Shin Tokyo 2050” (“New Tokyo 2050”) project, approximately 27,000 opinions were collected from residents and used in formulating a long-term strategy (see Chapter 5). More and more local governments are also incorporating broad listening into their planning cycles (see Chapter 8).
 
 Although this differs in form from augmented deliberation, in which citizens debate directly with one another, this style—in which politicians and public agencies actively listen to citizens and respond—is consistent with the spirit of deliberative democracy. The case-study chapters beginning with Chapter 4 discuss this in detail.
 

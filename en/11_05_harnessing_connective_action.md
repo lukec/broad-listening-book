@@ -2,6 +2,8 @@
 
 By @tokoroten
 
+English translation by Luke Closs
+
 In this chapter, we have examined a range of broad listening tools and practices, including Polis and Taiwan’s vTaiwan. What common problem are they all trying to solve? As a framework for thinking about that question, the two movement types proposed by political scientists W. Lance Bennett and Alexandra Segerberg in their 2012 paper “The Logic of Connective Action” are highly useful.[^1]
 
 Because *collective* and *connective* sound similar, they are often confused. In this book, we will render *Collective Action* as “organizational action” and *Connective Action* as “networked action.” Note that what this section borrows from Bennett and Segerberg is only the conceptual distinction between these two movement types. The later discussion of bargaining power, institutional linkage, and the four-quadrant model is the author’s own analysis.
@@ -50,7 +52,7 @@ The diagram below organizes the relationship between Collective Action and Conne
 
 - **Upper left** (Collective Action + negotiable): This is where political parties, labor unions, and industry associations are located. They pursue their goals through formal political procedures such as parliamentary activity, collective bargaining, and petitions.
 
-In Japan, the annual spring labor offensive (*shuntō*) is a classic example. RENGO (the Japanese Trade Union Confederation) sets target wage increases, affiliated unions negotiate with management, and if no agreement is reached, they go on strike. The power to “start” and “end” that strike is precisely the source of bargaining power. At first glance, a workers’ strike may look confrontational, but it is an exercise of the “right of collective action” guaranteed by Article 28 of the Constitution of Japan, and is therefore positioned within the institutional order. Because it is a legally recognized right, management has no choice but to come to the table.
+In Japan, shunto, Japan’s annual spring wage negotiations, is a classic example. RENGO (the Japanese Trade Union Confederation) sets target wage increases, affiliated unions negotiate with management, and if no agreement is reached, they go on strike. The power to “start” and “end” that strike is precisely the source of bargaining power. At first glance, a workers’ strike may look confrontational, but it is an exercise of the “right of collective action” guaranteed by Article 28 of the Constitution of Japan, and is therefore positioned within the institutional order. Because it is a legally recognized right, management has no choice but to come to the table.
 
 Industry associations operate through the same structure. The Japan Medical Association sends members to the Central Social Insurance Medical Council, an advisory body of the Ministry of Health, Labour and Welfare, and directly influences the setting of reimbursement rates for medical services, which are revised every two years. Member physicians are also local voters, and their organized voting power is a source of influence over politicians. Agricultural cooperatives (JA) function similarly. During negotiations over the TPP (Trans-Pacific Partnership), they strongly opposed the elimination or reduction of agricultural tariffs and, through coordination with politicians tied to agricultural interests, had major influence over the course of negotiations.
 

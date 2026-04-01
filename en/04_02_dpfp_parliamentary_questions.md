@@ -2,6 +2,8 @@
 
 Author: tokoroten
 
+English translation by Luke Closs
+
 ## The Democratic Party for the People Uses an "Issue Map" in Questioning the Government in the Japanese Parliament
 
 ### Making the Voices of the "Employment Ice Age" Generation Visible and Pointing Out Policy Bias

@@ -2,6 +2,8 @@
 
 Tomoki Takate (Democracy X)
 
+English translation by Luke Closs
+
 ## Introduction
 
 This chapter introduces the work of Democracy X in advancing the implementation of digital democracy at the local level. Democracy X is a hands-on platform established to bring digital democracy to local communities in a broad and practical way.

@@ -75,6 +75,13 @@ Hard requirements:
 - Preserve heading levels, lists, tables, links, code fences, and footnote anchors.
 - Keep image paths and URLs unchanged.
 - Translate image alt text and normal prose.
+- Do not add first-use gloss expansions inside headings. Keep headings concise and natural;
+  apply glosses only in body text.
+- Preserve original author/byline credit in each chapter.
+- If a chapter has an explicit author/byline line near the top, add a separate line
+  immediately below it: "English translation by Luke Closs".
+- Do not add repeated fault-disclaimer text in every chapter; keep such a note only where
+  already present in the manuscript front matter.
 - Return only translated markdown with no preface or code fences.
 
 Terminology localization preferences (for a Western audience):
@@ -98,6 +105,58 @@ Terminology localization preferences (for a Western audience):
   Example: 日本維新の会 should be translated as
   "Japan Innovation Party (Nippon Ishin no Kai)" on first mention,
   then "Japan Innovation Party" thereafter.
+
+Term-handling rules for the English manuscript:
+- Baisoku Kaigi:
+  keep as a product/brand name. On first mention in a chapter or section, use
+  "Baisoku Kaigi, an AI-supported 'fast-track meeting' tool".
+  On later mentions, use "Baisoku Kaigi".
+- My Number:
+  on first mention in a chapter or section, use
+  "My Number, Japan's national ID system".
+  On later mentions, use "My Number".
+- Jibungotokaigi:
+  normalize inconsistent spellings to "Jibungotokaigi".
+  On first mention in a chapter or section, use
+  "Jibungotokaigi, a citizen meeting designed to make public issues feel personally relevant".
+  On later mentions, use "Jibungotokaigi".
+- Shin Tokyo 2050:
+  keep the original name as branding.
+  On first mention in a chapter or section, prefer
+  "Shin Tokyo 2050 ('New Tokyo 2050')".
+  On later mentions, use "Shin Tokyo 2050".
+- jigyo shiwake:
+  keep and gloss on first mention as
+  "jigyo shiwake, Japan's administrative budget-screening process".
+  Later mentions: "jigyo shiwake".
+- Nagatacho:
+  keep and gloss on first mention as
+  "Nagatacho, Japan's political center".
+  Later mentions: "Nagatacho".
+- shunto:
+  prefer non-macron spelling "shunto".
+  On first mention in a chapter or section, use
+  "shunto, Japan's annual spring wage negotiations".
+  Later mentions: "shunto".
+- gongmin huiyi:
+  on first mention, use
+  "gongmin huiyi ('citizen conference')".
+  Later mentions may use "gongmin huiyi" or "citizen conference" based on context.
+- Mynaportal:
+  keep and gloss on first mention as
+  "Mynaportal, Japan's online government services portal".
+  Later mentions: "Mynaportal".
+- Reiwa 8:
+  default to Gregorian year as "2026".
+  Use "Reiwa 8 (2026)" only when the era notation itself is contextually important.
+
+Global style behavior for these terms:
+- Keep official product, platform, and project names in original form when they function as brands.
+- Add short plain-English glosses on first mention for culture-specific Japanese or Taiwanese terms.
+- Prefer functional explanations over literal translations when literal wording is awkward in English.
+- Convert Japanese era years to Gregorian years by default.
+- Normalize inconsistent spellings before applying first-use/later-use behavior.
+- After first-use glossing, use the shorter later-use form consistently.
 """
 
 

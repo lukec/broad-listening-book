@@ -102,7 +102,7 @@ When people perceive others as individuals, they can understand only a few dozen
 
 ## “Meetings That Don’t Force Black-and-White Answers” Expanded Beyond the Company
 
-Since the Idobata workshop in August 2025, voices have emerged across many departments within Cybozu asking to use the Idobata System. Later tools such as “Double-Speed Meetings” have also been put to use internally. A number of interesting developments have taken place that have not yet been made public outside the company.
+Since the Idobata workshop in August 2025, voices have emerged across many departments within Cybozu asking to use the Idobata System. Later tools such as Baisoku Kaigi, an AI-supported “fast-track meeting” tool, have also been put to use internally. A number of interesting developments have taken place that have not yet been made public outside the company.
 
 At the same time, efforts also began to expand these initiatives beyond internal use.
 

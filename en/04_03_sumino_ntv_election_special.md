@@ -2,6 +2,8 @@
 
 Written by: @nasuka
 
+English translation by Luke Closs
+
 ### 4.3.1 Use in Election Coverage
 
 In the October 2024 House of Representatives election, Nippon TV carried out election coverage using broad listening. This was likely the **world’s first example of broad listening being used in television news reporting**.
@@ -39,7 +41,7 @@ Clusters emerged around topics such as “interest in the consumption tax and th
 
 In the **policy analysis**[^2], posts expressing opinions about policy were collected.
 
-Clusters emerged around topics such as “dissatisfaction with and criticism of the ruling parties,” “concerns about tax increases and dissatisfaction with economic policy,” “concerns about national security and immigration policy,” and “debate over reducing or abolishing the consumption tax.” Opinions were grouped by specific policy themes such as cutting or abolishing the consumption tax, concerns about immigration policy, raising the minimum wage, allowing married couples to keep separate surnames, and the My Number health insurance card. This made it much clearer what voters saw as the key issues.
+Clusters emerged around topics such as “dissatisfaction with and criticism of the ruling parties,” “concerns about tax increases and dissatisfaction with economic policy,” “concerns about national security and immigration policy,” and “debate over reducing or abolishing the consumption tax.” Opinions were grouped by specific policy themes such as cutting or abolishing the consumption tax, concerns about immigration policy, raising the minimum wage, allowing married couples to keep separate surnames, and the My Number health insurance card (My Number, Japan’s national ID system). This made it much clearer what voters saw as the key issues.
 
 **What this comparison shows**
 
