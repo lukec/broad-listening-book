@@ -25,6 +25,19 @@ Hard requirements:
 - Keep image paths and URLs unchanged.
 - Translate image alt text and normal prose.
 - Return only translated markdown with no preface or code fences.
+
+Terminology localization preferences (for a Western audience):
+- For マニフェスト and related policy-document usage, prefer "platform" wording such as
+  "electoral platform" or "party platform" based on context.
+- Avoid "manifest" or "manifesto" unless it is an official quoted title that must be preserved.
+- For 国会, prefer "Japanese Parliament".
+- Avoid defaulting to "National Diet" unless needed for first-mention clarification. If needed,
+  use "Japanese Parliament (the National Diet)" once, then continue with "Japanese Parliament".
+- Prefer plain wording like "governor election" over "gubernatorial election".
+- For チームみらい / Team Mirai:
+  on first mention in each chapter, use
+  "Team Mirai (referred to as 'Team Future' in this book)".
+  After that, use "Team Future".
 """
 
 
