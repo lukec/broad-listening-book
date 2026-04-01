@@ -17,6 +17,57 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+DEFAULT_PATH_MAP = {
+    "00_序文.md": "00_preface.md",
+    "00_endorsement_from_Audrey.md": "00_endorsement_from_audrey_tang.md",
+    "01_ブロードリスニングとは何か？.md": "01_what_is_broad_listening.md",
+    "02_ブロードリスニングとアンケートの違い、定量分析から定性分析へ.md": "02_broad_listening_vs_surveys.md",
+    "03_デジタル民主主義とブロードリスニング、新しい民意の届け方.md": "03_digital_democracy_and_new_public_voice.md",
+    "04_日本国内におけるブロードリスニングの広がり.md": "04_spread_of_broad_listening_in_japan.md",
+    "04_01_安野貴博の取り組み.md": "04_01_takahiro_anno_initiatives.md",
+    "04_02_国民民主の国会質問.md": "04_02_dpfp_parliamentary_questions.md",
+    "04_03_sumino_日テレ選挙特番.md": "04_03_sumino_ntv_election_special.md",
+    "04_04_Polisで世論の地図を作る.md": "04_04_mapping_public_opinion_with_polis.md",
+    "04_05_朝日新聞の特設記事.md": "04_05_asahi_special_feature.md",
+    "05_東京都、シン東京2050、ブロードリスニングによる政策転換.md": "05_tokyo_shin_tokyo_2050_policy_shift.md",
+    "06_国政選挙でのブロードリスニングの利用.md": "06_broad_listening_in_national_elections.md",
+    "06_01_チームみらい.md": "06_01_team_mirai.md",
+    "06_02_チームみらい2026年衆院選.md": "06_02_team_mirai_2026_house_of_representatives_election.md",
+    "06_03_日本維新の会.md": "06_03_nippon_ishin_no_kai.md",
+    "06_04_国民民主党.md": "06_04_democratic_party_for_the_people.md",
+    "06_05_公明党.md": "06_05_komeito.md",
+    "07_地方選挙での活用.md": "07_use_in_local_elections.md",
+    "07_02_いでい良輔氏のケース.md": "07_02_ryosuke_idei_case.md",
+    "07_03_再生の道_尾花山和哉.md": "07_03_saisei_no_michi_kazuya_obanayama.md",
+    "08_地方自治体での活用.md": "08_use_in_local_governments.md",
+    "08_01_群馬県太田市の自分ごと化会議.md": "08_01_ota_city_jibungotoka_meeting.md",
+    "08_02_広島県の事例.md": "08_02_hiroshima_case.md",
+    "09_企業・NPOでの活用.md": "09_use_in_companies_and_npos.md",
+    "09_01_アルティウスリンク_取材記事.md": "09_01_altius_link_interview.md",
+    "09_02_サイボウズ.md": "09_02_cybozu.md",
+    "10_ビジネスになったブロードリスニング.md": "10_broad_listening_as_a_business.md",
+    "10_00_DD2030による広聴AIの開発活動.md": "10_00_dd2030_kocho_ai_development.md",
+    "10_01_株式会社ブーツ.md": "10_01_boots_inc.md",
+    "10_02_Code for Japan.md": "10_02_code_for_japan.md",
+    "10_03_多元現実.md": "10_03_plural_reality.md",
+    "10_04_Democracy X.md": "10_04_democracy_x.md",
+    "10_05_litela_田中魁.md": "10_05_litela_kai_tanaka.md",
+    "11_海外におけるブロードリスニングの流れ.md": "11_global_broad_listening_trends.md",
+    "11_01_台湾.md": "11_01_taiwan.md",
+    "11_02_Polisの誕生.md": "11_02_birth_of_polis.md",
+    "11_03_ボーリンググリーン.md": "11_03_bowling_green.md",
+    "11_04_イスラエルパレスチナRemesh事例.md": "11_04_israel_palestine_remesh_case.md",
+    "11_05_Connective_Actionを力に変える.md": "11_05_harnessing_connective_action.md",
+    "12_ブロードリスニング要素技術解説.md": "12_broad_listening_component_technologies.md",
+    "13_広聴AIの技術スタック解説.md": "13_kocho_ai_tech_stack.md",
+    "99_付録_公開事例一覧.md": "99_appendix_public_cases.md",
+    "column/ワードクラウドは分析ではない.md": "column/word_cloud_is_not_analysis.md",
+    "column/安全な共感.md": "column/safe_empathy.md",
+    "column/レビューで試す広聴AI.md": "column/testing_kocho_ai_through_review.md",
+    "column/1万件の声を集めて気づいたこと.md": "column/lessons_from_collecting_10000_voices.md",
+    "column/パブリックコメントと向き合う大企業AI_富士通の取り組み.md": "column/fujitsu_enterprise_ai_for_public_comments.md",
+}
+
 TRANSLATION_SYSTEM_PROMPT = """You translate Japanese manuscript markdown into natural, publication-quality English.
 
 Hard requirements:
@@ -38,6 +89,15 @@ Terminology localization preferences (for a Western audience):
   on first mention in each chapter, use
   "Team Mirai (referred to as 'Team Future' in this book)".
   After that, use "Team Future".
+- For いどばた / Idobata:
+  on first mention in each chapter, use
+  "Watercooler (Idobata)", then continue with "Watercooler".
+- For 会議 / kaigi, prefer "meeting" unless context clearly requires
+  a different common English term (e.g., workshop, session, conference).
+- Use official English party/organization names where available.
+  Example: 日本維新の会 should be translated as
+  "Japan Innovation Party (Nippon Ishin no Kai)" on first mention,
+  then "Japan Innovation Party" thereafter.
 """
 
 
@@ -65,13 +125,58 @@ def load_order_sections(order_file: Path) -> dict[str, list[str]]:
     return sections
 
 
-def ensure_en_layout(source_order_file: Path, en_root: Path, overwrite_order: bool) -> None:
+def map_relative_path(relative_path: str, path_map: dict[str, str]) -> str:
+    return path_map.get(relative_path, relative_path)
+
+
+def load_path_map(en_root: Path) -> dict[str, str]:
+    path_map = dict(DEFAULT_PATH_MAP)
+    path_map_file = en_root / "metadata" / "path_map.json"
+    if path_map_file.exists():
+        user_map = json.loads(path_map_file.read_text(encoding="utf-8"))
+        path_map.update(user_map)
+    return path_map
+
+
+def save_path_map(en_root: Path, path_map: dict[str, str]) -> None:
+    path_map_file = en_root / "metadata" / "path_map.json"
+    path_map_file.parent.mkdir(parents=True, exist_ok=True)
+    path_map_file.write_text(
+        json.dumps(path_map, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+
+def render_mapped_order_text(source_order_file: Path, path_map: dict[str, str]) -> str:
+    mapped_lines = []
+    with open(source_order_file, "r", encoding="utf-8") as f:
+        for raw_line in f:
+            stripped = raw_line.strip()
+            if not stripped or stripped.startswith("#") or re.match(r"^\[.+\]$", stripped):
+                mapped_lines.append(raw_line)
+                continue
+
+            mapped_lines.append(raw_line.replace(stripped, map_relative_path(stripped, path_map), 1))
+
+    return "".join(mapped_lines)
+
+
+def ensure_en_layout(
+    source_order_file: Path,
+    en_root: Path,
+    overwrite_order: bool,
+    path_map: dict[str, str],
+) -> None:
     en_root.mkdir(parents=True, exist_ok=True)
     (en_root / "metadata").mkdir(parents=True, exist_ok=True)
+    save_path_map(en_root, path_map)
 
     en_order_file = en_root / "book_order.txt"
     if overwrite_order or not en_order_file.exists():
-        en_order_file.write_text(source_order_file.read_text(encoding="utf-8"), encoding="utf-8")
+        en_order_file.write_text(
+            render_mapped_order_text(source_order_file, path_map),
+            encoding="utf-8",
+        )
 
 
 def sha256_text(text: str) -> str:
@@ -189,8 +294,9 @@ def cmd_translate_section(args: argparse.Namespace) -> int:
         return 1
 
     manifest_path = args.en_root / "metadata" / "manifest.json"
+    path_map = load_path_map(args.en_root)
     if not args.dry_run:
-        ensure_en_layout(args.order_file, args.en_root, args.overwrite_order)
+        ensure_en_layout(args.order_file, args.en_root, args.overwrite_order, path_map)
         manifest = load_manifest(manifest_path)
     else:
         manifest = {"entries": {}}
@@ -204,7 +310,8 @@ def cmd_translate_section(args: argparse.Namespace) -> int:
 
     for relative_path in files:
         source_path = args.source_root / relative_path
-        target_path = args.en_root / relative_path
+        target_relative_path = map_relative_path(relative_path, path_map)
+        target_path = args.en_root / target_relative_path
 
         if not source_path.exists():
             print(f"[WARN] Missing source file: {source_path}")
@@ -235,7 +342,7 @@ def cmd_translate_section(args: argparse.Namespace) -> int:
 
         entries[relative_path] = {
             "source_path": relative_path,
-            "target_path": str(target_path.relative_to(args.en_root)),
+            "target_path": target_relative_path,
             "source_hash": source_hash,
             "target_hash": target_hash,
             "section": section_name,
