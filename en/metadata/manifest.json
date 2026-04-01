@@ -1,0 +1,26 @@
+{
+  "entries": {
+    "00_endorsement_from_Audrey.md": {
+      "model": "gpt-5.4",
+      "section": "ch00_preface",
+      "source_hash": "00cf152a91cfa4f62e9034b98da017c0b2e42022247132d47bda5a55469d202a",
+      "source_path": "00_endorsement_from_Audrey.md",
+      "status": "translated",
+      "target_hash": "33bb39f353885048870a49da63cc335f0065c1fc635d9764d851cf45e3a95ed0",
+      "target_path": "00_endorsement_from_Audrey.md",
+      "updated_at": "2026-04-01T17:41:36.134987+00:00"
+    },
+    "00_序文.md": {
+      "model": "gpt-5.4",
+      "section": "ch00_preface",
+      "source_hash": "e54ad24cb09465f3ed69e2db373faa1ebf315ffb0f34212316d47b7b86328e2b",
+      "source_path": "00_序文.md",
+      "status": "translated",
+      "target_hash": "13e5744b68c5f35ff32e36f701269ffe26dc79b8580aaacb729ff64016353107",
+      "target_path": "00_序文.md",
+      "updated_at": "2026-04-01T17:41:33.381204+00:00"
+    }
+  },
+  "last_section": "ch00_preface",
+  "updated_at": "2026-04-01T17:41:36.134995+00:00"
+}
