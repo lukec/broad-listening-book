@@ -113,10 +113,10 @@ uv run python scripts/build_pdf.py
 python3 scripts/english.py list-sections
 
 # 最初のセクション（ch00_preface）を英訳
-python3 scripts/english.py translate-section --first --model gpt-4o-mini
+python3 scripts/english.py translate-section --first --model gpt-5.4
 
 # 特定セクションを英訳
-python3 scripts/english.py translate-section --section ch01_broadlistening_overview --model gpt-4o-mini
+python3 scripts/english.py translate-section --section ch01_broadlistening_overview --model gpt-5.4
 ```
 
 - 出力先はデフォルトで `en/` です（`--en-root` で変更可能）

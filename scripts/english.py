@@ -5,7 +5,7 @@ English translation tooling for the manuscript.
 Examples:
     python3 scripts/english.py list-sections
     python3 scripts/english.py translate-section --first --dry-run
-    python3 scripts/english.py translate-section --section ch00_preface --model gpt-4o-mini
+    python3 scripts/english.py translate-section --section ch00_preface --model gpt-5.4
 """
 
 import argparse
@@ -283,7 +283,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     translate_parser.add_argument(
         "--model",
-        default="gpt-4o-mini",
+        default="gpt-5.4",
         help="OpenAI model for translation",
     )
     translate_parser.add_argument(
