@@ -4,7 +4,7 @@
 
 - Japanese manuscript is the source of truth.
 - English text is an LLM-first draft, then human-reviewed.
-- Reviews are tracked by section, date, and commit.
+- Reviews are tracked by section, date, and Japanese-source commit.
 
 ## Workflow
 
@@ -18,15 +18,17 @@
 - **Team Mirai**: In this English edition, render as **Team Future** for readability and impact with English-native readers.
 - First mention format: `Team Mirai (referred to as “Team Future” in this book)`.
 - Note: **Team Future** is an editorial translation choice, not necessarily the official party name.
+- **Bluesky**: In Chapter 2, add **Bluesky** after **Facebook** as an editorial choice for English audiences.
 
 ## Review Log
 
-| Section | Scope | Reviewed Date | Reviewed Commit | Status |
+| Section | Scope | Reviewed Date | Source Commit (JP) | Status |
 |---|---|---|---|---|
-| ch00_preface | `00_preface.md` | 2026-04-01 | `b624c37` | Reviewed |
-| ch00_endorsement | `00_endorsement_from_audrey_tang.md` | — | — | Not reviewed |
-| ch01_broadlistening_overview | `01_what_is_broad_listening.md` | 2026-04-01 | — | Reviewed (text passed) |
-| ch02_broadlistening_vs_survey | `02_broad_listening_vs_surveys.md`, `column/word_cloud_is_not_analysis.md` | — | — | Not reviewed |
+| ch00_preface | `00_preface.md` | 2026-04-01 | `c70f5ef` | Reviewed |
+| ch00_endorsement | `00_endorsement_from_audrey_tang.md` | 2026-04-01 | `6f870e0` | Reviewed |
+| ch01_broadlistening_overview | `01_what_is_broad_listening.md` | 2026-04-01 | `a62f4b9` | Reviewed (text passed) |
+| ch02_broadlistening_vs_survey | `02_broad_listening_vs_surveys.md` | 2026-04-01 | `1444248` | Reviewed |
+| ch02_column_word_cloud | `column/word_cloud_is_not_analysis.md` | 2026-04-01 | `4b29b9d` | Reviewed |
 | ch03_digital_democracy_and_public_voice | `03_digital_democracy_and_new_public_voice.md`, `column/safe_empathy.md` | — | — | Not reviewed |
 | ch04_broadlistening_spread_in_japan | `04_*` | — | — | Not reviewed |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
@@ -47,4 +49,7 @@
 | ch01 | `01_broadlistening_three_types_en.png` | GOOD | Approved |
 | ch01 | `01_jukugi_minshushugi_keifu_en.png` | NEEDS-WORK | Still not acceptable; requires further image cleanup/rework |
 | ch01 | `01_broadlistening.png` | GOOD | Approved |
-| ch01 | `01_anno_zyukugi_cycle.png` | NEEDS TRANSLATION | English replacement needed |
+| ch01 | `01_anno_zyukugi_cycle_en.png` | PENDING REVIEW | Updated with a new English image; needs review |
+| ch02 | `02_noisy_minority_en.png` | GOOD | Approved |
+| ch02_column | `02_political_wordcloud.png` | GOOD | Approved |
+| ch02_column | `02_rashomon_wordcloud.png` | GOOD | Approved |
