@@ -6,7 +6,7 @@ This section is a reconstruction for this book based on the author’s blog post
 
 English translation by Luke Closs
 
-In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai,” and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
+In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai” (referred to as “Team Future” in this book), and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
 
 This chapter explains how the broad listening process evolved during that election period, focusing on the “interactive policy platform” that was operated throughout the campaign.
 
