@@ -132,7 +132,9 @@ In Japan, however, a different approach took hold first—one that differs from 
 For example, Takahiro Anno presents his own policy process in the following diagram.
 
 TODO: Brush up this diagram https://codezine.jp/article/detail/21308
-![Politician- and government-led broad listening cycle](images/01_anno_zyukugi_cycle.png)
+![Politician- and government-led broad listening cycle](images/01_anno_zyukugi_cycle_en.png)
+
+*Note: This image is an English translation of Takahiro Anno's original slide.*
 
 The Democratic Party for the People and the Japan Innovation Party have also reflected supporters’ voices in policy through their own processes. Furthermore, when the Japan Innovation Party entered the ruling coalition with the Liberal Democratic Party in October 2025, it created a situation in which parties practicing broad listening existed both in government and in opposition.
 
