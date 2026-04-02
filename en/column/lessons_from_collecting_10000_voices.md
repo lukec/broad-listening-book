@@ -14,7 +14,7 @@ After the governor election, Anno launched [Team Mirai (referred to as "Team Fut
 
 ![Early concept diagram for the Idobata system. It uses a funnel structure to gather citizens’ voices from diverse channels such as X, YouTube, phone, and in-person interactions, with AI organizing the issues and connecting them to policy development on Discourse and GitHub.](../images/column_idobata_concept.png)
 
-I was also involved in building the “talkable platform,” a system that allowed citizens to submit proposed changes to the electoral platform through chat. During the 17 days of the House of Councillors election campaign, 9,688 change proposals were submitted, and 346 were actually incorporated into the platform. These included adding subsidies for rubella antibody testing for the partners of people hoping to become pregnant, adding public funding for HPV vaccines for men, and updating measures to address the “age 18 wall” faced by children with disabilities. Citizens’ voices were literally rewriting the policy document. As a mechanism for “delivering voices,” it was clearly working.
+I was also involved in building the “interactive policy platform,” a system that allowed citizens to submit proposed changes to the electoral platform through chat. During the 17 days of the House of Councillors election campaign, 9,688 change proposals were submitted, and 346 were actually incorporated into the platform. These included adding subsidies for rubella antibody testing for the partners of people hoping to become pregnant, adding public funding for HPV vaccines for men, and updating measures to address the “age 18 wall” faced by children with disabilities. Citizens’ voices were literally rewriting the policy document. As a mechanism for “delivering voices,” it was clearly working.
 
 ### Beyond “Delivering Voices”
 
@@ -60,7 +60,7 @@ This is also closely connected to the themes being studied by the [Cybernetic Hu
 
 That is why our strategy changed.
 
-“Scaling up” means involving large numbers of people at once: gathering the views of 100 million people, processing tens of thousands of proposals. That was the direction pursued by Idobata and the talkable platform.
+“Scaling up” means involving large numbers of people at once: gathering the views of 100 million people, processing tens of thousands of proposals. That was the direction pursued by Idobata and the interactive policy platform.
 
 “Scaling out” means enabling the same quality of dialogue to happen simultaneously in many different settings. Instead of relying on a single gifted facilitator, the goal is to create conditions where discussions can reach a certain standard anywhere, with AI support.
 

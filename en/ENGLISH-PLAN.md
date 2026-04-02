@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 | ch00_preface | `00_preface.md` | 2026-04-01 | `b624c37` | Reviewed |
 | ch00_endorsement | `00_endorsement_from_audrey_tang.md` | — | — | Not reviewed |
-| ch01_broadlistening_overview | `01_what_is_broad_listening.md` | — | — | Not reviewed |
+| ch01_broadlistening_overview | `01_what_is_broad_listening.md` | 2026-04-01 | — | Reviewed (text passed) |
 | ch02_broadlistening_vs_survey | `02_broad_listening_vs_surveys.md`, `column/word_cloud_is_not_analysis.md` | — | — | Not reviewed |
 | ch03_digital_democracy_and_public_voice | `03_digital_democracy_and_new_public_voice.md`, `column/safe_empathy.md` | — | — | Not reviewed |
 | ch04_broadlistening_spread_in_japan | `04_*` | — | — | Not reviewed |
@@ -39,3 +39,12 @@
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
+
+## Image Review Log
+
+| Section | Image | Status | Notes |
+|---|---|---|---|
+| ch01 | `01_broadlistening_three_types_en.png` | GOOD | Approved |
+| ch01 | `01_jukugi_minshushugi_keifu_en.png` | NEEDS-WORK | Still not acceptable; requires further image cleanup/rework |
+| ch01 | `01_broadlistening.png` | GOOD | Approved |
+| ch01 | `01_anno_zyukugi_cycle.png` | NEEDS TRANSLATION | English replacement needed |

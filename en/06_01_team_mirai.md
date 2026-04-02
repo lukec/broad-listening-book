@@ -8,7 +8,7 @@ English translation by Luke Closs
 
 In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai,” and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
 
-This chapter explains how the broad listening process evolved during that election period, focusing on the “talkable platform” that was operated throughout the campaign.
+This chapter explains how the broad listening process evolved during that election period, focusing on the “interactive policy platform” that was operated throughout the campaign.
 
 ## From the Tokyo Governor Election to the House of Councillors Election: Integrating Three Projects
 
@@ -37,13 +37,13 @@ However, this system had a major problem: many voters could not use GitHub[^gith
 In the 2025 House of Councillors election, the three projects were integrated in order to solve the problem that GitHub posed too high a barrier.
 
 ![alt text](images/06_01_manifesto_flow.png)
-The talkable platform
+The interactive policy platform
 
 First, the AI chats one-on-one with each voter. As with the earlier AI Anno, the AI can answer questions—but this time the reverse is also possible. Acting like an interviewer, the AI listens to voters, asks follow-up questions, and helps them put their thoughts into words. In the end, the AI operates GitHub and submits a policy change proposal (a pull request) to GitHub.
 
 This meant voters no longer needed to use GitHub directly.
 
-This “talkable platform” was released on May 16, 2025. Four days later, on May 20, Mr. Anno posted what he described as a happy problem[^anno-ureshii].
+This “interactive policy platform” was released on May 16, 2025. Four days later, on May 20, Mr. Anno posted what he described as a happy problem[^anno-ureshii].
 
 > We have received more than 1,300 proposal documents from everyone regarding Team Mirai’s platform. Honestly, that’s more than ten times what we expected, so it’s a very welcome problem to have.
 
@@ -96,13 +96,13 @@ This made it possible to work through the problem of “there are too many propo
 
 When the actual change proposals were classified by target file, it became clear that many proposed edits were being submitted to the README file—the table of contents page.
 
-In this “talkable platform,” users could choose individual pages of the platform from the table of contents, divided into categories such as “Healthcare” and “Education.” They could then ask the AI questions about the page being displayed or make change proposals through conversation. In other words, the system was designed on the assumption that users would click into each page, read it, and then ask questions or submit change proposals. From an engineer’s perspective, this was a simple and understandable implementation. But for general users, it was not the best possible experience design (UX design). Users who opened the prominently displayed page with the chat box often started chatting immediately. As a result, they might ask the table of contents page about something written on the healthcare page and be told it could not be found, or they might propose as a change to the table of contents something that was already written on the healthcare page.
+In this “interactive policy platform,” users could choose individual pages of the platform from the table of contents, divided into categories such as “Healthcare” and “Education.” They could then ask the AI questions about the page being displayed or make change proposals through conversation. In other words, the system was designed on the assumption that users would click into each page, read it, and then ask questions or submit change proposals. From an engineer’s perspective, this was a simple and understandable implementation. But for general users, it was not the best possible experience design (UX design). Users who opened the prominently displayed page with the chat box often started chatting immediately. As a result, they might ask the table of contents page about something written on the healthcare page and be told it could not be found, or they might propose as a change to the table of contents something that was already written on the healthcare page.
 
 For example, it would probably have been better to add features such as “if a user asks a question on the table of contents page, answer after reading the whole platform,” or “if a user tries to make a proposal from the table of contents page, first open the most relevant page.” However, implementing such features would have required major design changes, and it would have been difficult to bolt them on after the service was already running. There was no room to do that during the election period.
 
 ### The Problem of Multiple Proposals Colliding on the Same Passage
 
-In the “talkable platform,” the AI automatically created concrete revision proposals. For example, a user might suggest “add ‘improved treatment for childcare workers’ to the section on childcare support.”
+In the “interactive policy platform,” the AI automatically created concrete revision proposals. For example, a user might suggest “add ‘improved treatment for childcare workers’ to the section on childcare support.”
 
 But problems arose when multiple different revision proposals were submitted for the same passage. If Person A proposed “add improved treatment for childcare workers,” and Person B proposed “add expanded after-school childcare,” both targeting the same section, then adopting one would not automatically incorporate the other. In some cases, dozens of proposals were trying to revise the same passage.
 
@@ -116,9 +116,9 @@ In a keynote speech at LibreCon 2016[^librecon], Audrey Tang explained four step
 
 ### A Sense of “Being Heard” and Bidirectional Traceability
 
-In Team Future’s “talkable platform,” the AI interviewer listens to people and creates proposals for them. What was lacking was the design of the user experience *after* that listening and proposal creation had taken place.
+In Team Future’s “interactive policy platform,” the AI interviewer listens to people and creates proposals for them. What was lacking was the design of the user experience *after* that listening and proposal creation had taken place.
 
-The talkable platform sends change proposals to GitHub in the form of pull requests, and then it simply ends there. Users had little visibility into what happened afterward. For example, all change proposals were in fact being divided up and read by more than ten staff members, but there was no feedback indicating that someone had “started reading” a given proposal.  
+The interactive policy platform sends change proposals to GitHub in the form of pull requests, and then it simply ends there. Users had little visibility into what happened afterward. For example, all change proposals were in fact being divided up and read by more than ten staff members, but there was no feedback indicating that someone had “started reading” a given proposal.  
 As a result, comments expressing “it doesn’t feel like my opinion was really received” appeared here and there. Ideally, users should be able to see a list of the proposals they submitted and the processing status of each one. It would also be good to let users who wish to do so register an email address or similar contact information so that push notifications can be sent. In his book *Applied Imagination*, brainstorming advocate Alex Osborn recommends that “when ideas are adopted, the meeting participants should be informed and encouraged,” and that “a brief note of thanks from those who benefit from the suggestion should be distributed to everyone.”
 
 In visualizations such as those produced by Public Listening AI, one can drill down into summarized opinions to confirm “where they came from.” By contrast, many existing systems have not provided users with any way to confirm “where their opinion went.” One of the major lessons from this case was the realization that traceability is needed not only for “where it came from,” but also for “where it went.”
@@ -128,7 +128,7 @@ Bidirectional traceability is needed for both “where it came from” and “wh
 
 ## The Phenomenon of Discussion Starting on GitHub
 
-At the planning stage of Team Future’s “talkable platform,” it was not assumed that ordinary users would use GitHub directly. The system was developed on the premise that doing so would be difficult. However, because GitHub was public, direct use was still possible. In this experiment, one of the 8,559 change proposals received an extraordinary 236 comments. The second-most-commented proposal had only 10 comments, which shows just how exceptional that was.
+At the planning stage of Team Future’s “interactive policy platform,” it was not assumed that ordinary users would use GitHub directly. The system was developed on the premise that doing so would be difficult. However, because GitHub was public, direct use was still possible. In this experiment, one of the 8,559 change proposals received an extraordinary 236 comments. The second-most-commented proposal had only 10 comments, which shows just how exceptional that was.
 
 During the Tokyo governor election, an AI filter had been implemented to screen out abuse and harassment. This time, however, because lively discussion on GitHub had not been anticipated, no such filter was included. As a result, GitHub’s comment section ended up functioning like a classic web message board, with exchanges of sharp and hostile language. In addition, some people in the comment section used Mr. Anno’s face icon without permission, while others who were in no position to speak on behalf of the party made statements that could be mistaken for official party views. On X (Twitter), some influencers even posted misinformation after misidentifying this discussion as “internal debate within Team Mirai.”
 
@@ -153,9 +153,9 @@ The demonstration Mr. Anno gave in the Tokyo governor election of what had newly
 
 It would be undesirable for the contribution that brought this development into the world to be attributed solely to the most visible actor, “Team Mirai,” so I want to take the space here to explain this clearly.
 
-One component of this “talkable platform” project—the part that chats with people and sends change proposals to GitHub—was developed by the “Digital Democracy 2030” project introduced in Chapter 11. It is best understood as a derivative of the “Idobata” system, which was created as a deliberation support system. During 2025, additional development was also underway to introduce this system to political parties other than Team Mirai, but unfortunately those efforts faded away after the person on the other side who had been enthusiastically promoting the project was reassigned. As an example of private-sector use, Chapter 9 discusses a case at Cybozu. The Idobata project is not “owned by Team Mirai”; it is a public asset that anyone can use.
+One component of this “interactive policy platform” project—the part that chats with people and sends change proposals to GitHub—was developed by the “Digital Democracy 2030” project introduced in Chapter 11. It is best understood as a derivative of the “Idobata” system, which was created as a deliberation support system. During 2025, additional development was also underway to introduce this system to political parties other than Team Mirai, but unfortunately those efforts faded away after the person on the other side who had been enthusiastically promoting the project was reassigned. As an example of private-sector use, Chapter 9 discusses a case at Cybozu. The Idobata project is not “owned by Team Mirai”; it is a public asset that anyone can use.
 
-The “Idobata” system is somewhat complex. Within the same repository, two related systems were developed and used for different purposes: “Idobata Policy,” which formed part of the “talkable platform,” and “Idobata Vision,” a town-hall-like mechanism in which people chat with AI and reports summarizing their views are generated.
+The “Idobata” system is somewhat complex. Within the same repository, two related systems were developed and used for different purposes: “Idobata Policy,” which formed part of the “interactive policy platform,” and “Idobata Vision,” a town-hall-like mechanism in which people chat with AI and reports summarizing their views are generated.
 
 ### Shared Concept
 In these systems, people are not “in the same chat”; rather, they are “in separate chats” but connected through AI. This is a new form of communication—one that was not even technically possible five years ago.

@@ -4,7 +4,7 @@ Written by: sumino
 
 English translation by Luke Closs
 
-In the 2026 House of Representatives election as well, Team Mirai (referred to as "Team Future" in this book) launched its electoral platform website and invited proposals from voters. Building on the experience and lessons of the previous House of Councillors election, the concept was changed from a "talkable platform" to a "platform where your voice is heard." The goal was not only to collect voters' opinions, but also to create a mechanism that would ensure those voices actually reached the people responsible for policy.
+In the 2026 House of Representatives election as well, Team Mirai (referred to as "Team Future" in this book) launched its electoral platform website and invited proposals from voters. Building on the experience and lessons of the previous House of Councillors election, the concept was changed from an "interactive policy platform" to a "platform where your voice is heard." The goal was not only to collect voters' opinions, but also to create a mechanism that would ensure those voices actually reached the people responsible for policy.
 
 ![Top screen of the "platform where your voice is heard"](images/06_02_team_mirai_manifesto_top.png)
 
@@ -18,7 +18,7 @@ To solve these issues, three updates were introduced for the House of Representa
 
 ## Evolution of the Chat Experience
 
-In the "talkable platform" used during the House of Councillors election, voters entered free-form text into a chat box. For the House of Representatives election, the chat experience was redesigned to reduce the burden on voters as much as possible.
+In the "interactive policy platform" used during the House of Councillors election, voters entered free-form text into a chat box. For the House of Representatives election, the chat experience was redesigned to reduce the burden on voters as much as possible.
 
 First, users could now drag to select text directly within the platform and simply press the displayed "Question" or "Proposal" icon to start a chat about that specific passage. As discussed in the House of Councillors election section on the "problem of change proposals being submitted to the table of contents," there had been an issue with ambiguity over which page a comment referred to. This design makes the intended target of the voter's comment clear.
 
@@ -66,6 +66,6 @@ Looking back on the House of Representatives election initiative, it is clear th
 
 The "entry-point design" that had been a challenge in the House of Councillors election was improved through features such as starting chats from selected text and introducing quick replies, creating an even lower-friction entry point. In addition, AI-based classification and aggregation, together with the admin dashboard, established a foundation that allows policy staff to grasp a wider range of opinions.
 
-From a "talkable platform" to a "platform where your voice is heard." What this change represents is a direction aimed at consistently supporting the entire path from voters expressing their views to those views reaching the policy-making process. A system was built to connect the broad listening cycle—opinion collection, structuring, deliberation, decision-making, and feedback—more continuously and with fewer breaks.
+From an "interactive policy platform" to a "platform where your voice is heard." What this change represents is a direction aimed at consistently supporting the entire path from voters expressing their views to those views reaching the policy-making process. A system was built to connect the broad listening cycle—opinion collection, structuring, deliberation, decision-making, and feedback—more continuously and with fewer breaks.
 
 At the same time, the reality remains that this cycle could not be fully completed during the election period. There is still a gap between the evolution of the system itself and the ability to fully make use of it in the actual operation of an election campaign. How to close that gap will likely become an important theme in future efforts.
