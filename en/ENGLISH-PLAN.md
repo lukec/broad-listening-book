@@ -43,7 +43,7 @@
 | ch04_05_asahi_special_feature | `04_05_asahi_special_feature.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; footnote 13 inaccurate, missing images tracked below) |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | 2026-04-02 | `3c85f5f` | Reviewed (excellent; Conway part amazing) |
 | ch06_national_elections_intro | `06_broad_listening_in_national_elections.md` | 2026-04-02 | `abd2321` | Reviewed (good) |
-| ch06_01_team_mirai | `06_01_team_mirai.md` | — | — | In review |
+| ch06_01_team_mirai | `06_01_team_mirai.md` | 2026-04-02 | `4adaddf` | Reviewed (excellent; all images good) |
 | ch06_02_team_mirai_2026_lower_house | `06_02_team_mirai_2026_house_of_representatives_election.md` | — | — | Not reviewed |
 | ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | — | — | Not reviewed |
 | ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | — | — | Not reviewed |
@@ -88,6 +88,12 @@
 | ch05 | `05_tokyo_2040_2024.png` | GOOD | Approved |
 | ch05 | `05_tttc_tourism.png` | GOOD | Approved |
 | ch05 | `05_cluster_mapping_zure.png` | GOOD | Approved for now; may still be replaced later |
+| ch06_01 | `06_01_tokyo_gov_manifesto.png` | GOOD | Approved |
+| ch06_01 | `06_01_three_projects.png` | GOOD | Approved |
+| ch06_01 | `06_01_manifesto_flow_en.png` | GOOD | Approved |
+| ch06_01 | `06_01_pr_overview.png` | GOOD | Approved |
+| ch06_01 | `06_01_opinion_flow_en.png` | GOOD | Approved |
+| ch06_01 | `06_01_idobata_chat_structure.png` | GOOD | Approved |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
