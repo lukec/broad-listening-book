@@ -51,7 +51,9 @@
 | ch07_local_elections_intro | `07_use_in_local_elections.md` | 2026-04-02 | `49afeb5` | Reviewed (good) |
 | ch07_02_ryosuke_idei_case | `07_02_ryosuke_idei_case.md` | 2026-04-02 | `5140272` | Reviewed (good; all images approved) |
 | ch07_03_saisei_no_michi_kazuya_obanayama | `07_03_saisei_no_michi_kazuya_obanayama.md` | 2026-04-02 | `3c85f5f` | Reviewed (good; all images approved) |
-| ch08_municipalities | `08_use_in_local_governments.md`, `08_01_ota_city_jibungotoka_meeting.md`, `08_02_hiroshima_case.md` | — | — | Not reviewed |
+| ch08_municipalities_intro | `08_use_in_local_governments.md` | 2026-04-02 | `49afeb5` | Reviewed (good) |
+| ch08_01_ota_city_jibungotoka_meeting | `08_01_ota_city_jibungotoka_meeting.md` | 2026-04-02 | `215b438` | Reviewed (good; image review pending) |
+| ch08_02_hiroshima_case | `08_02_hiroshima_case.md` | — | — | Not reviewed |
 | ch09_enterprise_and_npo | `09_use_in_companies_and_npos.md`, `09_01_altius_link_interview.md`, `09_02_cybozu.md`, `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
 | ch10_broadlistening_business | `10_broad_listening_as_a_business.md`, `10_00_dd2030_kocho_ai_development.md`, `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
 | ch11_broadlistening_overseas | `11_global_broad_listening_trends.md`, `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
@@ -112,6 +114,20 @@
 | ch06_05 | `06_05_WeConnect_gamma.png` | GOOD | Approved |
 | ch07_02 | `07_02_いでい_広聴AI意見クラスタ.png` | GOOD | Approved |
 | ch07_03 | `07_03_flow_chart.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_jibungotoka_overview.jpeg` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_baisoku_ui.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_response_visualization.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_jibungotoka_smartphone.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_analysis_report_intro.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_issue_extraction.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_alignment_high.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_alignment_low.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_alignment_uncertainty.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_sensemaker_high_agreement.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_survey_satisfaction.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_survey_safety.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_survey_wordcloud.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_sensemaker_overview.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
