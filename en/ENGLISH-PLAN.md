@@ -36,12 +36,12 @@
 | ch04_02_dpfp_parliamentary_questions | `04_02_dpfp_parliamentary_questions.md` | 2026-04-02 | `80d4912` | Reviewed (good) |
 | ch04_03_ntv_election_special | `04_03_sumino_ntv_election_special.md` | 2026-04-02 | `01b2e1e` | Reviewed (good) |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
-| ch06_national_elections | `06_*` | — | — | Not reviewed |
-| ch07_local_elections | `07_*` | — | — | Not reviewed |
-| ch08_municipalities | `08_*` | — | — | Not reviewed |
-| ch09_enterprise_and_npo | `09_*`, `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
-| ch10_broadlistening_business | `10_*`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
-| ch11_broadlistening_overseas | `11_*` | — | — | Not reviewed |
+| ch06_national_elections | `06_broad_listening_in_national_elections.md`, `06_01_team_mirai.md`, `06_02_team_mirai_2026_house_of_representatives_election.md`, `06_03_nippon_ishin_no_kai.md`, `06_04_democratic_party_for_the_people.md`, `06_05_komeito.md` | — | — | Not reviewed |
+| ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
+| ch08_municipalities | `08_use_in_local_governments.md`, `08_01_ota_city_jibungotoka_meeting.md`, `08_02_hiroshima_case.md` | — | — | Not reviewed |
+| ch09_enterprise_and_npo | `09_use_in_companies_and_npos.md`, `09_01_altius_link_interview.md`, `09_02_cybozu.md`, `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
+| ch10_broadlistening_business | `10_broad_listening_as_a_business.md`, `10_00_dd2030_kocho_ai_development.md`, `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
+| ch11_broadlistening_overseas | `11_global_broad_listening_trends.md`, `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
