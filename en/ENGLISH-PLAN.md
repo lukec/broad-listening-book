@@ -46,7 +46,7 @@
 | ch06_01_team_mirai | `06_01_team_mirai.md` | 2026-04-02 | `4adaddf` | Reviewed (excellent; all images good) |
 | ch06_02_team_mirai_2026_lower_house | `06_02_team_mirai_2026_house_of_representatives_election.md` | 2026-04-02 | `4e6c35c` | Reviewed (really good; all images approved) |
 | ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; all images approved) |
-| ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | — | — | Not reviewed |
+| ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | 2026-04-02 | `3cccb0b` | Reviewed (good) |
 | ch06_05_komeito | `06_05_komeito.md` | — | — | Not reviewed |
 | ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
 | ch08_municipalities | `08_use_in_local_governments.md`, `08_01_ota_city_jibungotoka_meeting.md`, `08_02_hiroshima_case.md` | — | — | Not reviewed |
