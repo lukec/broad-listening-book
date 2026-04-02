@@ -52,11 +52,11 @@ In the Idobata System, AI reads the chat logs from all 50 participants, analyzes
 
 When points of agreement are visible, it becomes possible to allocate time more effectively: “We already share this point, so let’s spend our time on the issues where views diverge.” The value of broad listening lies not only in gathering many voices, but also in making it possible to design where to spend the cost of discussion afterward.
 
-What the Idobata System does is collect raw material through one-on-one dialogue between AI and each participant, and then convert that material into a form that can be shared. It does not share each individual’s chat content as-is. Instead, the AI summarizes it and organizes it into commonalities and differences. Put another way, it is a mechanism for drawing a map of the whole while still protecting each person’s honest feelings.
+What the Idobata System does is collect raw material through one-on-one dialogue between AI and each participant, and then convert that material into a form that can be shared. It does not share each individual’s chat content as-is. Instead, the AI summarizes it and organizes it into commonalities and differences. Put another way, it is a mechanism for building a picture of the whole while still protecting each person’s honest feelings.
 
 ### Surfacing Issues, Not Conclusions
 
-What matters here is that issues come first, not conclusions. When people rush to conclusions, moving forward often means sacrificing someone’s sense of understanding or acceptance. But if the issues are visible, the group can first share a map of “what exactly people disagree about.”
+What matters here is that issues come first, not conclusions. When people rush to conclusions, moving forward often means sacrificing someone’s sense of understanding or acceptance. But if the issues are visible, the group can first share a picture of what exactly people disagree about.
 
 For example, on the workshop theme of “promoting AI use within the company,” an internal Cybozu survey conducted in June 2025 found that 80% of the 1,118 respondents said they “use AI in daily life.” At the same time, many individuals still felt vague anxiety, such as “I’m not using it effectively at all” or “It feels like other companies are making much better use of it.”
 

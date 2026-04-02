@@ -126,9 +126,9 @@ This was not accidental. In elections shaped by silver democracy, voices such as
 
 In other words, the issue areas of child-rearing, education, and youth support were not “new facts discovered by policymakers.” They were things that had long been understood, but whose scale had not reached government through the conventional public comment system. Tokyo’s broad listening can thus be seen as an attempt to correct that structural imbalance through the design of its channels.
 
-### Functioning as an Issue Map
+### Functioning Through the Issue Space
 
-Another value lies in providing structural grounds for policy judgment. The grounds broad listening can provide are not raw counts. Its value lies in clustering and structuring opinions—in other words, in “drawing an issue map.” Intuition alone cannot explain to citizens why tourism should be positioned as an independent strategy. A numerical justification based on submission counts is also fragile, because it is directly shaped by bias in the collection channels. But the structure of opinions—which subthemes exist and how they are arranged—can function as a basis for policy judgment.
+Another value lies in providing structural grounds for policy judgment. The grounds broad listening can provide are not raw counts. Its value lies in clustering and structuring opinions—in other words, in making the issue space visible. Intuition alone cannot explain to citizens why tourism should be positioned as an independent strategy. A numerical justification based on submission counts is also fragile, because it is directly shaped by bias in the collection channels. But the structure of opinions—which subthemes exist and how they are arranged—can function as a basis for policy judgment.
 
 This becomes concrete when we look at the [TTTC visualization results for the tourism category](https://broadlistening.seisakukikaku.metro.tokyo.lg.jp/20250131/tourism/index.html).
 
@@ -138,7 +138,7 @@ The ten clusters include themes such as “international tourism city,” “cit
 
 If these issue groups remain buried within the broader category of “Culture & Entertainment,” a policy intention such as overtourism countermeasures risks being obscured by other measures. To show how government intends to address tourism-specific issues, it becomes necessary to make tourism visible as an independent strategy. The answer to the question “Why was tourism positioned as an independent strategy?” then becomes not “because there were many submissions,” but “because tourism-specific issue groups had a structure that would become hard to see if absorbed into other fields.”
 
-Connecting this issue map to the policy process was broad listening’s real contribution. In the Shin Tokyo 2050 Project, the [page for each strategy](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/2050-tokyo/shinchoku) in the “Tokyo 2050 Strategy” includes an “AI summary of Tokyo residents’ opinions,” making visible which public voices correspond to which strategy. This stands in sharp contrast to the conventional public comment process, which often ends with a formulaic line such as, “We will use the opinions received as reference going forward.”
+Connecting the issue space to the policy process was broad listening’s real contribution. In the Shin Tokyo 2050 Project, the [page for each strategy](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/2050-tokyo/shinchoku) in the “Tokyo 2050 Strategy” includes an “AI summary of Tokyo residents’ opinions,” making visible which public voices correspond to which strategy. This stands in sharp contrast to the conventional public comment process, which often ends with a formulaic line such as, “We will use the opinions received as reference going forward.”
 
 ### Inferring the Path to Independence
 
@@ -146,7 +146,7 @@ So why did the Tokyo Metropolitan Government come to position “tourism” as a
 
 Government strategic frameworks are closely tied to the jurisdiction of the departments responsible for them. The organizational structure—what bureau or division handles which field—is reflected in the strategic category system. In software engineering, Conway’s Law is well known: systems designed by organizations mirror those organizations’ communication structures. The same dynamic operates in government strategic frameworks. The category system of the “Future Tokyo” strategy likely corresponded closely to the jurisdictions of Tokyo Metropolitan Government bureaus and divisions.
 
-What broad listening did was cluster citizens’ voices and draw an issue map independently of that organizational structure. When those clusters are compared against the existing strategic framework, some do not fit neatly.
+What broad listening did was cluster citizens’ voices and make the issue space visible independently of that organizational structure. When those clusters are compared against the existing strategic framework, some do not fit neatly.
 
 TODO: Redraw the figure
 
@@ -158,7 +158,7 @@ If that misalignment is left unresolved, it becomes difficult to claim that the 
 
 AI did not propose, “Tourism should be made independent.” Rather, humans interpreted the friction between the AI’s classification results and the existing institutional structure, and posed the question: should this category be split out? The role of broad listening is not to “produce answers,” but to “provide material for asking questions.”
 
-This question, moreover, was not a “dramatic discovery.” As discussed in Section 5.3, the expansion of tourism policy was already underway in the 2024 version up. But that is fine. Even a known issue, once structured as citizens’ voices, can provide grounds for revising the policy framework. To the judgment “let’s make tourism independent,” broad listening adds the justification that “the structure of citizens’ voices points in that direction.” The issue map functioned as a foundation of legitimacy in precisely that way.
+This question, moreover, was not a “dramatic discovery.” As discussed in Section 5.3, the expansion of tourism policy was already underway in the 2024 version up. But that is fine. Even a known issue, once structured as citizens’ voices, can provide grounds for revising the policy framework. To the judgment “let’s make tourism independent,” broad listening adds the justification that “the structure of citizens’ voices points in that direction.” That view of the issue space functioned as a foundation of legitimacy in precisely that way.
 
 That said, what it can show is only “the structure within the opinions submitted,” not “the distribution of opinion across society as a whole.” Structural grounds are more explanatory than intuition or raw counts, but when they are spoken of as if they prove the public will, the grounds become exaggerated.
 
@@ -178,6 +178,6 @@ If government is to use this technology in the future and claim a causal relatio
 
 The role of broad listening is not “to produce answers,” but “to provide material for asking questions.” Shin Tokyo 2050 can be understood as an attempt to demonstrate that role in urban policy at the scale of 14 million people.
 
-What follows is the author’s inference, but this scale itself likely made certain things visible. The misalignment between the issue map and the organizational structure likely revealed a problem: the issues citizens feel most strongly and the government’s vertical bureaucratic structure do not line up. The same may be said of silver democracy. People likely sensed it already, but because it is difficult to discuss openly, the project can be read as an attempt to correct this structural problem through approaches such as social media and street interviews.
+What follows is the author’s inference, but this scale itself likely made certain things visible. The misalignment between the issue space and the organizational structure likely revealed a problem: the issues citizens feel most strongly and the government’s vertical bureaucratic structure do not line up. The same may be said of silver democracy. People likely sensed it already, but because it is difficult to discuss openly, the project can be read as an attempt to correct this structural problem through approaches such as social media and street interviews.
 
 In both cases, this was not “the discovery of unknown facts,” but an approach to things people had already half understood. The story that “broad listening changed policy” is overstated, but the assessment that it “structured the questions and supported the legitimacy of change” does hold. The significance of posing those questions at the scale of 14 million people is something later cases will carry forward.

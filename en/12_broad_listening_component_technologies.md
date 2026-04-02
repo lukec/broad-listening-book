@@ -456,7 +456,7 @@ A classical dimensionality reduction method is PCA (principal component analysis
 ![Dimensionality reduction with PCA](images/12_pca_2d_to_1d.png)
 *Figure 12-12: Dimensionality reduction with PCA (2D → 1D)*
 
-In the context of broad listening, Polis uses PCA to compress participants’ voting patterns into two dimensions and generate a “map of public opinion.”
+In the context of broad listening, Polis uses PCA to compress participants’ voting patterns into two dimensions and generate a visualization of public opinion.
 
 ### 12.5.6 Dimensionality Reduction with UMAP
 

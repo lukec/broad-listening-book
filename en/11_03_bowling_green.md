@@ -70,7 +70,7 @@ In follow-up surveys of participants, **70% said they felt more confident that t
 
 On April 15, 2025, a time capsule containing the project’s results was buried. It is scheduled to be opened 25 years later.
 
-That said, this success comes with an important qualification. More than 80% may agree on “more family-friendly activities.” But the moment the discussion turns to specifics—“what should be built, where, and who should pay for it?”—consensus becomes much harder. The consensus extracted by AI becomes more fragile as the level of specificity rises. This is not a flaw in the technology. It is an inherent feature of human consensus-building itself. That is precisely why a stage like the pillar groups, in which people take the AI’s output and turn it into concrete proposals, is indispensable. AI can draw a “map of consensus.” Deciding where to go on that map remains human work.
+That said, this success comes with an important qualification. More than 80% may agree on “more family-friendly activities.” But the moment the discussion turns to specifics—“what should be built, where, and who should pay for it?”—consensus becomes much harder. The consensus extracted by AI becomes more fragile as the level of specificity rises. This is not a flaw in the technology. It is an inherent feature of human consensus-building itself. That is precisely why a stage like the pillar groups, in which people take the AI’s output and turn it into concrete proposals, is indispensable. AI can make the consensus space visible. Deciding where to go from there remains human work.
 
 ### 10.3.6 “We The People”: Expansion Across the United States
 

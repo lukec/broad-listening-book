@@ -17,23 +17,21 @@ That question led to *Public Opinion Map*, released during the 2024 House of Rep
 I was involved in this development as an engineer.  
 What I want to write about in this chapter is not simply, “We used Polis.”
 
-I was involved in this development as an engineer. In this chapter, I record what had to be changed in order to use Polis in the real-world context of Japanese elections, and what became visible as a result.
+In this chapter, I record what had to be changed in order to use Polis in the real-world context of Japanese elections, and what became visible as a result.
 
 ## How It Started
 
-The story goes back to 2024-01-13.
+The story goes back to January 13, 2024.
 
-Plurality Tokyo in April 2023 was held at the SmartNews office, where readers devoted to Ken Suzuki’s *A Smooth Society and Its Enemies* gathered around him. A study group emerged that aimed to use that book as a core text while connecting it to contemporary technology and knowledge. This later came to be known as the “Smooth Conference.” On 2024-01-13, the third Smooth Conference was held, and Toki Yuki, Representative Director of the nonprofit Mielka, which operates JAPAN CHOICE, participated and gave a talk. The discussion there became animated around the appeal of Polis, and a plan was launched to use Polis on JAPAN CHOICE in conjunction with the House of Representatives election in autumn 2024.
+Plurality Tokyo in April 2023 was held at the SmartNews office, where readers devoted to Ken Suzuki’s *A Smooth Society and Its Enemies* gathered around him. A study group emerged that aimed to use that book as a core text while connecting it to contemporary technology and knowledge. This later came to be known as the “Smooth Conference.” On January 13, 2024, the third Smooth Conference was held, and Toki Yuki, Representative Director of the nonprofit Mielka, which operates JAPAN CHOICE, participated and gave a talk. The discussion there became animated around the appeal of Polis, and a plan was launched to use Polis on JAPAN CHOICE in conjunction with the House of Representatives election in autumn 2024.
 
 ## The Relationship Between Polis and Voting Advice Applications
 
-Polis, which has been used in Taiwan’s digital democracy for more than a decade, is a system that creates a map of opinion distribution by having users vote agree/disagree on a set of statements.
+Polis, which has been used in Taiwan’s digital democracy for more than a decade, is a system that visualizes the distribution of opinion by having users vote agree/disagree on a set of statements.
 
-The first half of that process—collecting agreement and disagreement on statements—is structurally the same as conventional voting advice applications. Traditional voting advice applications would take that information and display the result as a one-dimensional ranking: “The party closest to your views is Party X.” With Polis, by contrast, “your views” are plotted on a “map of everyone’s views,” and “party positions” are plotted on that same map as well. This makes it possible to see, in a two-dimensional space, which party your views are closest to.
+The first half of that process—collecting agreement and disagreement on statements—is structurally the same as conventional voting advice applications. Traditional voting advice applications would take that information and display the result as a one-dimensional ranking: “The party closest to your views is Party X.” With Polis, by contrast, “your views” are plotted within a shared opinion space, and “party positions” are plotted within that same space as well. This makes it possible to see, in a two-dimensional space, which party your views are closest to.
 
-I felt that this experience—seeing yourself and political parties lined up as equal entities within a map of public opinion—could be extremely compelling.
-
-I felt that this experience—seeing yourself and political parties lined up as equal entities within a map of public opinion—could be extremely compelling. But to make that experience possible, we could not simply use Polis as-is.
+I felt that this experience—seeing yourself and political parties positioned together within a shared opinion space—could be extremely compelling. But to make that experience possible, we could not simply use Polis as-is.
 
 ## Design Changes for Japanese Elections
 
@@ -61,7 +59,7 @@ The opinions users voted on were extracted from each party’s electoral platfor
 
 This is a visualization of opinion groups on economic policy. You can see a cluster in the lower right with no party icon attached. (Details follow below.)
 
-## Choosing to Cut “Free Posting” in Order to Maintain Quality
+## Choosing to Disable Open Submission in Order to Maintain Quality
 
 And in order to make that value proposition work, we were forced into some difficult design decisions.
 
@@ -123,7 +121,7 @@ One of the defining features of this cluster was its clear opposition to cutting
 
 ## Conclusion as a Public Good: For Open Data and Iteration
 
-On 2025-05-08, the voting data from Public Opinion Map 2024 was released as open data and open source. The CSV files and images are provided under CC BY 4.0[^opendata].
+On May 8, 2025, the voting data from Public Opinion Map 2024 was released as open data and open source. The CSV files and images are provided under CC BY 4.0[^opendata].
 
 [^takagi]: He later founded Tagen Genjitsu LLC as its representative and has worked on the social implementation of broad listening technologies. Tagen Genjitsu is discussed in detail in Chapter 11.
 [^opendata]: Public Opinion Map 2024 open data: `https://github.com/mielka/yoronchizu2024-data`

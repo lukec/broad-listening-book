@@ -4,7 +4,7 @@ Society has lost spaces where empathy feels safe.
 
 Empathy is a fundamental human need. Discovering that “someone else thinks the same way I do” gives us a deep sense of reassurance. But in modern society, the very act of seeking empathy has come to carry risks. The moment we go looking for people on social media who understand us and try to connect with them, the door to the echo chamber swings open.
 
-In Chapter 3, we looked at how political leaders and public administration can use broad listening. It fills gaps in legitimacy, updates the map of public issues, and connects those issues to policy. But broad listening also has a distinct value for the citizens being listened to. It offers a way to restore this lost “safe empathy.”
+In Chapter 3, we looked at how political leaders and public administration can use broad listening. It fills gaps in legitimacy, updates the public issue space, and connects those issues to policy. But broad listening also has a distinct value for the citizens being listened to. It offers a way to restore this lost “safe empathy.”
 
 An echo chamber is a closed space where only people with the same opinions or values gather, and their voices bounce off one another and become amplified. The term is a metaphor borrowed from acoustics: just as your own voice reflects off the walls and returns to you again and again, in an echo chamber you hear the same kinds of opinions repeated over and over.
 
