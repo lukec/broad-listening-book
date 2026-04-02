@@ -10,7 +10,7 @@ In July 2024, I was helping Takahiro Anno with his Tokyo governor election campa
 
 We received about 8,100 questions, with a valid response rate of 77%. Through AI, we were able to absorb a volume of public voices that would have been physically impossible for a single candidate to hear directly. It felt meaningful.
 
-After the governor election, Anno launched [Team Mirai (referred to as "Team Future" in this book)](https://team-mir.ai/) and decided to run in the 2025 House of Councillors election. In the [DD2030](https://github.com/digitaldemocracy2030) community, I worked on developing “Idobata,” a deliberation platform. The concept was simple: “Let’s build a system where all 100 million people in Japan can deliberate together.”
+After the governor election, Anno launched [Team Mirai (meaning “Team Future”)](https://team-mir.ai/) and decided to run in the 2025 House of Councillors election. In the [DD2030](https://github.com/digitaldemocracy2030) community, I worked on developing “Idobata,” a deliberation platform. The concept was simple: “Let’s build a system where all 100 million people in Japan can deliberate together.”
 
 ![Early concept diagram for the Idobata system. It uses a funnel structure to gather citizens’ voices from diverse channels such as X, YouTube, phone, and in-person interactions, with AI organizing the issues and connecting them to policy development on Discourse and GitHub.](../images/column_idobata_concept.png)
 
@@ -66,7 +66,7 @@ That is why our strategy changed.
 
 We got a real sense of this in Ota City’s Jibungotokaigi, a citizen meeting designed to make public issues feel personally relevant. Participants had explored their own positions through dialogue with AI before the meeting, so from the very start they were able to share common ground and reach a level of discussion deep enough to ask one another, “Is that a fact, or just an impression?” Twenty residents, all strangers to one another, were able to get that far in their very first session. Chapter 11, “Plural Reality,” introduces the Ota City initiative in more detail.
 
-We founded [Plural Reality](https://www.plural-reality.com/) in order to keep testing this hypothesis in real-world settings. Building systems to “deliver voices” through DD2030 and Team Future became the foundation of the work I do now. But to connect those voices to decision-making, a process that supports each individual’s self-understanding turned out to be indispensable. I think this bottleneck became visible precisely because I stayed on the ground, directly involved in broad listening as a practitioner.
+We founded [Plural Reality](https://www.plural-reality.com/) in order to keep testing this hypothesis in real-world settings. Building systems to “deliver voices” through DD2030 and Team Mirai became the foundation of the work I do now. But to connect those voices to decision-making, a process that supports each individual’s self-understanding turned out to be indispensable. I think this bottleneck became visible precisely because I stayed on the ground, directly involved in broad listening as a practitioner.
 
 I have always started from the premise that conflict will never disappear. My thinking is close to the agonistic democracy of political philosopher Chantal Mouffe. What I am aiming for is not “arriving at the correct answer,” but lowering the cost of conflict. Let differences collide as they are, and draw better answers out of that process—without exhausting ourselves unnecessarily.
 

@@ -15,9 +15,9 @@
 
 ## Translation Options
 
-- **Team Mirai**: In this English edition, render as **Team Future** for readability and impact with English-native readers.
-- First mention format: `Team Mirai (referred to as “Team Future” in this book)`.
-- Note: **Team Future** is an editorial translation choice, not necessarily the official party name.
+- **Team Mirai**: Keep as **Team Mirai** in the English edition.
+- First mention format: `Team Mirai (meaning “Team Future”)`.
+- After the first mention in each chapter, continue using **Team Mirai**.
 - **Bluesky**: In Chapter 2, add **Bluesky** after **Facebook** as an editorial choice for English audiences.
 
 ## Open Tasks

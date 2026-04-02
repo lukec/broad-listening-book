@@ -144,7 +144,7 @@ TODO: Brush up this diagram https://codezine.jp/article/detail/21308
 
 The Democratic Party for the People and the Japan Innovation Party have also reflected supporters’ voices in policy through their own processes. Furthermore, when the Japan Innovation Party entered the ruling coalition with the Liberal Democratic Party in October 2025, it created a situation in which parties practicing broad listening existed both in government and in opposition.
 
-In particular, in the 2025 House of Councillors election, Team Mirai (referred to as "Team Future" in this book) operated an “interactive policy platform,” updating its electoral platform through dialogue with voters, while the Japan Innovation Party used broad listening to frame the issue of social insurance premium reform. Broad listening is thus becoming a de facto standard strategy for identifying campaign issues and shaping campaign commitments (see Chapter 6).
+In particular, in the 2025 House of Councillors election, Team Mirai (meaning “Team Future”) operated an “interactive policy platform,” updating its electoral platform through dialogue with voters, while the Japan Innovation Party used broad listening to frame the issue of social insurance premium reform. Broad listening is thus becoming a de facto standard strategy for identifying campaign issues and shaping campaign commitments (see Chapter 6).
 
 The same pattern is spreading in public administration. In Tokyo’s “Shin Tokyo 2050” (“New Tokyo 2050”) project, approximately 27,000 opinions were collected from residents and used in formulating a long-term strategy (see Chapter 5). More and more local governments are also incorporating broad listening into their planning cycles (see Chapter 8).
 

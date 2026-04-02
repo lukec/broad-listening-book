@@ -6,7 +6,7 @@ This section is a reconstruction for this book based on the author’s blog post
 
 English translation by Luke Closs
 
-In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai” (referred to as “Team Future” in this book), and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
+In May 2025, AI engineer Takahiro Anno launched a new political party, “Team Mirai” (meaning “Team Future”), and entered the House of Councillors election. When the votes were counted on July 20, Team Mirai won one seat and about 2.6% of the vote, meeting the legal requirements to become a national political party.
 
 This chapter explains how the broad listening process evolved during that election period, focusing on the “interactive policy platform” that was operated throughout the campaign.
 
@@ -63,15 +63,15 @@ Public Listening AI is a Japan-developed system that improves on Talk to the Cit
 
 When Talk to the City was used during the Tokyo governor election, the analysis program ran on the analyst’s local computer. As a result, one challenge was how to share the generated reports with policy staff and social media staff. With Public Listening AI, analysis is performed on a server, and as soon as report generation is complete, a shareable URL is issued. Staff members can view the report simply by opening that URL.
 
-This time, dozens of reports were created internally, but most were never made public. Although generating reports had become easier, staff still needed to review each one before publication to confirm that its contents were suitable for release. For Team Mirai (referred to as "Team Future" in this book), which fielded ten candidates with a small staff and was contesting its first national election, pre-publication review of reports was not something they could prioritize highly.
+This time, dozens of reports were created internally, but most were never made public. Although generating reports had become easier, staff still needed to review each one before publication to confirm that its contents were suitable for release. For Team Mirai, which fielded ten candidates with a small staff and was contesting its first national election, pre-publication review of reports was not something they could prioritize highly.
 
-At this point, recall the distinction introduced in Chapter 1 between “broad listening as a tool” and “broad listening as a cycle of augmented deliberation.” Ideally, the “cycle of augmented deliberation” should be realized. At the same time, broad listening technology can also function on its own as a tool that helps people better understand public opinion—in other words, like a pair of glasses. Team Future’s use of Public Listening AI in the House of Councillors election mainly delivered this latter benefit.
+At this point, recall the distinction introduced in Chapter 1 between “broad listening as a tool” and “broad listening as a cycle of augmented deliberation.” Ideally, the “cycle of augmented deliberation” should be realized. At the same time, broad listening technology can also function on its own as a tool that helps people better understand public opinion—in other words, like a pair of glasses. Team Mirai’s use of Public Listening AI in the House of Councillors election mainly delivered this latter benefit.
 
 ## Changing the Way Issues Are Categorized: The Value Broad Listening Brings
 
 By observing the actual voices gathered through the platform, discussion and decision-making took place around whether it would be clearer to consolidate opinions that had originally been scattered across multiple sections into a new section called “Welfare.” This kind of “change in categorization” is one of the effects produced by broad listening tools such as Public Listening AI and Talk to the City. A similar restructuring of the policy framework was also carried out in the Tokyo Metropolitan Government case discussed in Chapter 5.
 
-In Team Future’s activities, the addition of a new category meant it became necessary to analyze existing change proposals and determine whether they should be reassigned to the welfare category. To do this, all roughly 2,000 change proposals that existed at the time were categorized using GPT-4o. The reclassification cost $0.021 per item, for a total cost of $9.34[^welfare-label].
+In Team Mirai’s activities, the addition of a new category meant it became necessary to analyze existing change proposals and determine whether they should be reassigned to the welfare category. To do this, all roughly 2,000 change proposals that existed at the time were categorized using GPT-4o. The reclassification cost $0.021 per item, for a total cost of $9.34[^welfare-label].
 
 [^welfare-label]: Welfare label analysis experiment report. https://github.com/team-mirai-volunteer/policy-pr-hub/blob/99917864d079e432053c94a86765d6edad850e5b/docs/welfare_label_analysis_experiment.md
 
@@ -106,7 +106,7 @@ In the “interactive policy platform,” the AI automatically created concrete 
 
 But problems arose when multiple different revision proposals were submitted for the same passage. If Person A proposed “add improved treatment for childcare workers,” and Person B proposed “add expanded after-school childcare,” both targeting the same section, then adopting one would not automatically incorporate the other. In some cases, dozens of proposals were trying to revise the same passage.
 
-This time, Team Future solved the problem through sheer effort: policy staff read all the conflicting revision proposals, extracted the intended changes, and created a new revision proposal themselves. This was far too burdensome, and the author believes future systems will need to improve on it.
+This time, Team Mirai solved the problem through sheer effort: policy staff read all the conflicting revision proposals, extracted the intended changes, and created a new revision proposal themselves. This was far too burdensome, and the author believes future systems will need to improve on it.
 
 The author believes that creating “change proposals” was itself too specific a task from the outset. When AI interviewers go out and listen to large numbers of people, what should they really be asking? Should it be “How should the wording of the platform be revised”? Or should it be “What are you struggling with, and what do you want solved”? When broad listening is used to gather “the voices of many people,” the ease with which those voices can later be used depends on what kind of voices are collected.
 
@@ -116,7 +116,7 @@ In a keynote speech at LibreCon 2016[^librecon], Audrey Tang explained four step
 
 ### A Sense of “Being Heard” and Bidirectional Traceability
 
-In Team Future’s “interactive policy platform,” the AI interviewer listens to people and creates proposals for them. What was lacking was the design of the user experience *after* that listening and proposal creation had taken place.
+In Team Mirai’s “interactive policy platform,” the AI interviewer listens to people and creates proposals for them. What was lacking was the design of the user experience *after* that listening and proposal creation had taken place.
 
 The interactive policy platform sends change proposals to GitHub in the form of pull requests, and then it simply ends there. Users had little visibility into what happened afterward. For example, all change proposals were in fact being divided up and read by more than ten staff members, but there was no feedback indicating that someone had “started reading” a given proposal.  
 As a result, comments expressing “it doesn’t feel like my opinion was really received” appeared here and there. Ideally, users should be able to see a list of the proposals they submitted and the processing status of each one. It would also be good to let users who wish to do so register an email address or similar contact information so that push notifications can be sent. In his book *Applied Imagination*, brainstorming advocate Alex Osborn recommends that “when ideas are adopted, the meeting participants should be informed and encouraged,” and that “a brief note of thanks from those who benefit from the suggestion should be distributed to everyone.”
@@ -128,7 +128,7 @@ Bidirectional traceability is needed for both “where it came from” and “wh
 
 ## The Phenomenon of Discussion Starting on GitHub
 
-At the planning stage of Team Future’s “interactive policy platform,” it was not assumed that ordinary users would use GitHub directly. The system was developed on the premise that doing so would be difficult. However, because GitHub was public, direct use was still possible. In this experiment, one of the 8,559 change proposals received an extraordinary 236 comments. The second-most-commented proposal had only 10 comments, which shows just how exceptional that was.
+At the planning stage of Team Mirai’s “interactive policy platform,” it was not assumed that ordinary users would use GitHub directly. The system was developed on the premise that doing so would be difficult. However, because GitHub was public, direct use was still possible. In this experiment, one of the 8,559 change proposals received an extraordinary 236 comments. The second-most-commented proposal had only 10 comments, which shows just how exceptional that was.
 
 During the Tokyo governor election, an AI filter had been implemented to screen out abuse and harassment. This time, however, because lively discussion on GitHub had not been anticipated, no such filter was included. As a result, GitHub’s comment section ended up functioning like a classic web message board, with exchanges of sharp and hostile language. In addition, some people in the comment section used Mr. Anno’s face icon without permission, while others who were in no position to speak on behalf of the party made statements that could be mistaken for official party views. On X (Twitter), some influencers even posted misinformation after misidentifying this discussion as “internal debate within Team Mirai.”
 
@@ -147,7 +147,7 @@ During the summer of 2025, several principles were articulated that are useful f
 
 Broad listening as a component (such as visualization through Public Listening AI) appears in many places throughout this cycle, but those components alone are not the main actors. What matters is that the entire broad listening cycle—opinion gathering → structuring → deliberation → decision-making → feedback—was attempted as a single social experiment.
 
-The demonstration Mr. Anno gave in the Tokyo governor election of what had newly become technically possible had a major impact on society one year later. The demonstration carried out by Team Future in this House of Councillors election will likely have an even greater impact on the world of the future.
+The demonstration Mr. Anno gave in the Tokyo governor election of what had newly become technically possible had a major impact on society one year later. The demonstration carried out by Team Mirai in this House of Councillors election will likely have an even greater impact on the world of the future.
 
 ## About the Idobata System
 

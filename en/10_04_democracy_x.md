@@ -24,7 +24,7 @@ Open-source tools such as those developed by DD2030 are powerful, but tools alon
 
 Democracy X consists of the following members:
 
-- **Tomoki Takate** (Founder): An AI engineer. He was involved with Team Mirai (referred to as "Team Future" in this book) in developing tools such as an AI fact-checker. Interested in implementing digital democracy at the local level, he launched Democracy X.
+- **Tomoki Takate** (Founder): An AI engineer. He was involved with Team Mirai (meaning “Team Future”) in developing tools such as an AI fact-checker. Interested in implementing digital democracy at the local level, he launched Democracy X.
 - **Yutaro Kuchiki**: An AI researcher. He is responsible for improving the analysis process of the public listening AI and providing technical support.
 - **Fumikazu Kiyota**: While serving as CTO of a startup in the consumer sector, he is also secretary-general of Kumamoto VOICE, a local political organization in Kumamoto. Drawing on his connections to both technology and local politics, he supports Democracy X’s activities.
 

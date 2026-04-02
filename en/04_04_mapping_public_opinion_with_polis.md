@@ -117,7 +117,7 @@ The AI-generated explanation for this group was as follows:
 
 The political blank space captured by Public Opinion Map is analogous, in private-sector product development terms, to a situation where “you know customers exist, but no competitor is offering the product those customers want.”
 
-One of the defining features of this cluster was its clear opposition to cutting or abolishing the consumption tax. One year after this analysis, in the 2026 House of Representatives election, Team Mirai (referred to as "Team Future" in this book) alone took a position opposing a consumption tax cut. It is impossible to verify how much that contributed, but the party went on to win what could fairly be called a major breakthrough in seats. In this way, discovering opinion groups that other parties do not represent may offer a valuable opportunity—especially for smaller parties—to attract attention and support.
+One of the defining features of this cluster was its clear opposition to cutting or abolishing the consumption tax. One year after this analysis, in the 2026 House of Representatives election, Team Mirai (meaning “Team Future”) alone took a position opposing a consumption tax cut. It is impossible to verify how much that contributed, but the party went on to win what could fairly be called a major breakthrough in seats. In this way, discovering opinion groups that other parties do not represent may offer a valuable opportunity—especially for smaller parties—to attract attention and support.
 
 ## Conclusion: Toward a Public Good Through Open Data and Iteration
 

@@ -4,7 +4,7 @@ Written by: sumino
 
 English translation by Luke Closs
 
-In the 2026 House of Representatives election as well, Team Mirai (referred to as "Team Future" in this book) launched its electoral platform website and invited proposals from voters. Building on the experience and lessons of the previous House of Councillors election, the concept was changed from an "interactive policy platform" to a "platform where your voice is heard." The goal was not only to collect voters' opinions, but also to create a mechanism that would ensure those voices actually reached the people responsible for policy.
+In the 2026 House of Representatives election as well, Team Mirai (meaning “Team Future”) launched its electoral platform website and invited proposals from voters. Building on the experience and lessons of the previous House of Councillors election, the concept was changed from an "interactive policy platform" to a "platform where your voice is heard." The goal was not only to collect voters' opinions, but also to create a mechanism that would ensure those voices actually reached the people responsible for policy.
 
 ![Top screen of the "platform where your voice is heard"](images/06_02_team_mirai_manifesto_top.png)
 

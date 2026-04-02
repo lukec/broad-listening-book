@@ -12,7 +12,7 @@ Komeito faced a structural challenge: the aging of its support base. As the memb
 
 Against this backdrop, on March 17, 2025, Komeito launched the policy development survey “We Connect.” The project aimed to reflect the “unfiltered voices” of young people and working-age generations in the party’s priority policies for the House of Councillors election (voting and counting on July 20). The survey period lasted about three months, from March 17 to June 26. Hereafter, this section abbreviates it as “We Connect.”
 
-At the time, Komeito was part of the ruling coalition with the Liberal Democratic Party. This distinguishes it from the other cases in this chapter—Team Mirai (referred to as "Team Future" in this book), Ishin, and the Democratic Party for the People—all of which were opposition parties. Komeito pursued broad listening from a position where it could actually implement policy.
+At the time, Komeito was part of the ruling coalition with the Liberal Democratic Party. This distinguishes it from the other cases in this chapter—Team Mirai (meaning “Team Future”), Ishin, and the Democratic Party for the People—all of which were opposition parties. Komeito pursued broad listening from a position where it could actually implement policy.
 
 This section is based not on direct interviews with Komeito, but on publicly available information such as the project website, the party’s official YouTube channel, and published materials.
 
@@ -116,9 +116,9 @@ One of We Connect’s major distinguishing features was that it incorporated AI 
 
 Compared with the other cases in this chapter, Komeito’s We Connect had a somewhat different character in several respects.
 
-First, scale. Compared with Team Future (8,559 responses) and the Democratic Party for the People (60,000), the combined total of about 127,000 responses across the first and second surveys was the largest in this chapter. However, this scale likely owed much to Komeito’s nationwide network of local lawmakers distributing QR codes through grassroots efforts. Its collection structure differed from that of Ishin, which gathered opinions from an unspecified mass of social media users (300,000 responses collected).
+First, scale. Compared with Team Mirai (8,559 responses) and the Democratic Party for the People (60,000), the combined total of about 127,000 responses across the first and second surveys was the largest in this chapter. However, this scale likely owed much to Komeito’s nationwide network of local lawmakers distributing QR codes through grassroots efforts. Its collection structure differed from that of Ishin, which gathered opinions from an unspecified mass of social media users (300,000 responses collected).
 
-Second, collection method. Ishin used social media scraping, Team Future used pull requests via AI interviews, and the Democratic Party for the People used multiple online and offline channels. Komeito, by contrast, chose the simple tool of Google Forms. Its distinctive feature was not technical complexity, but the way it combined existing organizational strength with existing tools to achieve large-scale opinion collection.
+Second, collection method. Ishin used social media scraping, Team Mirai used pull requests via AI interviews, and the Democratic Party for the People used multiple online and offline channels. Komeito, by contrast, chose the simple tool of Google Forms. Its distinctive feature was not technical complexity, but the way it combined existing organizational strength with existing tools to achieve large-scale opinion collection.
 
 Komeito has long presented “the ability to listen to small voices” as one of its strengths. We Connect can be seen as an attempt to update that traditional stance into a contemporary form using digital tools.
 

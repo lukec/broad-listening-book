@@ -112,7 +112,7 @@ The revision history of this election policy platform is published on GitHub[^gi
 
 [^github]: https://github.com/takahiroanno2024/election2024/pull/221
 
-[^note]: [2024 Tokyo Governor Election] Summary of Updates to Takahiro Anno’s Governor Election Platform (6/22–6/29) | Takahiro Anno Staff @ Team Mirai (referred to as "Team Future" in this book) [Official] https://note.com/annotakahiro24/n/n2e69a38b41f3
+[^note]: [2024 Tokyo Governor Election] Summary of Updates to Takahiro Anno’s Governor Election Platform (6/22–6/29) | Takahiro Anno Staff @ Team Mirai [Official] https://note.com/annotakahiro24/n/n2e69a38b41f3
 
 [^note2]: https://note.com/jujunjun110/n/n2f855e5a6cd8?magazine_key=m3060242bb916
 
@@ -185,7 +185,7 @@ Candidate Takahiro Anno received 154,638 votes (2.3% of the vote)[^tochiji-resul
 
 The practice of broad listening in this election became a pioneering example demonstrating the potential of digital democracy in Japanese elections. Although challenges remain, it was meaningful that the process of “listening to voters’ voices and building policy” was actually put into motion within the short time frame of an election campaign.
 
-This result—more than 2% of the vote—also helped encourage Mr. Anno to launch the political party Team Mirai (referred to as "Team Future" in this book) in 2025[^team-mirai]. The ideals of “digital democracy” and the methods of broad listening cultivated during the governor election have continued to occupy a central place in his subsequent political activities.
+This result—more than 2% of the vote—also helped encourage Mr. Anno to launch the political party Team Mirai (meaning “Team Future”) in 2025[^team-mirai]. The ideals of “digital democracy” and the methods of broad listening cultivated during the governor election have continued to occupy a central place in his subsequent political activities.
 
 Broad listening, moreover, is not a technology limited to elections. It can be applied in many settings, including analyzing customer feedback in private companies, gathering residents’ opinions in local governments, and facilitating dialogue with supporters in NPOs. This point will be discussed in more detail in the latter half of this book.
 

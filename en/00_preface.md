@@ -21,7 +21,7 @@ That said, the technologies and practices discussed in this book are still in th
 
 Behind this conviction lies a major technological and intellectual shift. One element is the idea of “Plurality,” advocated by Audrey Tang and others in Taiwan: not a democracy based merely on majority rule, but one in which multiple perspectives coexist while seeking agreement. Another is the emergence of large language models (LLMs), which can articulate tacit knowledge and structure vast amounts of text.
 
-Against this backdrop of new ideas and technologies, I have been experimenting with how to implement Broad Listening in the real-world settings of Japanese elections, government administration, and the Japanese Parliament. Originally an AI engineer who founded an AI startup, I ran in the 2024 Tokyo governor election and proposed bringing technology into the electoral process. That same year, I became an advisor to GovTech Tokyo, a Tokyo metropolitan digital-policy affiliate, and explored whether these technologies could be used in local government policymaking. In January 2025, I co-founded the civic tech organization *Digital Democracy 2030* with Ken Suzuki. In May 2025, I launched Team Mirai (referred to as “Team Future” in this book), a political party, which won seats in the July House of Councillors election. I am now working from within Nagatacho, Japan’s political center, as the leader of a national political party, to “update democracy through digital technology.”
+Against this backdrop of new ideas and technologies, I have been experimenting with how to implement Broad Listening in the real-world settings of Japanese elections, government administration, and the Japanese Parliament. Originally an AI engineer who founded an AI startup, I ran in the 2024 Tokyo governor election and proposed bringing technology into the electoral process. That same year, I became an advisor to GovTech Tokyo, a Tokyo metropolitan digital-policy affiliate, and explored whether these technologies could be used in local government policymaking. In January 2025, I co-founded the civic tech organization *Digital Democracy 2030* with Ken Suzuki. In May 2025, I launched Team Mirai (meaning “Team Future”), a political party, which won seats in the July House of Councillors election. I am now working from within Nagatacho, Japan’s political center, as the leader of a national political party, to “update democracy through digital technology.”
 
 ## A Trail of Trial and Error
 
@@ -89,7 +89,7 @@ Over the past decade, roughly 10,000 citizen proposals have been submitted, of w
 
 Conversely, if you merely provide a venue but it does not lead to real action, citizens are left with the negative experience of “I worked hard to answer the survey, and it was all for nothing.” If trust is earned, participation will continue to grow; if trust is not earned, the system will quickly wither. Whether one enters a “good cycle” or falls into a “bad cycle” is decisively important.
 
-In this context, Team Future chose the path of becoming a national political party. That ensures the ability to take action within the Japanese Parliament. The existence of this clear path to action helps establish credibility and, in turn, sustain participation in Broad Listening.
+In this context, Team Mirai chose the path of becoming a national political party. That ensures the ability to take action within the Japanese Parliament. The existence of this clear path to action helps establish credibility and, in turn, sustain participation in Broad Listening.
 
 Of course, this requires many different mechanisms. Civic tech groups, companies, politicians, and government institutions all need to steadily build trust, from their respective positions, that “if you voice your opinion here, something might actually change.”
 
@@ -131,7 +131,7 @@ Even so, being able to handle both logical proposals for revision and emotional 
 
 The final, and most important, perspective is the completion of action. No matter how broadly, deeply, and quickly voices are gathered, and no matter how well they are organized into actionable insights, the Broad Listening loop is not complete unless it ultimately results in action in the real world.
 
-From this perspective, it matters that Team Future became a national political party and gained the authority that comes with having members in the Japanese Parliament. By law, members of the Japanese Parliament are given options and powers such as the following:
+From this perspective, it matters that Team Mirai became a national political party and gained the authority that comes with having members in the Japanese Parliament. By law, members of the Japanese Parliament are given options and powers such as the following:
 
 - Voting for or against bills, treaties, and budgets
 - Asking questions and speaking in parliamentary committees
@@ -142,7 +142,7 @@ From this perspective, it matters that Team Future became a national political p
 
 At this early stage in the development of Broad Listening, we have a hypothesis: that a structure integrating four elements—“political party,” “tech platform,” “policymaker,” and “media”—may maximize the value of Broad Listening. If the team that builds the system for gathering voices, the team that analyzes and interprets those voices into bills or institutions, and the team that pushes those bills or institutions forward in the political arena all exist separately in disconnected organizations, then the probability rises that information will be lost at some point in the chain.
 
-Team Future, which has vertically integrated “listen,” “think,” “decide,” and “execute” within a single organization, occupies a unique position even by global standards. There are almost no examples anywhere in the world of a national political party undertaking this kind of effort while also maintaining a team of software engineers. Precisely for that reason, we believe Team Future has a responsibility to engage in extensive trial and error.
+Team Mirai, which has vertically integrated “listen,” “think,” “decide,” and “execute” within a single organization, occupies a unique position even by global standards. There are almost no examples anywhere in the world of a national political party undertaking this kind of effort while also maintaining a team of software engineers. Precisely for that reason, we believe Team Mirai has a responsibility to engage in extensive trial and error.
 
 At the same time, of course, government institutions and the civic tech community also have major roles to play. Civic tech communities can do many things precisely because they do not hold political positions, and there are also many things that can only be achieved by local governments or central ministries. Ideally, the explorations of each player will be shared organically and connected with one another as Broad Listening develops.
 
