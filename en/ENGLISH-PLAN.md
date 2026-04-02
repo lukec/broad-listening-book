@@ -31,7 +31,9 @@
 | ch02_column_word_cloud | `column/word_cloud_is_not_analysis.md` | 2026-04-01 | `4b29b9d` | Reviewed |
 | ch03_digital_democracy_and_public_voice | `03_digital_democracy_and_new_public_voice.md` | 2026-04-01 | `e3aa55a` | Reviewed (text passed; image review tracked below) |
 | ch03_column_safe_empathy | `column/safe_empathy.md` | 2026-04-01 | `e3aa55a` | Reviewed (absolutely amazing) |
-| ch04_broadlistening_spread_in_japan | `04_*` | — | — | Not reviewed |
+| ch04_broadlistening_spread_in_japan | `04_spread_of_broad_listening_in_japan.md` | 2026-04-01 | `e3aa55a` | Reviewed (good) |
+| ch04_01_takahiro_anno_initiatives | `04_01_takahiro_anno_initiatives.md` | 2026-04-02 | `3c85f5f` | Reviewed (good) |
+| ch04_02_dpfp_parliamentary_questions | `04_02_dpfp_parliamentary_questions.md` | 2026-04-02 | `80d4912` | Reviewed (good) |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
 | ch06_national_elections | `06_*` | — | — | Not reviewed |
 | ch07_local_elections | `07_*` | — | — | Not reviewed |
@@ -55,3 +57,12 @@
 | ch02_column | `02_political_wordcloud.png` | GOOD | Approved |
 | ch02_column | `02_rashomon_wordcloud.png` | GOOD | Approved |
 | ch03 | `column/tool_double_diamond.png` | NEEDS-WORK | Third image in Chapter 3 did not pass review; requires further rework |
+| ch04_01 | `04_01_broadlistening_concept.png` | GOOD | Approved |
+| ch04_01 | `04_01_kiku-migaku-tsutaeru_en.png` | GOOD | Approved |
+| ch04_01 | `04_01_anonymous_opinion_scatter_en.png` | GOOD | Approved |
+| ch04_01 | `04_01_fullscreen_map.png` | GOOD | Approved |
+| ch04_01 | `04_01_cluster_detail_en.png` | GOOD | Approved |
+| ch04_01 | `04_01_comment_detail_en.png` | GOOD | Approved |
+| ch04_02 | `04_02_kokumin_tttc_sanpuzu.png` | GOOD | Approved |
+| ch04_02 | `04_02_kokumin_broadlistening_hikaku_en.png` | GOOD | Approved |
+| ch04_02 | `04_02_kokumin_ai_process_en.png` | GOOD | Approved |
