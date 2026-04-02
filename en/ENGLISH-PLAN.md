@@ -48,7 +48,9 @@
 | ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; all images approved) |
 | ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | 2026-04-02 | `3cccb0b` | Reviewed (good) |
 | ch06_05_komeito | `06_05_komeito.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; all images approved) |
-| ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
+| ch07_local_elections_intro | `07_use_in_local_elections.md` | 2026-04-02 | `49afeb5` | Reviewed (good) |
+| ch07_02_ryosuke_idei_case | `07_02_ryosuke_idei_case.md` | — | — | Not reviewed |
+| ch07_03_saisei_no_michi_kazuya_obanayama | `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
 | ch08_municipalities | `08_use_in_local_governments.md`, `08_01_ota_city_jibungotoka_meeting.md`, `08_02_hiroshima_case.md` | — | — | Not reviewed |
 | ch09_enterprise_and_npo | `09_use_in_companies_and_npos.md`, `09_01_altius_link_interview.md`, `09_02_cybozu.md`, `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
 | ch10_broadlistening_business | `10_broad_listening_as_a_business.md`, `10_00_dd2030_kocho_ai_development.md`, `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
