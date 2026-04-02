@@ -30,7 +30,7 @@ To clarify this argument, this chapter explains the following three points:
 
 In representative democracy, citizens choose representatives through elections, and those representatives make policy decisions. In Japan, members of the House of Representatives serve four-year terms, while members of the House of Councillors serve six-year terms.
 
-There is a reason for this system. It is not realistic for all citizens to decide every policy issue themselves. So during elections, candidates present campaign pledges, and citizens choose representatives based on those pledges. Once elected, representatives carry them out during their term, and citizens evaluate the results in the next election. This is the basic design logic of representative democracy.
+There is a reason for this system. It is not realistic for all citizens to decide every policy issue themselves. So during elections, candidates present their electoral platforms, and citizens choose representatives based on those platforms. Once elected, representatives carry them out during their term, and citizens evaluate the results in the next election. This is the basic design logic of representative democracy.
 
 This system worked in an era when social change was gradual. But the pace of change in modern society has accelerated. Shorter cycles of technological innovation, the immediate impact of international developments through globalization, the dramatic increase in the speed of information diffusion through social media, and the frequent occurrence of hard-to-predict events such as pandemics and climate change have all made it common for issues that were not salient at election time to emerge as major policy challenges during a representative’s term.
 
@@ -38,9 +38,9 @@ This system worked in an era when social change was gradual. But the pace of cha
 
 These changes confront politicians with what we may call a “legitimacy gap.”
 
-Politicians run for office on campaign pledges and are elected with voter support. Votes cast in response to those pledges are the source of legitimacy in representative democracy. But during their term, politicians are forced to make decisions on issues that were not election issues at the time—such as pandemic response or regulation of generative AI. On these new issues, they have not received an explicit mandate from voters. Yet they must still respond. That is where the “legitimacy gap” arises.
+Politicians run for office on their electoral platforms and are elected with voter support. Votes cast in response to those platforms are the source of legitimacy in representative democracy. But during their term, politicians are forced to make decisions on issues that were not election issues at the time, such as pandemic response or regulation of generative AI. On these new issues, they have not received an explicit mandate from voters. Yet they must still respond. That is where the “legitimacy gap” arises.
 
-In an era of gradual social change, this gap was relatively small. There were fewer new issues arising during a term, and many could be addressed as extensions of existing pledges. Today, however, because of the four factors mentioned above, legitimacy gaps arise more frequently and on a larger scale.
+In an era of gradual social change, this gap was relatively small. There were fewer new issues arising during a term, and many could be addressed as extensions of existing platform commitments. Today, however, because of the four factors mentioned above, legitimacy gaps arise more frequently and on a larger scale.
 
 To fill this gap, we need a mechanism for continuously grasping “what issues are out there” even between elections. A one-time expression of will through voting is not enough; when new issues emerge, we also need ways to understand what perspectives and concerns citizens have about them.
 
@@ -62,7 +62,7 @@ Japan has entered a period of population decline. With falling birth rates, the 
 
 This is competition among municipalities. Just as politicians are judged in elections every few years, local governments are evaluated every day through residents’ decisions to move. Residents always have the option of “voting with their feet” by relocating to a better municipality. They may move to a neighboring city with stronger child-care support, choose a town with better commuting access and living conditions, or bring elderly parents to a municipality with better long-term care services. These decisions accumulate day by day, month by month.
 
-If elections are the “source of legitimacy” for politicians, then voting with one’s feet is a “condition of survival” for local government. When residents decline, tax revenue falls, services shrink, and more residents leave. Many municipalities have fallen into this negative spiral.
+If elections are the “source of legitimacy” for politicians, then voting with one’s feet is a “condition of survival” for local government. When population declines, tax revenue falls, services shrink, and more residents leave. Many municipalities have fallen into this negative spiral.
 
 To compete successfully, governments must decide what to prioritize and what to cut within limited budgets. If child-care support is expanded, what should be reduced? If public facilities are consolidated or closed, how can public understanding be secured? Such trade-off-laden decisions require understanding what residents value and what they are willing to accept.
 
@@ -86,7 +86,7 @@ The legal basis for public comment in Japan is Article 38 of the Administrative 
 
 In other words, public comment is used as a final check on regulations that are already largely complete. And most of the people submitting comments are either companies directly affected by the regulation or a very small number of unusually civic-minded individuals. As a result, most public comment processes receive fewer than ten submissions.
 
-![Number of public comments](column/opinion_histogram_filtered.png)
+![Number of public comments](column/opinion_histogram_filtered_en.png)
 
 Most public comment processes receive fewer than ten submissions, making it hard to say that they are truly “collecting views broadly.” One reason so few comments are submitted is that the process asks for opinions on documents written in bureaucratic language. As a result, only corporate legal departments accustomed to reading administrative documents, or a small number of people capable of deciphering them, are able to respond. In addition, because these drafts are issued just before implementation, they are written in highly practical, technical terms that only specialists can really understand.
 
@@ -129,17 +129,17 @@ Organizing the above, we get the following characteristics:
 
 | Method | Representativeness | Real-time capability | Large-scale data | Free text | Structuring |
 |------|--------|---------------|----------|----------|--------|
-| Opinion polls (multiple choice) | ◎ | × | △ | × | ◎ |
-| Opinion polls (free text) | ◎ | × | △ | ◎ | △ |
-| Public comment | × | △ | × | ◎ | × |
-| Petitions / formal requests | × | △ | × | 〇 | × |
-| Online opinion collection within organizations | △ | ◎ | 〇 | ◎ | × |
-| Social media | × | ◎ | ◎ | ◎ | × |
-| **Broad listening** | × | 〇 | ◎ | ◎ | 〇 |
+| Opinion polls (multiple choice) | High | None | Low | None | High |
+| Opinion polls (free text) | High | None | Low | High | Low |
+| Public comment | None | Low | None | High | None |
+| Petitions / formal requests | None | Low | None | Medium | None |
+| Online opinion collection within organizations | Low | High | Medium | High | None |
+| Social media | None | High | High | High | None |
+| **Broad listening** | None | Medium | High | High | Medium |
 
 As the table shows, methods that can gather large amounts of free text (organizational channels and social media) lack the ability to structure it, while opinion polls (multiple choice), which can produce structured results, do not capture free text. Broad listening is the technology that fills this gap. It is not simply another “data collection method” alongside conventional tools, but rather an **analytical method** that uses AI to structure and visualize collected data, automatically classifying and summarizing thousands to tens of thousands of free-text responses to provide an issue map.
 
-That said, the accuracy of this structuring is not perfect (hence the 〇 in the table). AI-based clustering and summarization still require human interpretation, and they do not produce definitive numerical outputs like multiple-choice opinion polls. Their real value lies in the exploratory stage, when the key question is “what are the issues in the first place?”—surfacing unexpected issues and overlooked minority views. If the goal is simply to measure support or opposition on already known issues, then multiple-choice opinion polls are sufficient. Broad listening comes into its own when the task is to discover the issues themselves—in other words, to identify what should even be presented as options. Because broad listening is not representative (see Chapter 2), it should be used for **issue discovery**, while **measuring public opinion** should, where necessary, be done through opinion polls. This division of roles is essential.
+That said, the accuracy of this structuring is not perfect, which is why it is rated only Medium in the table. AI-based clustering and summarization still require human interpretation, and they do not produce definitive numerical outputs like multiple-choice opinion polls. Their real value lies in the exploratory stage, when the key question is “what are the issues in the first place?”—surfacing unexpected issues and overlooked minority views. If the goal is simply to measure support or opposition on already known issues, then multiple-choice opinion polls are sufficient. Broad listening comes into its own when the task is to discover the issues themselves—in other words, to identify what should even be presented as options. Because broad listening is not representative (see Chapter 2), it should be used for **issue discovery**, while **measuring public opinion** should, where necessary, be done through opinion polls. This division of roles is essential.
 
 ## How to Connect It to Democratic Processes (Operational Flow)
 

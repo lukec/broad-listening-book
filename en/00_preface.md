@@ -33,7 +33,7 @@ The first, and most symbolic, experiment was the 2024 Tokyo governor election. T
 
 At the core were three components.
 
-The first was a mechanism for publishing the platform on GitHub and managing it through Issues and Pull Requests (PRs). Feedback and suggestions from voters and stakeholders were logged as Issues, and the policy team reviewed them and reflected actual wording changes through PRs. During the campaign alone, hundreds of issues and proposed changes were submitted, and many were adopted as revisions to the platform. Campaign pledges were treated not as a static PDF, but as a “living document” that evolved through versions 1.0, 1.1, 1.2, and so on.
+The first was a mechanism for publishing the platform on GitHub and managing it through Issues and Pull Requests (PRs). Feedback and suggestions from voters and stakeholders were logged as Issues, and the policy team reviewed them and reflected actual wording changes through PRs. During the campaign alone, hundreds of issues and proposed changes were submitted, and many were adopted as revisions to the platform. The platform was treated not as a static PDF, but as a “living document” that evolved through versions 1.0, 1.1, 1.2, and so on.
 
 The second was the AI avatar “AI Anno.” Through YouTube streams and other channels, it functioned as an AI town hall that answered voters’ questions 24 hours a day, 365 days a year, ultimately handling nearly 10,000 questions. These conversations used a method known as RAG (retrieval-augmented generation), with the GitHub-hosted platform as the knowledge base, and the resulting logs were used to inform policy revisions.
 

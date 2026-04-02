@@ -53,3 +53,4 @@
 | ch02 | `02_noisy_minority_en.png` | GOOD | Approved |
 | ch02_column | `02_political_wordcloud.png` | GOOD | Approved |
 | ch02_column | `02_rashomon_wordcloud.png` | GOOD | Approved |
+| ch03 | `column/tool_double_diamond.png` | NEEDS-WORK | Third image in Chapter 3 did not pass review; requires further rework |
