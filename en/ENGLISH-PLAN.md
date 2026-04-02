@@ -20,6 +20,10 @@
 - Note: **Team Future** is an editorial translation choice, not necessarily the official party name.
 - **Bluesky**: In Chapter 2, add **Bluesky** after **Facebook** as an editorial choice for English audiences.
 
+## Open Tasks
+
+- TODO: Ensure every image in the English edition uses descriptive alt text beginning with `Figure: `. This is especially important for images that remain untranslated, where the alt text must clearly describe the figure's content in English.
+
 ## Review Log
 
 | Section | Scope | Reviewed Date | Source Commit (JP) | Status |
@@ -37,8 +41,13 @@
 | ch04_03_ntv_election_special | `04_03_sumino_ntv_election_special.md` | 2026-04-02 | `01b2e1e` | Reviewed (good) |
 | ch04_04_mapping_public_opinion_with_polis | `04_04_mapping_public_opinion_with_polis.md` | 2026-04-02 | `4adaddf` | Reviewed (good) |
 | ch04_05_asahi_special_feature | `04_05_asahi_special_feature.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; footnote 13 inaccurate, missing images tracked below) |
-| ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
-| ch06_national_elections | `06_broad_listening_in_national_elections.md`, `06_01_team_mirai.md`, `06_02_team_mirai_2026_house_of_representatives_election.md`, `06_03_nippon_ishin_no_kai.md`, `06_04_democratic_party_for_the_people.md`, `06_05_komeito.md` | — | — | Not reviewed |
+| ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | 2026-04-02 | `3c85f5f` | Reviewed (excellent; Conway part amazing) |
+| ch06_national_elections_intro | `06_broad_listening_in_national_elections.md` | 2026-04-02 | `abd2321` | Reviewed (good) |
+| ch06_01_team_mirai | `06_01_team_mirai.md` | — | — | In review |
+| ch06_02_team_mirai_2026_lower_house | `06_02_team_mirai_2026_house_of_representatives_election.md` | — | — | Not reviewed |
+| ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | — | — | Not reviewed |
+| ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | — | — | Not reviewed |
+| ch06_05_komeito | `06_05_komeito.md` | — | — | Not reviewed |
 | ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
 | ch08_municipalities | `08_use_in_local_governments.md`, `08_01_ota_city_jibungotoka_meeting.md`, `08_02_hiroshima_case.md` | — | — | Not reviewed |
 | ch09_enterprise_and_npo | `09_use_in_companies_and_npos.md`, `09_01_altius_link_interview.md`, `09_02_cybozu.md`, `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
@@ -73,6 +82,12 @@
 | ch04_03 | `04_03_ntv_cluster_example_en.png` | GOOD | Approved |
 | ch04_04 | `04_04_polis_party_icons.png` | GOOD | Approved |
 | ch04_04 | `04_04_polis_economic_map.png` | GOOD | Approved |
+| ch05 | `05_tttc_all_clusters.png` | GOOD | Approved |
+| ch05 | `05_shintokyo_2050_result.png` | GOOD | Approved |
+| ch05 | `05_tokyo_2040_2021.png` | GOOD | Approved |
+| ch05 | `05_tokyo_2040_2024.png` | GOOD | Approved |
+| ch05 | `05_tttc_tourism.png` | GOOD | Approved |
+| ch05 | `05_cluster_mapping_zure.png` | GOOD | Approved for now; may still be replaced later |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
