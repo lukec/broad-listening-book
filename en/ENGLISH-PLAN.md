@@ -30,7 +30,7 @@
 | ch02_broadlistening_vs_survey | `02_broad_listening_vs_surveys.md` | 2026-04-01 | `1444248` | Reviewed |
 | ch02_column_word_cloud | `column/word_cloud_is_not_analysis.md` | 2026-04-01 | `4b29b9d` | Reviewed |
 | ch03_digital_democracy_and_public_voice | `03_digital_democracy_and_new_public_voice.md` | 2026-04-01 | `e3aa55a` | Reviewed (text passed; image review tracked below) |
-| ch03_column_safe_empathy | `column/safe_empathy.md` | — | — | Not reviewed |
+| ch03_column_safe_empathy | `column/safe_empathy.md` | 2026-04-01 | `e3aa55a` | Reviewed (absolutely amazing) |
 | ch04_broadlistening_spread_in_japan | `04_*` | — | — | Not reviewed |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
 | ch06_national_elections | `06_*` | — | — | Not reviewed |
