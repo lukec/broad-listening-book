@@ -10,7 +10,7 @@ In the 2026 House of Representatives election as well, Team Mirai (meaning “Te
 
 Behind this name change were two issues that had become clear during the House of Councillors election.
 
-The first was the challenge of designing an experience that made it easy for voters to express their views. Even when people have vague frustrations or requests, it is not easy to build them into written sentences from scratch in a chat interface. There is a real hurdle in putting one's thoughts into words. To address this, it was necessary to design an experience that would allow voters to communicate their ideas and concerns more naturally.
+The first was the challenge of designing an experience that made it easy for voters to express their views. Even when people have vague frustrations or requests, it is not easy to put them into words from scratch in a chat interface. Many people find the act of articulating their thoughts to be a hurdle. To address this, it was necessary to design an experience that would allow voters to communicate their ideas and concerns more naturally.
 
 The second was the challenge of creating a system capable of receiving and processing the voices that came in. During the House of Councillors election, a large number of proposals were submitted regarding the platform, but it was difficult to review all of them. To avoid overlooking valuable input, there was a need for a system that could help people grasp a wider range of opinions within limited time.
 
@@ -36,7 +36,7 @@ In proposal mode, the AI probes more deeply into the voter's intent. It asks wha
 
 The second update was AI-based analysis of opinions. Broadly speaking, two functions were implemented: classification and tagging of proposals, and topic-level aggregation of similar proposals.
 
-First, proposals submitted by voters are automatically classified and tagged by AI. For example, they may be sorted into categories such as "addition to policy implementation details," "objection to policy direction," or "correction of wording such as typos." An automatic labeling system had also existed during the House of Councillors election, but for the House of Representatives election this mechanism was integrated into the application itself. With proposals classified in this way, policy staff can review them according to their own interests and areas of responsibility.
+First, proposals submitted by voters are automatically classified and tagged by AI. For example, they may be sorted into categories such as "implementation details to add," "objections to the policy direction," or "wording fixes such as typos." An automatic labeling system had also existed during the House of Councillors election, but for the House of Representatives election this mechanism was integrated into the application itself. With proposals classified in this way, policy staff can review them according to their own interests and areas of responsibility.
 
 The other function is the ability to group similar proposals into topics. These grouped topics are visualized within the app, allowing policy staff to scan them for an overall picture and then drill down into the details.
 
@@ -64,7 +64,7 @@ In practice, small revisions to the platform were made during the campaign perio
 
 Looking back on the House of Representatives election initiative, it is clear that the lessons gained from the House of Councillors election were steadily reflected in the system design.
 
-The "entry-point design" that had been a challenge in the House of Councillors election was improved through features such as starting chats from selected text and introducing quick replies, creating an even lower-friction entry point. In addition, AI-based classification and aggregation, together with the admin dashboard, established a foundation that allows policy staff to grasp a wider range of opinions.
+The challenge of designing a low-friction entry point, which had become clear in the House of Councillors election, was addressed through features such as starting chats from selected text and introducing quick replies. In addition, AI-based classification and aggregation, together with the admin dashboard, established a foundation that allows policy staff to grasp a wider range of opinions.
 
 From an "interactive policy platform" to a "platform where your voice is heard." What this change represents is a direction aimed at consistently supporting the entire path from voters expressing their views to those views reaching the policy-making process. A system was built to connect the broad listening cycle—opinion collection, structuring, deliberation, decision-making, and feedback—more continuously and with fewer breaks.
 
