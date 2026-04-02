@@ -332,7 +332,7 @@ Structured Output solved this problem. By simply “defining the output data str
 
 Previously, even by combining complex processing such as regular expressions and morphological analysis, it was difficult to make a system recognize that “We want more parks” and “I’d like to see more parks” mean the same thing. With Structured Output, LLMs can now be treated as “functions that take natural language as input and return structured data in a predefined format.” There is no longer any need to write the processing logic by hand.
 
-As of 2025, Structured Output is supported by all major LLM providers, including OpenAI, Anthropic (Claude), and Google (Gemini).
+As of 2026, Structured Output is supported by all major LLM providers, including OpenAI, Anthropic (Claude), and Google (Gemini).
 
 Broad listening AI also uses Structured Output when extracting opinions and assigning labels. Converting thousands of free-text responses into structured data such as category, sentiment, and summary would not have been possible without Structured Output.
 
