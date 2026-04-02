@@ -185,7 +185,7 @@ For politicians, representative examples include Takahiro Anno’s Tokyo governo
 
 ### An Advanced Form: Broad Listening as Support for Augmented Deliberation
 
-From the standpoint of deliberative democratic theory, citizen deliberation is the main current of democratic decision-making, and in that sense it is the true “basic” form. But from the standpoint of implementation, creating a space for citizen deliberation requires significant costs in recruitment, selection, scheduling, and facilitation. For that reason, this book begins with the more practical basic cycle and introduces the version that adds citizen deliberation as an “advanced form.”
+From the standpoint of deliberative democratic theory, citizen deliberation lies at the heart of democratic decision-making, and in that sense it is the true “basic” form. But from the standpoint of implementation, creating a space for citizen deliberation requires significant costs in recruitment, selection, scheduling, and facilitation. For that reason, this book begins with the more practical basic cycle and introduces the version that adds citizen deliberation as an “advanced form.”
 
 The form introduced in Chapter 1 as **broad listening as support for augmented deliberation** adds two steps between step 2 (structuring and visualization) and step 3 (policy formulation): **recruitment and selection of citizen participants** and **deliberation**.
 
@@ -226,7 +226,7 @@ This chapter has explained the place of broad listening within the context of di
 
 Broad listening is not a “tool for measuring public opinion,” but infrastructure for updating society’s “issue map” and supporting the legitimacy of deliberation and decision-making. In a world where accelerating social change frequently creates legitimacy gaps that election cycles alone cannot address, broad listening has the potential to fill a gap that conventional tools cannot.
 
-Public comment functions as “a final check on regulations that are already largely complete,” but it does not fulfill its original role of “listening broadly.” If broad listening takes on that role of broad listening and works in a complementary way with public comment, the democratic process as a whole can be strengthened.
+Public comment functions as “a final check on regulations that are already largely complete,” but it does not fulfill its original role of “listening broadly.” In this way, broad listening and public comment are not in opposition. They are complementary, serving different phases of the democratic process.
 
 Its basic operational cycle is “collect opinions → structure them → formulate policy → explain → collect again,” and as seen in the examples of Takahiro Anno and the Democratic Party for the People, it can be practiced even by a single politician or a small team. In the augmented deliberation model, which adds a step of citizen deliberation to this cycle, representativeness can be secured by combining it with randomly selected mini-publics, further strengthening the legitimacy of policy decisions (for the Taiwan case, see Chapter 10).
 
