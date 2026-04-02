@@ -34,6 +34,7 @@
 | ch04_broadlistening_spread_in_japan | `04_spread_of_broad_listening_in_japan.md` | 2026-04-01 | `e3aa55a` | Reviewed (good) |
 | ch04_01_takahiro_anno_initiatives | `04_01_takahiro_anno_initiatives.md` | 2026-04-02 | `3c85f5f` | Reviewed (good) |
 | ch04_02_dpfp_parliamentary_questions | `04_02_dpfp_parliamentary_questions.md` | 2026-04-02 | `80d4912` | Reviewed (good) |
+| ch04_03_ntv_election_special | `04_03_sumino_ntv_election_special.md` | 2026-04-02 | `01b2e1e` | Reviewed (good) |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
 | ch06_national_elections | `06_*` | — | — | Not reviewed |
 | ch07_local_elections | `07_*` | — | — | Not reviewed |
@@ -66,3 +67,5 @@
 | ch04_02 | `04_02_kokumin_tttc_sanpuzu.png` | GOOD | Approved |
 | ch04_02 | `04_02_kokumin_broadlistening_hikaku_en.png` | GOOD | Approved |
 | ch04_02 | `04_02_kokumin_ai_process_en.png` | GOOD | Approved |
+| ch04_03 | `ntv_scatter.png` | GOOD | Approved |
+| ch04_03 | `04_03_ntv_cluster_example_en.png` | GOOD | Approved |
