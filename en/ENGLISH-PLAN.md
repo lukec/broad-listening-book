@@ -44,8 +44,8 @@
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | 2026-04-02 | `3c85f5f` | Reviewed (excellent; Conway part amazing) |
 | ch06_national_elections_intro | `06_broad_listening_in_national_elections.md` | 2026-04-02 | `abd2321` | Reviewed (good) |
 | ch06_01_team_mirai | `06_01_team_mirai.md` | 2026-04-02 | `4adaddf` | Reviewed (excellent; all images good) |
-| ch06_02_team_mirai_2026_lower_house | `06_02_team_mirai_2026_house_of_representatives_election.md` | — | — | Not reviewed |
-| ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | — | — | Not reviewed |
+| ch06_02_team_mirai_2026_lower_house | `06_02_team_mirai_2026_house_of_representatives_election.md` | 2026-04-02 | `4e6c35c` | Reviewed (really good; all images approved) |
+| ch06_03_nippon_ishin_no_kai | `06_03_nippon_ishin_no_kai.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; all images approved) |
 | ch06_04_democratic_party_for_the_people | `06_04_democratic_party_for_the_people.md` | — | — | Not reviewed |
 | ch06_05_komeito | `06_05_komeito.md` | — | — | Not reviewed |
 | ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
@@ -94,6 +94,14 @@
 | ch06_01 | `06_01_pr_overview.png` | GOOD | Approved |
 | ch06_01 | `06_01_opinion_flow_en.png` | GOOD | Approved |
 | ch06_01 | `06_01_idobata_chat_structure.png` | GOOD | Approved |
+| ch06_02 | `06_02_team_mirai_manifesto_top.png` | GOOD | Approved |
+| ch06_02 | `06_02_quick_reply.png` | GOOD | Approved |
+| ch06_02 | `06_02_topic_example.png` | GOOD | Approved |
+| ch06_02 | `06_02_proposal_list.png` | GOOD | Approved |
+| ch06_03 | `06_03_吉村代表X投稿.png` | GOOD | Approved |
+| ch06_03 | `06_03_ishin_scatter_may.png` | GOOD | Approved |
+| ch06_03 | `06_03_ishin_scatter_june.png` | GOOD | Approved |
+| ch06_03 | `06_03_ishin_brolis_cluster_detail.png` | GOOD | Approved |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
