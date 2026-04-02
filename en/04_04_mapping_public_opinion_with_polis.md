@@ -10,9 +10,9 @@ The same person may stand with you on one issue and take the exact opposite side
 
 That question led to *Public Opinion Map*, released during the 2024 House of Representatives election as part of JAPAN CHOICE, one of Japan’s largest election information sites. It launched on November 18, 2024, and in about two weeks, 4,403 unique users cast votes. Because it uses Polis internally as a component, it can be considered one of the largest applications of Polis in Japan. Links to the demo page, explanatory article, and press releases are collected in the footnotes[^beta][^note][^press].
 
-[^beta]: Public Opinion Map (beta) demo page: `https://japanchoice.jp/polis`
-[^note]: Explanatory article (Mielka note): `https://note.com/mielka/n/n54313c84a5e5`
-[^press]: Press releases (JAPAN CHOICE update / full feature release): `https://prtimes.jp/main/html/rd/p/000000013.000029162.html` / `https://prtimes.jp/main/html/rd/p/000000014.000029162.html`
+[^beta]: Public Opinion Map (beta) demo page: [https://japanchoice.jp/polis](https://japanchoice.jp/polis)
+[^note]: Explanatory article (Mielka note): [https://note.com/mielka/n/n54313c84a5e5](https://note.com/mielka/n/n54313c84a5e5)
+[^press]: Press releases (JAPAN CHOICE update / full feature release): [https://prtimes.jp/main/html/rd/p/000000013.000029162.html](https://prtimes.jp/main/html/rd/p/000000013.000029162.html) / [https://prtimes.jp/main/html/rd/p/000000014.000029162.html](https://prtimes.jp/main/html/rd/p/000000014.000029162.html)
 
 I was involved in this development as an engineer.  
 What I want to write about in this chapter is not simply, “We used Polis.”
@@ -119,12 +119,12 @@ The political blank space captured by Public Opinion Map is analogous, in privat
 
 One of the defining features of this cluster was its clear opposition to cutting or abolishing the consumption tax. One year after this analysis, in the 2026 House of Representatives election, Team Mirai (referred to as "Team Future" in this book) alone took a position opposing a consumption tax cut. It is impossible to verify how much that contributed, but the party went on to win what could fairly be called a major breakthrough in seats. In this way, discovering opinion groups that other parties do not represent may offer a valuable opportunity—especially for smaller parties—to attract attention and support.
 
-## Conclusion as a Public Good: For Open Data and Iteration
+## Conclusion: Toward a Public Good Through Open Data and Iteration
 
 On May 8, 2025, the voting data from Public Opinion Map 2024 was released as open data and open source. The CSV files and images are provided under CC BY 4.0[^opendata].
 
 [^takagi]: He later founded Tagen Genjitsu LLC as its representative and has worked on the social implementation of broad listening technologies. Tagen Genjitsu is discussed in detail in Chapter 11.
-[^opendata]: Public Opinion Map 2024 open data: `https://github.com/mielka/yoronchizu2024-data`
+[^opendata]: Public Opinion Map 2024 open data: [https://github.com/mielka/yoronchizu2024-data](https://github.com/mielka/yoronchizu2024-data)
 
 I believe this means more than simply “distributing the output.” Every election brings many events and developments, but once the election is over, they are forgotten and disappear. I want to build a verifiable, reusable “infrastructure for democracy” that exists outside that cycle. I want a mechanism that accumulates and improves little by little with each election.
 

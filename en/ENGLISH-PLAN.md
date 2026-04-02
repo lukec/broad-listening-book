@@ -35,6 +35,8 @@
 | ch04_01_takahiro_anno_initiatives | `04_01_takahiro_anno_initiatives.md` | 2026-04-02 | `3c85f5f` | Reviewed (good) |
 | ch04_02_dpfp_parliamentary_questions | `04_02_dpfp_parliamentary_questions.md` | 2026-04-02 | `80d4912` | Reviewed (good) |
 | ch04_03_ntv_election_special | `04_03_sumino_ntv_election_special.md` | 2026-04-02 | `01b2e1e` | Reviewed (good) |
+| ch04_04_mapping_public_opinion_with_polis | `04_04_mapping_public_opinion_with_polis.md` | 2026-04-02 | `4adaddf` | Reviewed (good) |
+| ch04_05_asahi_special_feature | `04_05_asahi_special_feature.md` | 2026-04-02 | `3cccb0b` | Reviewed (good; footnote 13 inaccurate, missing images tracked below) |
 | ch05_tokyo_shin_tokyo_2050 | `05_tokyo_shin_tokyo_2050_policy_shift.md` | — | — | Not reviewed |
 | ch06_national_elections | `06_broad_listening_in_national_elections.md`, `06_01_team_mirai.md`, `06_02_team_mirai_2026_house_of_representatives_election.md`, `06_03_nippon_ishin_no_kai.md`, `06_04_democratic_party_for_the_people.md`, `06_05_komeito.md` | — | — | Not reviewed |
 | ch07_local_elections | `07_use_in_local_elections.md`, `07_02_ryosuke_idei_case.md`, `07_03_saisei_no_michi_kazuya_obanayama.md` | — | — | Not reviewed |
@@ -69,3 +71,10 @@
 | ch04_02 | `04_02_kokumin_ai_process_en.png` | GOOD | Approved |
 | ch04_03 | `ntv_scatter.png` | GOOD | Approved |
 | ch04_03 | `04_03_ntv_cluster_example_en.png` | GOOD | Approved |
+| ch04_04 | `04_04_polis_party_icons.png` | GOOD | Approved |
+| ch04_04 | `04_04_polis_economic_map.png` | GOOD | Approved |
+| ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
+| ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
+| ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
+| ch04_05 | `04_04_万博SNS分析_前期.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
+| ch04_05 | `04_04_万博SNS分析_後期.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
