@@ -56,7 +56,7 @@
 | ch08_02_hiroshima_case | `08_02_hiroshima_case.md` | 2026-04-02 | `b373b1b` | Reviewed (good; image review pending) |
 | ch09_enterprise_and_nonprofits_intro | `09_use_in_companies_and_npos.md` | 2026-04-02 | `49afeb5` | Reviewed (good) |
 | ch09_01_altius_link_interview | `09_01_altius_link_interview.md` | 2026-04-02 | `e052afc` | Reviewed (good; all images approved) |
-| ch09_02_cybozu | `09_02_cybozu.md` | — | — | Not reviewed |
+| ch09_02_cybozu | `09_02_cybozu.md` | 2026-04-02 | `e3aa55a` | Reviewed (good; images acceptable) |
 | ch09_column_testing_kocho_ai_through_review | `column/testing_kocho_ai_through_review.md` | — | — | Not reviewed |
 | ch10_broadlistening_business | `10_broad_listening_as_a_business.md`, `10_00_dd2030_kocho_ai_development.md`, `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
 | ch11_broadlistening_overseas | `11_global_broad_listening_trends.md`, `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
@@ -136,6 +136,11 @@
 | ch09_01 | `09_広聴AI_散布図.png` | GOOD | Approved |
 | ch09_01 | `09_広聴AI_クラスタ名-説明.png` | GOOD | Approved |
 | ch09_01 | `09_BI画像_モザイク無し.png` | GOOD | Approved |
+| ch09_02 | `10_03_cybozu_workshop.jpg` | GOOD | Approved |
+| ch09_02 | `10_03_cybozu_fusennwork.jpg` | GOOD | Approved |
+| ch09_02 | `10_03_cybozu_idobata_pc.jpg` | GOOD | Approved |
+| ch09_02 | `09_03_shirokuro_kaigi_remote_work_debate.png` | GOOD | Approved |
+| ch09_02 | `09_03_shirokuro_kaigi_youtube_comments.png` | GOOD | Approved |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
