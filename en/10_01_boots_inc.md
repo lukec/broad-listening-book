@@ -10,7 +10,7 @@ This article introduces the current state and future outlook of broad listening 
 
 ## About Boots Inc.
 
-Boots Inc. (Representative: Keisuke Ariga) is a management consulting firm that supports private companies, local governments, and other organizations in transforming their businesses and updating operational processes through DX promotion support, including the use of AI.
+Boots Inc. (Representative: Keisuke Ariga) is a management consulting firm that supports private companies, local governments, and other organizations in modernizing their operations and business processes, including through the use of AI.
 
 In recent years, digital technologies such as AI have attracted significant attention. At the same time, not every company or organization is fully benefiting from them in practice. One reason, in our view, is that many organizations remain focused only on how to use individual tools, without establishing a full problem-solving cycle that begins with identifying issues in frontline operations and continues through solution design, implementation, verification, and improvement. Grounded in a practical understanding of technology, our company provides services with a firm commitment to driving change in organizational workflows, always starting from business and operational challenges themselves.
 
