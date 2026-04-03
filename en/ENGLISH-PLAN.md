@@ -59,7 +59,8 @@
 | ch09_02_cybozu | `09_02_cybozu.md` | 2026-04-02 | `e3aa55a` | Reviewed (good; images acceptable) |
 | ch09_column_testing_kocho_ai_through_review | `column/testing_kocho_ai_through_review.md` | 2026-04-02 | `566736c` | Reviewed (passed) |
 | ch10_broadlistening_business_intro | `10_broad_listening_as_a_business.md` | 2026-04-02 | `e3aa55a` | Reviewed (passed) |
-| ch10_broadlistening_business_remaining | `10_00_dd2030_kocho_ai_development.md`, `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
+| ch10_00_dd2030_kocho_ai_development | `10_00_dd2030_kocho_ai_development.md` | 2026-04-02 | `e3aa55a` | Reviewed (good; one image should be translated) |
+| ch10_broadlistening_business_remaining | `10_01_boots_inc.md`, `10_02_code_for_japan.md`, `10_03_plural_reality.md`, `10_04_democracy_x.md`, `10_05_litela_kai_tanaka.md`, `column/lessons_from_collecting_10000_voices.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
 | ch11_broadlistening_overseas | `11_global_broad_listening_trends.md`, `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
@@ -110,6 +111,7 @@
 | ch06_03 | `06_03_ishin_scatter_may.png` | GOOD | Approved |
 | ch06_03 | `06_03_ishin_scatter_june.png` | GOOD | Approved |
 | ch06_03 | `06_03_ishin_brolis_cluster_detail.png` | GOOD | Approved |
+| ch10_00 | `10_kouchouai_technical_genealogy.png` | NEEDS-WORK | Text review passed, but the figure should be translated into English |
 | ch06_05 | `06_05_WeConnect_workflow.jpg` | GOOD | Approved |
 | ch06_05 | `06_05_WeConnect_wordcloud.png` | GOOD | Approved |
 | ch06_05 | `06_05_WeConnect_policy_issues.png` | GOOD | Approved |

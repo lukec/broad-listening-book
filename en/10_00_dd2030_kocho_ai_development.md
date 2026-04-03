@@ -67,17 +67,17 @@ A feature was also implemented to extract only high-density clusters. Low-densit
 
 TTTC Scatter and Public Listening AI use different clustering algorithms.
 
-TTTC Scatter uses spectral clustering. Spectral clustering is a method that constructs a neighborhood graph among data points and performs clustering based on that graph structure. In this algorithm, points connected on the graph are classified into the same cluster, so points that are far apart on a two-dimensional plane may still be included in the same cluster. As a result, clusters can appear scattered like detached islands on the plot, which can make interpretation difficult for users.
+TTTC Scatter uses spectral clustering. Spectral clustering is a method that builds a neighborhood graph over the data points and performs clustering based on that graph structure. In this algorithm, points connected in that graph are assigned to the same cluster, so points that are far apart in the two-dimensional plot may still be included in the same cluster. As a result, clusters can appear scattered like detached islands on the plot, which can make interpretation difficult for users.
 
-Public Listening AI, by contrast, uses K-means. K-means is a method that performs clustering based on Euclidean distance between data points, so spatially close points are grouped into the same cluster. This makes clusters appear more compact on the scatter plot and easier to interpret visually.
+Public Listening AI, by contrast, uses K-means. K-means is a method that clusters points based on Euclidean distance, so spatially close points are grouped into the same cluster. This makes clusters appear more compact on the scatter plot and easier to interpret visually.
 
-That said, K-means also has drawbacks. Because K-means assumes spherical clusters, it may fail to properly capture groups that are semantically related but have complex shapes in embedding space. Clusters that spectral clustering could have detected may end up split apart by K-means. Public Listening AI prioritizes visual clarity and is designed to accept this trade-off.
+That said, K-means also has drawbacks. Because K-means assumes spherical clusters, it may fail to properly capture groups that are semantically related but have complex shapes in embedding space. Clusters that spectral clustering could have detected may end up split apart by K-means. Public Listening AI prioritizes visual clarity and accepts that trade-off by design.
 
 ### The Significance of Public Listening AI
 
-With Public Listening AI, broad listening can now be carried out without programming skills or specialized expertise. Analysis can be run simply by uploading a CSV, and results can be published simply by sharing a URL. Although environment setup still requires engineering skills, the barriers to running and sharing analyses have been greatly reduced.
+With Public Listening AI, broad listening can now be carried out without programming skills or specialized knowledge. You can run an analysis simply by uploading a CSV, and publish the results simply by sharing a URL. Although environment setup still requires engineering skills, the barriers to running and sharing analyses have been greatly reduced.
 
-Its open-source nature is also well suited to government use, where transparency in the analysis process is essential. Because the code makes it possible to verify at a technical level how opinions are being classified and summarized, it becomes easier to meet accountability requirements for the analysis results. The detailed implementation is explained in Chapters 12 and 13, but since it is an open-source product, we encourage you to read through the source code with AI at your side.
+Its open-source nature is also well suited to government use, where transparency in the analysis process is essential. Because the code makes it possible to verify at the code level how opinions are classified and summarized, it becomes easier to meet accountability requirements for the analysis results. The detailed implementation is explained in Chapters 12 and 13, but since this is an open-source product, we encourage you to read through the source code with AI by your side.
 
 ## The Turning Point of May 2025
 
@@ -111,7 +111,7 @@ A concrete example is Public Listening AI’s “attribute filter feature.” Th
 
 Then, in September 2025, it became possible to assign a GitHub issue to AI and have code written automatically. Development has accelerated further as we entered an era in which AI programming can be completed without even opening an editor.
 
-### The Reality of the Slowdown Period: Minimal Operations to Keep the Development Flame Alive
+### Keeping Development Alive During the Slowdown
 
 In OSS development, when work continues with only a small number of people, there are times when the back-and-forth of review and decision-making thins out and progress becomes difficult. In Public Listening AI as well, that phase surfaced after the community dispersed.
 
@@ -123,7 +123,7 @@ But even as the community dispersed, a small number of members deliberately rema
 
 Specifically, they made a point of continuing regular development meetings whenever possible, even when there was no clear agenda, and of preserving a place where participants could share the current situation or simply chat, even on days with few attendees—a place where people could know “what is happening right now.” It would have been possible to decide not to hold meetings when there was no progress to report, but in this phase it was necessary to maintain the entry point itself in order to keep the flame alive. In fact, some people came to understand the situation through this venue and, though few in number, newly joined the development effort.
 
-### Connecting with the Field as a Form of Outreach
+### Outreach Through On-the-Ground Engagement
 
 On the outreach side, DD2030 did not simply “wait” for municipalities it had made contact with, but proactively reached out to them. In addition to gathering feedback during trial runs, it emphasized hearing about issues that do not directly appear in the product itself—such as data preparation, internal coordination within government offices, accountability, and the workflow of public listening—in order to understand the context on the ground.
 
