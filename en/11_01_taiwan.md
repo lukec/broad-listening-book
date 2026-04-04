@@ -69,7 +69,7 @@ The author believes this event became part of the foundation for the later desig
 
 In the same year as the Sunflower Student Movement, another important development took place.
 
-Around July 8, 2014, hundreds of taxis gathered to protest in front of the Ministry of Transportation and Communications. At the time, ride-hailing apps such as Uber had made it possible for unlicensed private cars to attract passengers through apps and effectively operate as taxis, and the existing taxi industry demanded strict enforcement.
+Around July 8, 2014, hundreds of taxis gathered to protest in front of the Ministry of Transportation and Communications. At the time, ride-hailing apps such as Uber's UberX service had made it possible for unlicensed private cars to attract passengers through apps and effectively operate as taxis, and the existing taxi industry demanded strict enforcement.
 
 This conflict was not merely a dispute between industries. It symbolized a structural problem: legal institutions were failing to keep pace with digital technological change. The following year, this issue would become the first major case discussed through citizen participation on vTaiwan.
 
@@ -80,18 +80,18 @@ Jaclyn Tsai, who had been promoting Updating Regulations for the Digital World, 
 [^hackath11n]: This hackathon was a Saturday event running from 09:00 to 18:00. With 126 registrations for a capacity of 127, one can get a sense of its scale.
 
 The question she brought to the event was: “How can Taiwanese startups avoid having to place their headquarters in the Cayman Islands?”
-Some readers may find this abrupt. The issue was that Taiwanese startups tended to register in the Cayman Islands, and the government wanted to understand why and what could be done to encourage domestic registration. As the digital world developed, the place where a company was registered and the location of its workers had become more loosely connected, making legal adjustment necessary. This was part of the broader Updating Regulations for the Digital World initiative.
+At first glance, this may seem like an odd question. The issue was that Taiwanese startups tended to register in the Cayman Islands, and the government wanted to understand why and what could be done to encourage domestic registration. As the digital world developed, the place where a company was registered and the location of its workers had become more loosely connected, making legal adjustment necessary. This was part of the broader Updating Regulations for the Digital World initiative.
 
 After discussion at the hackathon, the conclusion was that rather than trying to answer how to persuade startups to stay in Taiwan, the question itself should be opened up for public discussion. The issue involved company law, taxation, capital markets, regulation, and other complex factors. Instead of having only the people gathered at the hackathon discuss one concrete problem and produce an answer, what was needed was a process for building national-level consensus.
 
-This led to the launch of a project to create a digital participation platform through which ordinary citizens could join the discussion. That was the beginning of vTaiwan. People often misunderstand this point, but Audrey Tang, who would later become digital minister, was at that time simply a participant in the private civic community g0v.
+This led to the launch of a project to create a digital participation platform through which ordinary citizens could join the discussion. That was the beginning of vTaiwan. At the time, Audrey Tang was simply a private citizen participating in g0v’s civic tech community; she would later become digital minister in the Taiwanese government.
 
 [^hackpad20141220]: Minutes from that hackathon: https://g0v.hackpad.tw/ep/pad/static/oWRxOF4ilfx
 
 ### The design of vTaiwan
 
 Discussion of UberX intensified from June 26, 2015.
-On June 24, 2015, the Executive Yuan announced “Updating Regulations for the Digital World 2.0,” formally adding the “sharing economy” to its scope and stating that it would gather views through vTaiwan and online consultation meetings. In discussions with g0v, however, it was decided that rather than debating the abstract theme of the “sharing economy,” the process should focus on specific concrete issues.
+On June 24, 2015, the Executive Yuan, Taiwan’s cabinet, announced “Updating Regulations for the Digital World 2.0,” formally adding the “sharing economy” to its scope and stating that it would gather views through vTaiwan and online consultation meetings. In discussions with g0v, however, it was decided that rather than debating the abstract theme of the “sharing economy,” the process should focus on specific concrete issues.
 
 vTaiwan used Polis, which also appears elsewhere in this book in TODO: Chapters A and B. But instead of immediately asking whether people supported or opposed a policy proposal, it was designed to elicit views in the order of “facts → values.” The first ten questions were as follows.[^footnote1]
 
@@ -131,7 +131,7 @@ In the end, 1,326 users cast enough votes to be included in the analysis, and th
 
 ### Connecting to offline meetings
 
-On August 27, a public discussion among stakeholders was held. First, Audrey Tang explained the views gathered through Polis, especially areas of broad agreement. Then the Ministry of Transportation and Communications (government), Uber, and the taxi company Taiwan Taxi each presented their positions.
+On August 27, a public discussion among stakeholders was held. First, Audrey Tang explained the views gathered through Polis, especially areas of broad agreement. Then the government’s Ministry of Transportation and Communications, Uber, and the taxi company Taiwan Taxi each presented their positions.
 
 The online views were neither “fully pro-Uber” nor “completely anti-Uber.” Rather, there was strong support for conditional acceptance and demands for institutional arrangements, such as “new regulation is needed” and “safety must come first.” The ministry argued that the issue was not whether the technology was innovative, but that it was illegal under current law. Uber argued that consumers supported the experience made possible by technological innovation. The taxi company argued, “We too can improve using similar technology. The issue is not innovation, but unfair differences in the rules,” and signaled that cooperation would be possible if Uber became legal.
 
