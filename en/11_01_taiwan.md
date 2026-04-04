@@ -41,7 +41,7 @@ That spirit also appears in g0v’s motto: rather than lamenting that “no one 
 ### Government Moves: Adapting Regulation to the Virtual World
 
 At the same time, the government was not standing still.
-In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Updating Regulations for the Digital World,” an initiative to adapt laws and regulations to the development of the digital world. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.
+In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Updating Regulations for the Digital World,” an initiative to update laws and regulations for the internet era. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.
 
 ### The turning point in 2014: the Sunflower Student Movement
 
