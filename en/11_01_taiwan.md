@@ -43,7 +43,7 @@ That spirit also appears in g0v’s motto: rather than lamenting that “no one 
 At the same time, the government was not standing still.
 In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Updating Regulations for the Digital World,” an initiative to update laws and regulations for the internet era. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.
 
-### The turning point in 2014: the Sunflower Student Movement
+### 2014 Turning Point: The Sunflower Student Movement
 
 Shortly before the birth of vTaiwan, the Sunflower Student Movement in Taiwan in 2014 dramatically changed the relationship between citizens and digital technology.
 
@@ -52,9 +52,9 @@ The Legislative Yuan was occupied for 23 days, while thousands to tens of thousa
 
 At this point, something distinctive to the digital age occurred: the events were livestreamed in real time over the internet.
 At first, some established media outlets described the students as “rioters,” but the livestream meant that the actions of both police and students were constantly being watched by large numbers of citizens, which helped deter violence. Transparency became the foundation for constructive discussion.
-The livestream used Ustream, then a major streaming service, as well as Japan’s Niconico Live.[niconico]
+The livestream used Ustream, then a major streaming service, as well as Japan’s Niconico Live.[^niconico]
 
-[niconico]: On Japan’s Niconico Live, the broadcast continued for about 22 days, drawing 8.81 million total viewers and 3.91 million comments.
+[^niconico]: On Japan’s Niconico Live, the broadcast continued for about 22 days, drawing 8.81 million total viewers and 3.91 million comments.
 
 ### Two-way discussion via the internet
 Unlike a one-way television broadcast, the internet is interactive, so the students inside the Legislative Yuan were not isolated. They were able to hold video conferences with 20 groups across Taiwan. Nor was this limited to Taiwan. In the second week of the occupation, the students held an “Ask Me Anything” session on Reddit.[^AMA] There were 749 comments exchanged there.
@@ -65,7 +65,7 @@ g0v made a major contribution to this two-way communication over the internet. B
 
 The author believes this event became part of the foundation for the later design of large-scale online citizen participation in vTaiwan.
 
-### Another precursor: the conflict between UberX and the existing taxi industry
+### Another Precursor: The UberX-Taxi Conflict
 
 In the same year as the Sunflower Student Movement, another important development took place.
 
@@ -139,14 +139,14 @@ Gradually, the focus shifted to questions such as whether Uber would bear legal 
 
 [^hackpad20150827]: Minutes from 8/27: https://g0v.hackpad.tw/2015-08-27-uberX--y4uRD0dNFMq
 
-### It led to legal reform
+### From Deliberation to Legal Reform
 
 Ultimately, Taiwan’s Regulations for the Management of Automobile Transportation Businesses were amended on October 25, 2016.
 The amendment codified a framework for diversified taxi services (taxi services booked online) and established requirements for business plans and fare display.
 
 This can be seen as a case in which the discussion moved beyond either “Uber is legal” or “crack down on illegal Uber” and instead productively addressed the question, “How can illegal Uber be made legal?”—and then connected that discussion to institutional reform.
 
-### What happened to vTaiwan afterward
+### What Happened After vTaiwan?
 
 The vTaiwan process created at that time continued to be used repeatedly afterward.
 Specifically, between 2015 and 2018, 26 issues were discussed, and around 80% led to legal or institutional changes. At present, there have been 34 issues in total. This activity increased public understanding of online deliberation and helped cultivate a community capable of deliberation.
