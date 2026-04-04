@@ -29,19 +29,19 @@ Any discussion of vTaiwan must include Taiwan’s civic tech community, g0v (“
 g0v is a citizen-led open-source community launched in 2012 by volunteers including engineers, designers, and journalists.
 
 Today it is a huge community with more than 14,000 participants on Slack, but it began in 2012 when a team of four engineers built a site at a hackathon to visualize the government budget.
-The team won prize money of NT$50,000 (about ¥250,000), and decided to use it to hold hackathons repeatedly in order to bring in more people with similar interests.
+The team won prize money of NT$50,000 (roughly US$1,600), and decided to use it to hold hackathons repeatedly in order to bring in more people with similar interests.
 To host the budget-visualization site, one member, Chia-liang Kao (clkao), registered the domain `g0v.tw`. It differs by just one character from the Taiwanese government’s official domain, `gov.tw`, and many different sites were later created under it.
 
 When government websites are hard to use, we tend to lament, “Why doesn’t anyone fix this?” But g0v’s philosophy is the opposite.
 If you have an idea for something better, you do not need to ask permission in advance in order to improve it; citizens can simply rebuild it themselves. This reflects a principle often attributed to Grace Hopper: if something seems like a good idea, go ahead and do it; it is often easier to apologize than to ask for permission.[^hopper]
-That spirit also appears in g0v’s motto: rather than lamenting that “no one is doing it,” first recognize that you yourself are part of that “no one.” Since no one is all-powerful, no one can create the ideal world from the outset. Each person contributes what they can, little by little, and through that accumulation the world gradually improves. That is the basic idea.
+That spirit also appears in g0v’s motto: rather than lamenting that “no one is doing it,” first recognize that you yourself are part of that “no one.” Since no one is all-powerful, no one can create the ideal world from the outset. Each person contributes what they can, little by little, and through that accumulation the world gradually improves.
 
 [^hopper]: This line is widely attributed to Grace Hopper, though exact sourcing and wording vary.
 
 ### Government Moves: Adapting Regulation to the Virtual World
 
 At the same time, the government was not standing still.
-In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Regulatory Adjustment for Virtual World Development,” an initiative to adapt laws and regulations to the development of the virtual world. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.
+In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Updating Regulations for the Digital World,” an initiative to adapt laws and regulations to the development of the digital world. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.
 
 ### The turning point in 2014: the Sunflower Student Movement
 
@@ -75,12 +75,12 @@ This conflict was not merely a dispute between industries. It symbolized a struc
 
 ### Jaclyn Tsai and the g0v hackathon
 
-Jaclyn Tsai, who had been promoting Regulatory Adjustment for Virtual World Development, participated in the 11th g0v hackathon on December 20, 2014.[^hackath11n]
+Jaclyn Tsai, who had been promoting Updating Regulations for the Digital World, participated in the 11th g0v hackathon on December 20, 2014.[^hackath11n]
 
 [^hackath11n]: This hackathon was a Saturday event running from 09:00 to 18:00. With 126 registrations for a capacity of 127, one can get a sense of its scale.
 
 The question she brought to the event was: “How can Taiwanese startups avoid having to place their headquarters in the Cayman Islands?”
-Some readers may find this abrupt. The issue was that Taiwanese startups tended to register in the Cayman Islands, and the government wanted to understand why and what could be done to encourage domestic registration. As the digital world developed, the place where a company was registered and the location of its workers had become more loosely connected, making legal adjustment necessary. This was part of the broader Regulatory Adjustment for Virtual World Development initiative.
+Some readers may find this abrupt. The issue was that Taiwanese startups tended to register in the Cayman Islands, and the government wanted to understand why and what could be done to encourage domestic registration. As the digital world developed, the place where a company was registered and the location of its workers had become more loosely connected, making legal adjustment necessary. This was part of the broader Updating Regulations for the Digital World initiative.
 
 After discussion at the hackathon, the conclusion was that rather than trying to answer how to persuade startups to stay in Taiwan, the question itself should be opened up for public discussion. The issue involved company law, taxation, capital markets, regulation, and other complex factors. Instead of having only the people gathered at the hackathon discuss one concrete problem and produce an answer, what was needed was a process for building national-level consensus.
 
@@ -91,7 +91,7 @@ This led to the launch of a project to create a digital participation platform t
 ### The design of vTaiwan
 
 Discussion of UberX intensified from June 26, 2015.
-On June 24, 2015, the Executive Yuan announced “Regulatory Adjustment for Virtual World Development 2.0,” formally adding the “sharing economy” to its scope and stating that it would gather views through vTaiwan and online consultation meetings. In discussions with g0v, however, it was decided that rather than debating the abstract theme of the “sharing economy,” the process should focus on specific concrete issues.
+On June 24, 2015, the Executive Yuan announced “Updating Regulations for the Digital World 2.0,” formally adding the “sharing economy” to its scope and stating that it would gather views through vTaiwan and online consultation meetings. In discussions with g0v, however, it was decided that rather than debating the abstract theme of the “sharing economy,” the process should focus on specific concrete issues.
 
 vTaiwan used Polis, which also appears elsewhere in this book in TODO: Chapters A and B. But instead of immediately asking whether people supported or opposed a policy proposal, it was designed to elicit views in the order of “facts → values.” The first ten questions were as follows.[^footnote1]
 
