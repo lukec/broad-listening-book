@@ -65,8 +65,10 @@
 | ch10_04_democracy_x | `10_04_democracy_x.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed) |
 | ch10_05_litela_kai_tanaka | `10_05_litela_kai_tanaka.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed; fourth image should be translated) |
 | ch10_column_lessons_from_collecting_10000_voices | `column/lessons_from_collecting_10000_voices.md` | 2026-04-03 | `a05ec08` | Reviewed (passed; all images approved) |
-| ch10_broadlistening_business_remaining | `10_03_plural_reality.md`, `column/fujitsu_enterprise_ai_for_public_comments.md` | — | — | Not reviewed |
-| ch11_broadlistening_overseas | `11_global_broad_listening_trends.md`, `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
+| ch10_column_fujitsu_enterprise_ai_for_public_comments | `column/fujitsu_enterprise_ai_for_public_comments.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed) |
+| ch10_broadlistening_business_remaining | `10_03_plural_reality.md` | — | — | Not reviewed |
+| ch11_global_broad_listening_trends | `11_global_broad_listening_trends.md` | 2026-04-03 | `e3aa55a` | Reviewed (looks good) |
+| ch11_broadlistening_overseas | `11_01_taiwan.md`, `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |

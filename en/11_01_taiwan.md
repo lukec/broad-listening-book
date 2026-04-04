@@ -1,4 +1,4 @@
-# 10_02 The Development of Deliberative Democracy in Taiwan
+# The Development of Deliberative Democracy in Taiwan
 
 In Taiwan, experiments in which citizens deliberate on public policy have been taking place for more than 20 years.
 This chapter traces how deliberative mechanisms in Taiwan have been refined and carried forward, beginning with a small-scale deliberation experiment in 2002, moving through vTaiwan in the 2010s, which combined online and offline participation, and arriving at mini-publics in 2024 that incorporated random selection.
@@ -95,7 +95,7 @@ On June 24, 2015, the Executive Yuan announced “Regulatory Adjustment for Virt
 
 vTaiwan used Polis, which also appears elsewhere in this book in TODO: Chapters A and B. But instead of immediately asking whether people supported or opposed a policy proposal, it was designed to elicit views in the order of “facts → values.” The first ten questions were as follows.[^footnote1]
 
- #### Facts (experience)
+#### Facts (experience)
 
 - Q1: I have used Uber to request a ride.
 - Q2: I am a taxi driver.
