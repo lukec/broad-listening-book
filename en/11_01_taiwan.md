@@ -93,7 +93,7 @@ This led to the launch of a project to create a digital participation platform t
 Discussion of UberX intensified from June 26, 2015.
 On June 24, 2015, the Executive Yuan, Taiwan’s cabinet, announced “Updating Regulations for the Digital World 2.0,” formally adding the “sharing economy” to its scope and stating that it would gather views through vTaiwan and online consultation meetings. In discussions with g0v, however, it was decided that rather than debating the abstract theme of the “sharing economy,” the process should focus on specific concrete issues.
 
-vTaiwan used Polis, which also appears elsewhere in this book in TODO: Chapters A and B. But instead of immediately asking whether people supported or opposed a policy proposal, it was designed to elicit views in the order of “facts → values.” The first ten questions were as follows.[^footnote1]
+vTaiwan used Polis, which appears elsewhere in this book as well. But instead of immediately asking whether people supported or opposed a policy proposal, it was designed to elicit views in the order of “facts → values.” The first ten questions were as follows.[^footnote1]
 
 #### Facts (experience)
 
@@ -170,9 +170,9 @@ As of 2026, vTaiwan has come to occupy a position more like a “laboratory for 
 That said, the author does not believe this slowdown should be seen as a failure.
 Practices developed through vTaiwan—such as visualizing opinion clusters with Polis and combining online and offline deliberative processes—have continued to be used in various forms. For example, in the Taiwanese government’s Alignment Assembly, discussed in the next section, they were further developed in combination with Talk to the City and the Stanford Online Deliberation Platform.
 
-Moreover, because people in Taiwan preserved meeting records in 2015 and continued publishing them online, we in Japan in 2026 are able to inherit that knowledge. Thanks to the internet and advances in AI-based machine translation, projects in different countries are no longer isolated national efforts; they are increasingly becoming interconnected, networked projects that can learn from one another. This book, too, will likely be machine-translated and referenced around the world.
+Moreover, because people in Taiwan preserved meeting records in 2015 and continued publishing them online, we in Japan in 2026 are able to draw on that knowledge. Thanks to the internet and advances in AI-based machine translation, projects in different countries are no longer isolated national efforts; they are increasingly becoming interconnected, networked projects that can learn from one another. This book, too, will likely be machine-translated and referenced around the world.
 
-## Alignment Assembly
+## The Alignment Assembly
 
 In 2023, a new example of a citizen participation process emerged—one that inherited from vTaiwan while also adopting a somewhat different design philosophy. This was the Alignment Assembly. It was an initiative advanced by the Ministry of Digital Affairs (MODA), aimed at ensuring that when society considers desirable directions for new technologies such as AI, not only experts and companies but citizens as well take part.
 
