@@ -211,7 +211,7 @@ Taiwan’s experience can be understood as a history not of creating one deliber
 Each stage had its limitations. Small-scale deliberation lacked representativeness; online deliberation suffered from participant bias; and even mini-publics cannot completely avoid bias among those who choose to apply.
 But what is interesting about Taiwan is that it did not demand perfection from the outset. Instead, it repeatedly carried out experiments that were feasible at each moment and used them as material for the next round of institutional design.
 
-In 2026, the authors, with an introduction from Audrey Tang, traveled around Taiwan speaking with people involved in digital democracy initiatives. One remark by Isabel Hou, now deputy minister at MODA, left a strong impression on the author.
+In 2026, the authors of this book, with an introduction from Audrey Tang, traveled around Taiwan speaking with people involved in digital democracy initiatives. One remark by Isabel Hou, now deputy minister at MODA, left a strong impression on the author.
 
 > We want to adopt this kind of (deliberative) form of communication in order to cultivate community. We believe cultivating community is even more important than simply trying to obtain advice.
 
