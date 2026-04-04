@@ -1,4 +1,4 @@
-# The Development of Deliberative Democracy in Taiwan
+# The Evolution of Deliberative Democracy in Taiwan
 
 In Taiwan, experiments in which citizens deliberate on public policy have been taking place for more than 20 years.
 This chapter traces how deliberative mechanisms in Taiwan have been refined and carried forward, beginning with a small-scale deliberation experiment in 2002, moving through vTaiwan in the 2010s, which combined online and offline participation, and arriving at mini-publics in 2024 that incorporated random selection.
@@ -33,12 +33,12 @@ The team won prize money of NT$50,000 (about ¥250,000), and decided to use it t
 To host the budget-visualization site, one member, Chia-liang Kao (clkao), registered the domain `g0v.tw`. It differs by just one character from the Taiwanese government’s official domain, `gov.tw`, and many different sites were later created under it.
 
 When government websites are hard to use, we tend to lament, “Why doesn’t anyone fix this?” But g0v’s philosophy is the opposite.
-If you have an idea for something better, you do not need to ask permission in advance in order to improve it; citizens can simply rebuild it themselves.
-This is close to the well-known saying by Grace Hopper, who developed the COBOL programming language: “It is easier to apologize than to get permission.”[^hopper] That spirit also appears in g0v’s motto: “Instead of lamenting that no one is doing it, first admit that you yourself are one of those ‘no one’s.’ No one is all-powerful.” Because no one is all-powerful, no one can create the ideal world from the outset. Each person contributes what they can, little by little, and through that accumulation the world gradually improves. That is the basic idea.
+If you have an idea for something better, you do not need to ask permission in advance in order to improve it; citizens can simply rebuild it themselves. This reflects a principle often attributed to Grace Hopper: if something seems like a good idea, go ahead and do it; it is often easier to apologize than to ask for permission.[^hopper]
+That spirit also appears in g0v’s motto: rather than lamenting that “no one is doing it,” first recognize that you yourself are part of that “no one.” Since no one is all-powerful, no one can create the ideal world from the outset. Each person contributes what they can, little by little, and through that accumulation the world gradually improves. That is the basic idea.
 
-[^hopper]: If it's a good idea, go ahead and do it. It is much easier to apologize than it is to get permission.
+[^hopper]: This line is widely attributed to Grace Hopper, though exact sourcing and wording vary.
 
-### Moves on the government side: Regulatory adjustment for virtual world development
+### Government Moves: Adapting Regulation to the Virtual World
 
 At the same time, the government was not standing still.
 In November 2013, Jaclyn Tsai, then a minister without portfolio in Taiwan, began promoting “Regulatory Adjustment for Virtual World Development,” an initiative to adapt laws and regulations to the development of the virtual world. Starting that same year, related “consultation meetings” on policy dialogue were also held. At that stage, however, they were not yet participatory meetings involving citizens.

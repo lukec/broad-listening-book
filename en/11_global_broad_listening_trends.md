@@ -1,6 +1,6 @@
 # Chapter 11: The Global Evolution of Broad Listening
 
-## Broad Listening as an Outgrowth of Deliberative Culture
+## The Deliberative Culture Behind Broad Listening
 
 Broad listening first drew widespread attention in Japan during the 2024 Tokyo governor election. When Takahiro Anno used AI to make large volumes of public opinion visible, the term “broad listening” spread rapidly. However, the image many people took away at the time was what Chapter 1 described as “broad listening in the narrow sense”: a technology functioning as a “component” that uses AI to structure and visualize large numbers of opinions.
 
