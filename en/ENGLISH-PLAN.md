@@ -69,7 +69,8 @@
 | ch10_broadlistening_business_remaining | `10_03_plural_reality.md` | — | — | Not reviewed |
 | ch11_global_broad_listening_trends | `11_global_broad_listening_trends.md` | 2026-04-03 | `e3aa55a` | Reviewed (looks good) |
 | ch11_01_taiwan | `11_01_taiwan.md` | 2026-04-04 | `88a7270` | Reviewed (passed) |
-| ch11_broadlistening_overseas | `11_02_birth_of_polis.md`, `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
+| ch11_02_birth_of_polis | `11_02_birth_of_polis.md` | 2026-04-04 | `e063c72` | Reviewed (passed) |
+| ch11_broadlistening_overseas | `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
