@@ -70,7 +70,8 @@
 | ch11_global_broad_listening_trends | `11_global_broad_listening_trends.md` | 2026-04-03 | `e3aa55a` | Reviewed (looks good) |
 | ch11_01_taiwan | `11_01_taiwan.md` | 2026-04-04 | `88a7270` | Reviewed (passed) |
 | ch11_02_birth_of_polis | `11_02_birth_of_polis.md` | 2026-04-04 | `e063c72` | Reviewed (passed) |
-| ch11_broadlistening_overseas | `11_03_bowling_green.md`, `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
+| ch11_03_bowling_green | `11_03_bowling_green.md` | 2026-04-04 | `4036eb2` | Reviewed (passed; all images approved) |
+| ch11_broadlistening_overseas | `11_04_israel_palestine_remesh_case.md`, `11_05_harnessing_connective_action.md` | — | — | Not reviewed |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
@@ -162,6 +163,10 @@
 | ch10_column | `column_idobata_concept.png` | GOOD | Approved |
 | ch10_column | `column_baisoku_input.png` | GOOD | Approved |
 | ch10_column | `column_baisoku_report.png` | GOOD | Approved |
+| ch11_03 | `column_bg2050_stats.png` | GOOD | Approved |
+| ch11_03 | `column_bg2050_topics.png` | GOOD | Approved |
+| ch11_03 | `column_bg2050_topic_detail.png` | GOOD | Approved |
+| ch11_03 | `column_bg2050_consensus.png` | GOOD | Approved |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
