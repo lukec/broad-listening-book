@@ -26,7 +26,7 @@ Using this pipeline, Bowling Green carried out the “[What Could BG Be?](https:
 
 For 33 days, from February 14 to March 17, 2025, residents could visit [whatcouldbgbe.com](https://www.whatcouldbgbe.com/), freely submit their own ideas, and vote on other residents’ ideas with “agree,” “disagree,” or “pass.” The system was designed not to collect any personal information or demographic data.
 
-![BG 2050: Over 33 days, 7,890 residents participated and cast more than 1 million votes](images/column_bg2050_stats.png)
+![BG 2050: Over 33 days, 7,890 residents participated and cast more than 1 million votes](../images/column_bg2050_stats.png)
 
 The results were striking. **7,890** residents participated, **3,940** original ideas were submitted, and **1,034,868 votes** were cast. People involved with the Computational Democracy Project, the organization behind Polis, described it as “one of the most active conversations in the history of Polis.” Judge Gorman called it “America’s largest town hall.”
 
@@ -36,11 +36,11 @@ Sensemaker analyzed the 3,940 ideas collected over those 33 days. A task that wo
 
 As a result, the ideas were automatically classified into 12 topics and 70 subtopics. The overall landscape of residents’ concerns became visible, including arts and culture (644 items), infrastructure and transportation (574), economic development (499), and community identity (479).
 
-![Topic classification by Sensemaker: 3,940 ideas were automatically sorted into 12 topics and 70 subtopics](images/column_bg2050_topics.png)
+![Topic classification by Sensemaker: 3,940 ideas were automatically sorted into 12 topics and 70 subtopics](../images/column_bg2050_topics.png)
 
 When each topic is selected, individual ideas are visualized in a dot chart ordered by agreement rate, alongside an AI-generated summary.
 
-![Topic detail: A single screen shows both the distribution of agreement rates in a dot chart and an AI-generated summary](images/column_bg2050_topic_detail.png)
+![Topic detail: A single screen shows both the distribution of agreement rates in a dot chart and an AI-generated summary](../images/column_bg2050_topic_detail.png)
 
 Most noteworthy is the distribution of agreement rates. According to Judge Gorman, **about 60% of all ideas—2,370 in total—recorded agreement rates above 80%**.
 
@@ -54,9 +54,9 @@ The seven themes that drew the strongest agreement among residents were as follo
 6. Reducing congestion on Scottsville Road (a major arterial road)
 7. Flood and disaster preparedness
 
-![Comparison of proposals with high agreement rates and proposals that divided opinion](images/column_bg2050_consensus.png)
+![Comparison of proposals with high agreement rates and proposals that divided opinion](../images/column_bg2050_consensus.png)
 
-Particularly notable is that some areas achieved high agreement even among politically opposed groups of residents: parks and green space, housing affordability, access to mental health resources, sustainable development, preservation of historic buildings, and making use of existing commercial space rather than building new structures. In a local American city, the significance of making visible this common ground across political divides is considerable.
+Particularly notable is that some areas achieved high agreement even among politically opposed groups of residents: parks and green space, housing affordability, access to mental health resources, sustainable development, preservation of historic buildings, and making use of existing commercial space rather than building new structures. In the context of U.S. local politics, making this common ground visible across political divides is significant.
 
 Scott Carpenter, head of Jigsaw, described it as “like Google Maps for conversation.” Just as a map shows the shape of the land, this tool shows the terrain of opinion.
 
