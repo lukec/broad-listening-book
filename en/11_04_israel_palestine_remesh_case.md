@@ -1,6 +1,4 @@
-# 10_02
-
-## Taking on the Israel–Palestine Conflict
+# The Remesh Case in Israel and Palestine
 
 ## An Attempt to Connect Two Sides Thought to Be Beyond Dialogue
 
@@ -89,13 +87,15 @@ Although the paper does not discuss this explicitly, statement generation by an 
 In the Joint Phase, the following results were reported[^1]:
 
 **Five statements addressed to world leaders** (with at least 90% agreement in each group):
-1. **“An immediate ceasefire and the release of all hostages”** — ranked first by all participants
-2. “The creation of an international fund for a long-term solution”
-3. “The establishment of a global coalition for Gaza reconstruction”
-4. “The participation of civil society and NGOs in peacebuilding discussions”
-5. “Recognition of trauma on both sides”
+
+1. **An immediate ceasefire and release of all hostages** — ranked first by all participants
+2. The creation of an international fund to lay the groundwork for a comprehensive long-term solution
+3. The establishment of a global coalition to support Gaza’s reconstruction
+4. The inclusion of civil society and NGOs in all peacebuilding and diplomatic discussions
+5. The recognition of trauma on both sides
 
 **Five statements addressed to local communities** (with at least 84% agreement in each group):  
+
 The paper does not provide the exact wording, but reports that five statements received nearly equal support.
 
 In addition, during the Uninational Phase, all three groups were found to share six **common values**: **peace, equality, human life, independence, security, and prosperity**.
