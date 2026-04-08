@@ -82,13 +82,13 @@
 | Section | Image | Status | Notes |
 |---|---|---|---|
 | ch01 | `01_broadlistening_three_types_en.png` | GOOD | Approved |
-| ch01 | `01_jukugi_minshushugi_keifu_en.png` | NEEDS-WORK | Still not acceptable; requires further image cleanup/rework |
+| ch01 | `01_jukugi_minshushugi_keifu_en.png` | GOOD | Approved |
 | ch01 | `01_broadlistening.png` | GOOD | Approved |
-| ch01 | `01_anno_zyukugi_cycle_en.png` | PENDING REVIEW | Updated with a new English image; needs review |
+| ch01 | `01_anno_zyukugi_cycle_en.png` | GOOD | Approved |
 | ch02 | `02_noisy_minority_en.png` | GOOD | Approved |
 | ch02_column | `02_political_wordcloud.png` | GOOD | Approved |
 | ch02_column | `02_rashomon_wordcloud.png` | GOOD | Approved |
-| ch03 | `column/tool_double_diamond.png` | NEEDS-WORK | Third image in Chapter 3 did not pass review; requires further rework |
+| ch03 | `column/tool_double_diamond.png` | GOOD | Approved |
 | ch04_01 | `04_01_broadlistening_concept.png` | GOOD | Approved |
 | ch04_01 | `04_01_kiku-migaku-tsutaeru_en.png` | GOOD | Approved |
 | ch04_01 | `04_01_anonymous_opinion_scatter_en.png` | GOOD | Approved |
@@ -150,21 +150,21 @@
 | ch06_05 | `06_05_WeConnect_gamma.png` | GOOD | Approved |
 | ch07_02 | `07_02_いでい_広聴AI意見クラスタ.png` | GOOD | Approved |
 | ch07_03 | `07_03_flow_chart.png` | GOOD | Approved |
-| ch08_01 | `08_01_ota_jibungotoka_overview.jpeg` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_baisoku_ui.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_response_visualization.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_jibungotoka_smartphone.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_analysis_report_intro.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_issue_extraction.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_alignment_high.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_alignment_low.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_alignment_uncertainty.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_sensemaker_high_agreement.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_survey_satisfaction.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_survey_safety.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_survey_wordcloud.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_01 | `08_01_ota_sensemaker_overview.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
-| ch08_02 | `08_02_hiroshima_broadlistening_result.png` | PENDING REVIEW | Text reviewed; image approval not yet recorded |
+| ch08_01 | `08_01_ota_jibungotoka_overview.jpeg` | GOOD | Approved |
+| ch08_01 | `08_01_ota_baisoku_ui.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_response_visualization.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_jibungotoka_smartphone.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_analysis_report_intro.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_issue_extraction.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_alignment_high.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_alignment_low.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_alignment_uncertainty.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_sensemaker_high_agreement.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_survey_satisfaction.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_survey_safety.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_survey_wordcloud.png` | GOOD | Approved |
+| ch08_01 | `08_01_ota_sensemaker_overview.png` | GOOD | Approved |
+| ch08_02 | `08_02_hiroshima_broadlistening_result.png` | GOOD | Approved |
 | ch09_01 | `09_広聴AI_入力用構造化データ.png` | GOOD | Approved |
 | ch09_01 | `09_広聴AI_散布図.png` | GOOD | Approved |
 | ch09_01 | `09_広聴AI_クラスタ名-説明.png` | GOOD | Approved |
@@ -177,7 +177,7 @@
 | ch10_05 | `08_01_ota_facilitator_feedback.png` | GOOD | Approved |
 | ch10_05 | `10_05_outward_visualization.png` | GOOD | Approved |
 | ch10_05 | `10_05_recogra2.png` | GOOD | Approved |
-| ch10_05 | `10_05_tawaramoto_flow.png` | NEEDS-WORK | Acceptable image, but should be translated into English |
+| ch10_05 | `10_05_tawaramoto_flow.png` | GOOD | Approved |
 | ch10_05 | `10_05_tomioka_illustration.png` | GOOD | Approved |
 | ch10_column | `column_ai_anno_results.png` | GOOD | Approved |
 | ch10_column | `column_idobata_concept.png` | GOOD | Approved |
