@@ -286,7 +286,7 @@ As an aside, the hallucination problem has been improving in the latest models. 
 
 As a result, they have become more likely to say things like “I don’t know” or “I can’t answer based on this information alone.” Earlier models tended to “say something no matter what,” but models with stronger reasoning ability are increasingly recognizing their own limits and expressing uncertainty.
 
-https://openai.com/ja-JP/index/why-language-models-hallucinate/
+https://openai.com/index/why-language-models-hallucinate
 
 That said, hallucinations have not disappeared completely. When using LLMs, it remains important to verify factual information against primary sources.
 
