@@ -172,7 +172,7 @@ The key point here is the use of technical terms such as “KJ method” and “
 
 The KJ method is an idea-generation and organization technique devised by the cultural anthropologist Jiro Kawakita. It groups scattered pieces of information and organizes them by assigning each group a “nameplate” (label). Because LLMs have been trained on Japanese academic literature, simply using this terminology helps them generate labels at an appropriate level of abstraction.
 
-The effect of using technical terms is significant. For example, if you tried to explain the rules of the word game shiritori without using the word “shiritori,” it would take several hundred characters. But if you just say “shiritori,” any Japanese speaker immediately understands. The same applies to LLMs: technical terms allow intentions to be conveyed accurately with short instructions. This is one reason people with domain expertise are often better able to use LLMs effectively.
+The effect of using technical terms is significant. For example, if you tried to explain the rules of Scrabble without using the word “Scrabble,” it would take several hundred characters. But if you simply say “Scrabble,” many English speakers immediately understand the basic idea. The same applies to LLMs: technical terms allow intentions to be conveyed accurately with short instructions. This is one reason people with domain expertise are often better able to use LLMs effectively.
 
 ---
 
