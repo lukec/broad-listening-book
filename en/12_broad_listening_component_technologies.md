@@ -167,7 +167,7 @@ BERT excels at “understanding” text, but it is not good at “generating” 
 
 GPT’s processing is based on a surprisingly simple principle:
 
-> **Based on the input text, calculate the probability of the “next word.”**
+> **Based on the input text, calculate the probability of the “next word” (token).**
 
 For example, given the sentence "He sat by the bank of the ???":
 
@@ -180,7 +180,7 @@ For example, given the sentence "He sat by the bank of the ???":
 | lake | 6% |
 | ... | ... |
 
-The model selects the next word based on these probabilities, appends the selected word, and then predicts the next word again. By repeating this process, it generates a sentence.
+The model selects the next token based on these probabilities, appends the selected token, and then predicts the next token again. By repeating this process, it generates a sentence.
 
 Why does merely “predicting the next word” produce abilities that seem worthy of being called “intelligence”? Because to correctly predict the next word, the model must in some sense “understand” the content of the sentence. To predict “Tokyo” after “The capital of Japan is,” it needs geographic knowledge. To continue “According to the Pythagorean theorem,” it needs mathematical knowledge. In the process of learning “next-word prediction” from vast amounts of text, LLMs acquired not only patterns of language but also enormous amounts of knowledge about the world.
 
