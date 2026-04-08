@@ -66,14 +66,14 @@ What matters here is that vectorization transforms a language problem into a mat
 
 ### 12.3.3 The Limits of Word2Vec and the Arrival of BERT (2018)
 
-Word2Vec was a groundbreaking technology, but it had one major limitation. Because the same word always maps to the same vector, it cannot properly handle polysemous words whose meanings change depending on context.
+Word2Vec was a groundbreaking technology, but it had one major limitation. Because the same word always maps to the same vector, it cannot properly handle words with multiple meanings that change depending on context.
 
 For example, the English word “bank” changes meaning depending on context.
 
 - Sentence 1: "He sat by the bank of the river." (riverbank)
 - Sentence 2: "She deposited money in the bank." (financial institution)
 
-Japanese also has many polysemous words. For example, *amai* can mean sweetness in “This cake is sweet,” leniency in “The screening is too lenient,” or over-optimism in “That forecast is too optimistic.” Likewise, *atama* can refer to a body part in “My head hurts,” a leader in “the head of the organization,” or intelligence in “She is smart.” *Kin* can mean money, gold as a metal, or Friday, depending on context.
+Japanese also has many such words. For example, *amai* can mean sweetness in “This cake is sweet,” leniency in “The screening is too lenient,” or over-optimism in “That forecast is too optimistic.” Likewise, *atama* can refer to a body part in “My head hurts,” a leader in “the head of the organization,” or intelligence in “She is smart.” *Kin* can mean money, gold as a metal, or Friday, depending on context.
 
 But with Word2Vec, all of these different meanings of “bank,” *amai*, *atama*, and *kin* collapse into a single vector as long as the word form is the same. If even such simple words are treated without regard to context, there are clear limits to practical natural language processing.
 
