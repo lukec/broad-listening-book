@@ -66,7 +66,7 @@
 | ch10_05_litela_kai_tanaka | `10_05_litela_kai_tanaka.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed; fourth image should be translated) |
 | ch10_column_lessons_from_collecting_10000_voices | `column/lessons_from_collecting_10000_voices.md` | 2026-04-03 | `a05ec08` | Reviewed (passed; all images approved) |
 | ch10_column_fujitsu_enterprise_ai_for_public_comments | `column/fujitsu_enterprise_ai_for_public_comments.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed) |
-| ch10_broadlistening_business_remaining | `10_03_plural_reality.md` | — | — | Not reviewed |
+| ch10_broadlistening_business_remaining | `10_03_plural_reality.md` | 2026-04-08 | `e3aa55a` | Reviewed (passed; all images approved) |
 | ch11_global_broad_listening_trends | `11_global_broad_listening_trends.md` | 2026-04-03 | `e3aa55a` | Reviewed (looks good) |
 | ch11_01_taiwan | `11_01_taiwan.md` | 2026-04-04 | `88a7270` | Reviewed (passed) |
 | ch11_02_birth_of_polis | `11_02_birth_of_polis.md` | 2026-04-04 | `e063c72` | Reviewed (passed) |
@@ -123,6 +123,25 @@
 | ch06_03 | `06_03_ishin_scatter_june.png` | GOOD | Approved |
 | ch06_03 | `06_03_ishin_brolis_cluster_detail.png` | GOOD | Approved |
 | ch10_00 | `10_kouchouai_technical_genealogy.png` | NEEDS-WORK | Text review passed, but the figure should be translated into English |
+| ch10_03 | `10_03_baisoku_approach.png` | GOOD | Approved |
+| ch10_03 | `10_03_baisoku_consensus_output.png` | GOOD | Approved |
+| ch10_03 | `10_03_baisoku_dashboard.png` | GOOD | Approved |
+| ch10_03 | `10_03_baisoku_lp.png` | GOOD | Approved |
+| ch10_03 | `10_03_baisoku_report.png` | GOOD | Approved |
+| ch10_03 | `10_03_baisoku_setup.png` | GOOD | Approved |
+| ch10_03 | `10_03_dd2030_baisoku_ui.png` | GOOD | Approved |
+| ch10_03 | `10_03_dd2030_consensus_analysis.png` | GOOD | Approved |
+| ch10_03 | `10_03_dd2030_jibun_report.png` | GOOD | Approved |
+| ch10_03 | `10_03_dd2030_sensemaker_overview.png` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_idobata_issues.png` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_idobata_opinions.png` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_idobata_theme.png` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_idobata_top.png` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_meeting.jpg` | GOOD | Approved |
+| ch10_03 | `10_03_higashiosaka_smartphone.jpg` | GOOD | Approved |
+| ch10_03 | `10_03_tradeoff_dilemma.png` | GOOD | Approved |
+| ch10_03 | `10_03_yosano_kochoai_report.png` | GOOD | Approved |
+| ch10_03 | `10_03_yosano_meeting.jpeg` | GOOD | Approved |
 | ch06_05 | `06_05_WeConnect_workflow.jpg` | GOOD | Approved |
 | ch06_05 | `06_05_WeConnect_wordcloud.png` | GOOD | Approved |
 | ch06_05 | `06_05_WeConnect_policy_issues.png` | GOOD | Approved |
