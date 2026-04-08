@@ -31,7 +31,7 @@ The left side of the figure represents the approach that **“things used in sim
 
 The right side of the figure represents the approach that **“things that are close in distance are similar.”** Data is represented numerically as vectors, and similarity between data points is judged by measuring distance. Cosine similarity quantifies closeness, Ward’s method and K-means group nearby items together, and UMAP projects high-dimensional data down into two dimensions that humans can view.
 
-Slightly off to the side is the approach that **“values that are correlated are similar.”** PCA (principal component analysis) compresses dimensions by finding the directions in which the data spreads the most—that is, the directions with the strongest correlation.
+Slightly off to the side is the approach that **“values that vary together are related.”** PCA (principal component analysis) compresses dimensions by finding the directions in which the data varies the most.
 
 Broad listening AI is realized by combining these approaches. First, the input text is cleaned and formatted using an LLM from the left-side family of technologies, and Sentence-BERT converts the words into vectors. Next, right-side technologies (cosine similarity, clustering, and UMAP) measure distances, group similar items together, and visualize them. Then the process returns to the left side again, where an LLM assigns labels. This is the basic mechanism of broad listening AI.
 
