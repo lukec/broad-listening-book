@@ -5,6 +5,7 @@
 - Japanese manuscript is the source of truth.
 - English text is an LLM-first draft, then human-reviewed.
 - Reviews are tracked by section, date, and Japanese-source commit.
+- Full-book review pass complete: the entire English edition has now received a careful human reading pass, including non-content edits to use more natural English idiom, translation choices, and examples where they improved comprehension for English readers. All current images are acceptable for this edition, though they should be reconsidered again closer to publication.
 
 ## Workflow
 
@@ -22,6 +23,7 @@
 
 ## Open Tasks
 
+- Next step: turn the reviewed work in this fork into pull requests for consideration upstream.
 - TODO: Ensure every image in the English edition uses descriptive alt text beginning with `Figure: `. This is especially important for images that remain untranslated, where the alt text must clearly describe the figure's content in English.
 
 ## Review Log
@@ -59,7 +61,7 @@
 | ch09_02_cybozu | `09_02_cybozu.md` | 2026-04-02 | `e3aa55a` | Reviewed (good; images acceptable) |
 | ch09_column_testing_kocho_ai_through_review | `column/testing_kocho_ai_through_review.md` | 2026-04-02 | `566736c` | Reviewed (passed) |
 | ch10_broadlistening_business_intro | `10_broad_listening_as_a_business.md` | 2026-04-02 | `e3aa55a` | Reviewed (passed) |
-| ch10_00_dd2030_kocho_ai_development | `10_00_dd2030_kocho_ai_development.md` | 2026-04-02 | `e3aa55a` | Reviewed (good; one image should be translated) |
+| ch10_00_dd2030_kocho_ai_development | `10_00_dd2030_kocho_ai_development.md` | 2026-04-02 | `e3aa55a` | Reviewed (passed; image acceptable as-is, though it could still be improved) |
 | ch10_01_boots_inc | `10_01_boots_inc.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed) |
 | ch10_02_code_for_japan | `10_02_code_for_japan.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed; file is still a placeholder) |
 | ch10_04_democracy_x | `10_04_democracy_x.md` | 2026-04-03 | `e3aa55a` | Reviewed (passed) |
@@ -122,7 +124,7 @@
 | ch06_03 | `06_03_ishin_scatter_may.png` | GOOD | Approved |
 | ch06_03 | `06_03_ishin_scatter_june.png` | GOOD | Approved |
 | ch06_03 | `06_03_ishin_brolis_cluster_detail.png` | GOOD | Approved |
-| ch10_00 | `10_kouchouai_technical_genealogy.png` | NEEDS-WORK | Text review passed, but the figure should be translated into English |
+| ch10_00 | `10_kouchouai_technical_genealogy.png` | GOOD | Acceptable as-is after full-book review, though an English revision would still be preferable |
 | ch10_03 | `10_03_baisoku_approach.png` | GOOD | Approved |
 | ch10_03 | `10_03_baisoku_consensus_output.png` | GOOD | Approved |
 | ch10_03 | `10_03_baisoku_dashboard.png` | GOOD | Approved |
