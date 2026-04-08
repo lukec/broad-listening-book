@@ -12,7 +12,7 @@ By the end of this chapter, you will understand the following:
 - Technologies for organizing and visualizing large amounts of data
 - How these technologies are combined in broad listening AI
 
-For each technology, we will explain it from the perspective of “what goes in, what comes out, and what it can be used for.”
+For each technology, we explain its inputs, outputs, and uses.
 
 ---
 
