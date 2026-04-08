@@ -306,9 +306,9 @@ A practical way to address this issue in broad listening is to avoid dependence 
 
 ### 12.4.7 RAG: Strengthening LLMs with External Knowledge
 
-Broad Listening AI does not use RAG, but it is an important technology for understanding LLM-based systems, so we introduce it here.
-
 One response to the hallucination problem is RAG (Retrieval-Augmented Generation).
+
+Broad Listening AI does not use RAG, but it is an important technology for understanding LLM-based systems, so we introduce it here.
 
 The mechanism of RAG is simple. It searches a database or the web for information relevant to the user’s question, then passes that information to the LLM to generate an answer. This allows the LLM to answer based on retrieved information, even if it does not already “know” it itself.
 
