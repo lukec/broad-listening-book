@@ -242,7 +242,7 @@ Think back to the earlier French translation example. Only engineers who loved t
 
 Then, in November 2022, OpenAI released ChatGPT. Ask a question in ordinary language, and you get an answer back in ordinary language. That difference was decisive.
 
-The technical breakthrough that made ChatGPT possible was the combination of instruction tuning and RLHF. GPT-3 had been trained to “predict the next word,” but ChatGPT was additionally trained to “generate responses in human dialogue.”
+The technical breakthrough that made ChatGPT possible was the combination of instruction tuning and reinforcement learning from human feedback (RLHF). GPT-3 had been trained to “predict the next word,” but ChatGPT was additionally trained to “generate responses in human dialogue.”
 
 This made natural conversation possible while taking context into account. Even without showing few-shot examples, users could simply say “Please do X,” and the model could carry out the task.
 
