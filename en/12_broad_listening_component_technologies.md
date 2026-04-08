@@ -119,7 +119,7 @@ As an aside, this combination of “context vectors” and “cosine similarity�
 
 **[Column] What Is an Embedding?**
 
-The English word *embedding* means “to embed,” and in Japanese it is sometimes translated as “embedding” or “embedded representation.” But what exactly is being embedded into what?
+The word *embedding* literally means “to embed.” But what exactly is being embedded into what?
 
 In short, it means **forcibly bringing things from the world of language into the world of vectors**.
 
