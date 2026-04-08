@@ -74,8 +74,8 @@
 | ch11_04_israel_palestine_remesh_case | `11_04_israel_palestine_remesh_case.md` | 2026-04-05 | `e3aa55a` | Reviewed (passed; editorial note: ChatGPT feels the last paragraph is grounded in reality but "Not fully fair to both sides.") |
 | ch11_05_harnessing_connective_action | `11_05_harnessing_connective_action.md` | 2026-04-05 | `e3aa55a` | Reviewed (passed; first image replaced and approved) |
 | ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | 2026-04-07 | `2ff82d7` | Reviewed (passed) |
-| ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
-| ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
+| ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | 2026-04-08 | `33f7b77` | Reviewed (passed; all images approved) |
+| ch99_appendix | `99_appendix_public_cases.md` | 2026-04-08 | `215b438` | Reviewed (passed) |
 
 ## Image Review Log
 
@@ -169,6 +169,12 @@
 | ch11_03 | `column_bg2050_topic_detail.png` | GOOD | Approved |
 | ch11_03 | `column_bg2050_consensus.png` | GOOD | Approved |
 | ch11_05 | `11_05_collective_connective_action.png` | GOOD | Replaced during review and approved |
+| ch13 | `13_pipeline_overview.png` | GOOD | Approved |
+| ch13 | `13_ntv_spectral.png` | GOOD | Approved |
+| ch13 | `13_mini_kouchou_ai.png` | GOOD | Approved |
+| ch13 | `13_sentiment_weight_none.png` | GOOD | Approved |
+| ch13 | `13_sentiment_weight_applied.png` | GOOD | Approved |
+| ch13 | `13_divcon_opposition_view.png` | GOOD | Approved |
 | ch04_05 | `04_04_消費税減税SNS散布図.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
 | ch04_05 | `04_04_参院選投票日直前SNS意見分布.png` | MISSING | Referenced in `04_05_asahi_special_feature.md` but not present in `images/`; broken in generated HTML |
