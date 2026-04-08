@@ -73,7 +73,7 @@
 | ch11_03_bowling_green | `11_03_bowling_green.md` | 2026-04-04 | `4036eb2` | Reviewed (passed; all images approved) |
 | ch11_04_israel_palestine_remesh_case | `11_04_israel_palestine_remesh_case.md` | 2026-04-05 | `e3aa55a` | Reviewed (passed; editorial note: ChatGPT feels the last paragraph is grounded in reality but "Not fully fair to both sides.") |
 | ch11_05_harnessing_connective_action | `11_05_harnessing_connective_action.md` | 2026-04-05 | `e3aa55a` | Reviewed (passed; first image replaced and approved) |
-| ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | — | — | Not reviewed |
+| ch12_broadlistening_technology | `12_broad_listening_component_technologies.md` | 2026-04-07 | `2ff82d7` | Reviewed (passed) |
 | ch13_kocho_ai_tech_stack | `13_kocho_ai_tech_stack.md` | — | — | Not reviewed |
 | ch99_appendix | `99_appendix_public_cases.md` | — | — | Not reviewed |
 
